@@ -5,10 +5,10 @@ main:
     target: _self
   - title: "Machine Learning"
     url: /docs/machine_learning/
-    target: _blank
+    target: _self
   - title: "Community"
     url: /docs/community
-    target: _blank
+    target: _self
     
 # documentation links
 docs:
@@ -74,7 +74,7 @@ docs:
         url: /docs/techcommunity/
       - title: "Contribute"
         url: /docs/contribute/
-      - title: "Vision@Edge at Live Events"
+      - title: "Live Events"
         url: /docs/liveevents/
       - title: "Tutorials"
         url: /docs/tutorials/
