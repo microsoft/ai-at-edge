@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title:
 header:
-  overlay_color: "white"
+  overlay_color: ""
   overlay_image: /assets/images/MAIN_overlay.png
   image: /assets/images/MAIN_camera.png
   actions:
@@ -50,46 +50,46 @@ solutions_links:
   content:
     - image_path: assets/images/MAIN_build_hardware.png
       alt: ""
-      title: "Hardware"
-      excerpt: "Find resources and best practices for building intelligent edge capable hardware or find existing hardware or developer kits to get started with software development"
+      title: "Build hardware"
+      excerpt: "Find resources and best practices for building intelligent edge capable hardware. See options for SOCs, Operating Systems and learn about Certifying your devices for Azure"
       btn_label: " "
-      url: "/docs/hardware/"
-    - image_path: /assets/images/MAIN_ai2.png
+      url: "/docs/buildhardware/"
+    - image_path: /assets/images/MAIN_find_hardware.png
       alt: ""
-      title: "Machine Learning"
-      excerpt: "Edge devices are capable of running machine learning models in a device itself resulting to faster inferencing times. Learn about machine learning models, frameworks supported by different devices and tools for training models"
+      title: "Find hardware"
+      excerpt: "Find hardware that fits to your solution. See the portfolio of intelligent edge cameras and intelligent gateways. See the showcased devices and find code examples to get started in minutes"
       btn_label: " "
-      url: "/docs/machine_learning/"
-    - image_path: /assets/images/MAIN_azure_iot.png
+      url: "/docs/hardwarelist/"
+    - image_path: /assets/images/MAIN_devkits.png
       alt: ""
-      title: "Azure IoT"
-      excerpt: "Train in the cloud, Run on a device. Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
+      title: "Developer Kits"
+      excerpt: "Want to get a quick start for your camera project or do a proof of concept? Find developer kits that can be used as a target devices for testing your machine learning model and learn about the Azure IoT services"
       btn_label: " "
-      url: "/docs/azureiot/"
-# software:
-#   content:
-#     - title: Vision@Edge Software
-#     - excerpt: test writing here
-# software_links:
-#   content:
-#     - image_path: assets/images/MAIN_ai.png
-#       alt: ""
-#       title: "Machine learning for Vision"
-#       excerpt: Machine learning models for Vision. Edge devices are capable of running machine learning models in a device itself resulting to faster inferencing times. Learn about machine learning models for Vision, frameworks supported by different devices and tools for training models
-#       btn_label: " "
-#       url: "/docs/visionai/"
-#     - image_path: /assets/images/MAIN_Azure_resources.png
-#       alt: ""
-#       title: "Azure IoT Edge"
-#       excerpt: "Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
-#       btn_label: " "
-#       url: "/docs/azureresources/"
-#     - image_path: /assets/images/MAIN_find_assets.png
-#       alt: ""
-#       title: "Find assests"
-#       excerpt: "Find existing IoT Edge modules from Azure Marketplace, Vision AI models from community channels and other SW assets"
-#       btn_label: " "
-#       url: "/docs/findassests/"
+      url: "/docs/devkits/"
+software:
+  content:
+    - title: Vision@Edge Software
+    - excerpt: test writing here
+software_links:
+  content:
+    - image_path: assets/images/MAIN_ai2.png
+      alt: ""
+      title: "Machine learning for Vision"
+      excerpt: Machine learning models for Vision. Edge devices are capable of running machine learning models in a device itself resulting to faster inferencing times. Learn about machine learning models for Vision, frameworks supported by different devices and tools for training models
+      btn_label: " "
+      url: "/docs/visionai/"
+    - image_path: /assets/images/MAIN_Azure_resources.png
+      alt: ""
+      title: "Azure IoT Edge"
+      excerpt: "Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
+      btn_label: " "
+      url: "/docs/azureresources/"
+    - image_path: /assets/images/MAIN_find_assets.png
+      alt: ""
+      title: "Find assests"
+      excerpt: "Find existing IoT Edge modules from Azure Marketplace, Vision AI models from community channels and other SW assets"
+      btn_label: " "
+      url: "/docs/findassests/"
 interact:
   content:
     - title: Become part of the community
@@ -139,14 +139,14 @@ partner_links:
   </div>
 </div>
 </div>
-<!-- <div class="light-gray">
+<div class="light-gray">
 <div class="feature__wrapper">
     <h2 style="text-align: center;" class="landing-page-videos-title">Software and services</h2>
   <div class="landing-page-videos">
 {% include feature_row_1 id="software_links" %}
   </div>
 </div>
-</div> -->
+</div>
 <div class="white">
 <div class="feature__wrapper">
     <h2 style="text-align: center;" class="landing-page-videos-title">Interact</h2>

@@ -1,5 +1,5 @@
 # main links
-main: 
+main:
   - title: "Hardware"
     url: /docs/hardware/
     target: _self
