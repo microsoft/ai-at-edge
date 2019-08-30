@@ -1,0 +1,73 @@
+# main links
+main: 
+  - title: "Hardware"
+    url: /docs/hardware/
+    target: _self
+  - title: "Software"
+    url: /docs/software/
+    target: _blank
+  - title: "Community"
+    url: /docs/community
+    target: _blank
+    
+# documentation links
+docs:
+  - title: Hardware
+    url: /docs/hardware/
+    children:
+      - title: Build Hardware
+        url: /docs/buildhardware/
+        children:
+          - title: "Select SoC (System on Chip)"
+            url: /docs/soc/
+          - title: "Choose Operating System"
+            url: /docs/os/
+          - title: "Device certification"
+            url: /docs/certify/    
+      - title: Find Hardware
+        url: /docs/hardwarelist/
+        children:
+          - title: "Showcased hardware"
+            url: /docs/devkits/devices
+          - title: "Find Developer Kit"
+            url: /docs/devkits/
+          - title: "See public hardware pipeline"
+            url: /docs/hardwareroadmap/
+
+  - title: "Machine learning"
+    url: /docs/machine_learning/
+    children:
+      - title: "Frameworks and runtimes"
+        url: /docs/frameworks/
+      - title: "Find existing models"
+        url: /docs/existingassets/
+        children:
+          - title: "Azure Marketplace"
+            url: /docs/marketplace/
+          - title: "AI Gallery"
+            url: /docs/aigallery/
+      - title: "Customvision.ai"
+        url: /docs/customvision/
+      - title: "Azure Machine Learning"
+        url: /docs/aml/
+      - title: "Model conversion"
+        url: /docs/convert/
+
+  - title: "Azure IoT"
+    url: /docs/azureiot/
+    children:
+
+  - title: Vision@Edge Community
+    url: /docs/community/
+    children:
+      - title: "Join TechCommunity"
+        url: /docs/techcommunity/
+      - title: "Contribute"
+        url: /docs/contribute/
+      - title: "Vision@Edge at Live Events"
+        url: /docs/liveevents/
+      - title: "Tutorials"
+        url: /docs/tutorials/
+        
+  - title: Find Partners
+    url: /docs/matchmake/      

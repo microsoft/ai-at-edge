@@ -1,0 +1,134 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+remote_theme             : "mmistakes/minimal-mistakes@4.15.2"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "AI@Edge Community"
+title_separator          : "-"
+description              : &description "TBD"
+url                      : https://microsoft.github.io
+baseurl                  : "/AIAtEdge"
+repository               : "Microsoft/AI-At-Edge"
+words_per_minute         : 200
+logo                     : ""
+head_scripts             : []
+footer_scripts           : ["/assets/js/main.min.js", "/assets/js/scripts.js", "https://c.s-microsoft.com/mscc/statics/mscc-0.4.0.min.js"]
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Reading Files
+include:
+  - _pages
+  
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "docs"
+        include_tree: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: docs
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "docs/projects"
+        include_tree: true
+        
+# Outputting
+permalink: /:categories/:title/
+timezone: America/Los_Angeles
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-github-metadata
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-github-metadata
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+github: [metadata]
+
+# Analytics
+# google_site_verification: "UA-137900817-3"
+# bing_site_verification: "7FFAA2BF3CE3F4E565C0AF00D66AE7D4"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-137900817-3"
+    anonymize_ip: false # default

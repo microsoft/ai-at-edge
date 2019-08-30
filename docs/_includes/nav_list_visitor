@@ -1,0 +1,14 @@
+{%- assign visitor_node = include.node -%}
+{%- assign is_expanded = false -%}
+{%- if visitor_node.url == page.url -%}
+  {%- assign is_expanded = true -%}
+{%- else -%}
+  {%- for child in visitor_node.children -%}
+    {%- capture visitor_output -%}
+      {%- include nav_list_visitor node=child -%}
+    {%- endcapture -%}    
+    {%- if is_expanded -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif-%}

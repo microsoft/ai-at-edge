@@ -1,0 +1,31 @@
+{%- assign current_node = include.node -%}
+{%- include nav_list_visitor node=current_node -%}
+<li class="tree-item{% if is_expanded == true %} is-expanded{% endif %}{% if current_node.children != null %} has-children{% endif %}">
+  {% if current_node.url %}
+    {% comment %} internal/external URL check {% endcomment %}
+    {% if current_node.url contains "://" %}
+      {% assign current_node_url = current_node.url %}
+    {% else %}
+      {% assign current_node_url = current_node.url | relative_url %}
+    {% endif %}
+
+    {% comment %} set "active" class on current page {% endcomment %}
+    {% if child.url == page.url %}
+      {% assign active = "active" %}
+    {% else %}
+      {% assign active = "" %}
+    {% endif %}
+
+    <span class="nav__sub-title"><span class="fas fa-angle-right tree-expander-indicator"></span><a href="{{ current_node_url }}" class="{{ active }}">{{ current_node.title }}</a></span>
+  {% else %}
+    <span class="nav__sub-title"><span class="fas fa-angle-right tree-expander-indicator"></span>{{ current_node.title }}</span>
+  {% endif %}
+
+  {% if current_node.children != null %}
+  <ul>
+    {% for child in current_node.children %}
+      {%- include nav_list_children node=child -%}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</li>

@@ -1,0 +1,81 @@
+{% if include.id %}
+  {% assign feature_row_1 = page.[include.id] %}
+{% else %}
+  {% assign feature_row_1 = page.feature_row_1 %}
+{% endif %}
+
+<div class="{{ feature_row_1.class }}">
+<div class="feature__wrapper">
+
+  {% for f in feature_row_1.content %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if f.image_path %}
+          <div class="archive__item-teaser-2">
+            <img src=
+              {% if f.image_path contains "://" %}
+                "{{ f.image_path }}"
+              {% else %}
+                "{{ f.image_path | relative_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h3 class="archive__item-title">{{ f.title }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+
+          {% if f.attach %}
+            <hr>
+            <div class="archive__item-excerpt">
+              <p class="attach-words"> "{{ f.attach.words }}" </p>
+              <div class="author">
+                {% if f.attach.author.photo %}
+                  <div class="author-photo">
+                    <img src=
+                      {% if f.attach.author.photo contains "://" %}
+                        "{{ f.attach.author.photo }}"
+                      {% else %}
+                        "{{ f.attach.author.photo | absolute_url }}"
+                      {%endif %}
+                    >
+                  </div>
+                {% endif %}
+                <div class="author-inform">
+                  <p> {{ f.attach.author.name }} </p>
+                {% if f.attach.author.title %}
+                  <p> {{ f.attach.author.title }} </p>
+                {% endif %}
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+</div>
