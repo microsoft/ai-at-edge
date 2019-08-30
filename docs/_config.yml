@@ -72,7 +72,7 @@ defaults:
       sidebar:
         nav: "docs"
         include_tree: true
-  # _projects
+  # _projects - I think I may have added this when trying to get the projects to work(juniem)
   - scope:
       path: "_projects"
       type: docs

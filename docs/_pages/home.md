@@ -35,7 +35,7 @@ general_links:
       title: "Light Edge vs. Heavy Edge"
       excerpt: "Read about the options for implementation intelligent edge solution"
       btn_label: " "
-      url: "/docs/light_vs_heavy/"
+      url: "/docs/taxonomy/"
     - image_path: assets/images/MAIN_hw_acceleration.png
       alt: ""
       title: "HW Acceleration"

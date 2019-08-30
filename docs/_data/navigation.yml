@@ -3,8 +3,8 @@ main:
   - title: "Hardware"
     url: /docs/hardware/
     target: _self
-  - title: "Software"
-    url: /docs/software/
+  - title: "Machine Learning"
+    url: /docs/machine_learning/
     target: _blank
   - title: "Community"
     url: /docs/community
@@ -12,6 +12,16 @@ main:
     
 # documentation links
 docs:
+  - title: Intelligent Edge
+    url: /docs/aiatedge/
+    children:
+      - title: Edge Taxonomy
+        url: /docs/taxonomy/
+      - title: Hardware Capabilities
+        url: /docs/capabilities/
+      - title: HW Acceleration
+        url: /docs/hw_acceleration/
+
   - title: Hardware
     url: /docs/hardware/
     children:

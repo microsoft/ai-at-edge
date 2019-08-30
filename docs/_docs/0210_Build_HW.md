@@ -12,16 +12,12 @@ last_modified_at: 2019-06-14
 
 ## General
 
-There pages offer an entry point to best practices and examples for devices builders.
-
-Microsoft is continuously expanding Azure service offering making it easier to deploy devices at scale, 
+These pages offer guidance and best practices when building intelligent edge hardware. Hardware that is able to run AI models, process data and take actions without a roundtrip to the cloud. 
 
 How to select SoC (System on Chip)
 
 IoT Edge supported operating systems
 
-Fixed purpose or not?
+Enable deploying devices at scale
 
-Optimizing for industry use case
-
-Selecting the correct camera based on the industry use case
+Certify

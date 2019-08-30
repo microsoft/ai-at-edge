@@ -32,6 +32,7 @@ Intelligent Edge device that is expected to run complex AI algorithms in a devic
 ### Options for HW acceleration
 
 Here are the most common options for HW acceleration at the edge
+
 ![HW Acceleration]({{ '/assets/images/AI_hw_acceleration.png' | relative_url }})
 
 ## CPU
@@ -42,13 +43,15 @@ CPU is a general purpose processor and designed to do calculations related to ge
 
 GPU was originally designed to improve 2D and 3D rendering times, but nowadays it has multiple applications for example in scienticic research area. Compared to CPU, GPU has thousands of small cores that are designed to run calculations in parallel.
 
+## VPU - Video Processing Unit
+
 ## FPGA - Field Programmable Gate Array
 
 FPGA is an integrated circuit that is designed to the re-programmable where are CPU, GPU and DSP are application specific and cannot be programmed again. Essentially FPGA is not a processor like the others and doesn't run a program stored in it's memory. It's benefit is the ability to reprogram it and optimize it to unique tasks that processors are not designed for. FPGAs are also energy efficient compared to for example GPUs. Currently FPGAs are more popular in the heavier edge / gateway devices like Azure Databox Edge than in light edge devices like sensors.
 
 ## DSP (Digital Signal Processor)
 
-DSP is a custom intergrated circuit that is optimized from performance point of view for a specific application it's expected to run.
+DSP is a custom intergrated circuit that is optimized from performance point of view for a specific application it's expected to run. DSP often provides the best available performance, but it's a fixed purpose solution that can't be reprogrammed.
 
 ### Check out Channel9 video that talk about HW acceleration at Edge
 
