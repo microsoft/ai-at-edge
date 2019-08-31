@@ -5,7 +5,7 @@ title:
 header:
   overlay_color: "white"
   overlay_image: /assets/images/MAIN_overlay.png
-  image: /assets/images/MAIN_camera.png
+  # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Get started"
       url: ""
