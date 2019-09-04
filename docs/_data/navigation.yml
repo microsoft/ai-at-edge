@@ -41,8 +41,8 @@ docs:
             url: /docs/devkits/devices
           - title: "Find Developer Kit"
             url: /docs/devkits/
-          - title: "See public hardware pipeline"
-            url: /docs/hardwareroadmap/
+          # - title: "See public hardware pipeline"
+          #   url: /docs/hardwareroadmap/
 
   - title: "Machine learning"
     url: /docs/machine_learning/
@@ -67,17 +67,17 @@ docs:
     url: /docs/azureiot/
     children:
 
-  - title: Vision@Edge Community
+  - title: AI@Edge Community
     url: /docs/community/
     children:
       - title: "Join TechCommunity"
         url: /docs/techcommunity/
-      - title: "Contribute"
-        url: /docs/contribute/
+      # - title: "Contribute"
+      #   url: /docs/contribute/
       - title: "Live Events"
         url: /docs/liveevents/
-      - title: "Tutorials"
-        url: /docs/tutorials/
+      # - title: "Tutorials"
+      #   url: /docs/tutorials/
         
   - title: Find Partners
     url: /docs/matchmake/      

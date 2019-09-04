@@ -11,6 +11,3 @@ last_modified_at: 2019-06-14
 ---
 
 
-Add you cool content here
-
-

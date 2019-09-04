@@ -10,7 +10,24 @@ variable:
 last_modified_at: 2019-07-05
 ---
 
+## Live Events
 
-Add you cool content here
+Interested in hearing more about the opportunities AI@Edge enables. Join us in live events.
 
+## IoT in Action
 
+IoT in Action is a Microsoft hosted event where you'll gain actionable insights, deepen partnerships, and unlock the transformative potential of intelligent edge and intelligent cloud. There are several events hosted globally. Check them out and pick the one that works for your schedule.
+
+Read more about [IoT in Action](https://iotinactionevents.com/){:target="_blank"}
+
+## Upcoming events
+
+| Location | Time | Registration link |
+| :----------- |
+| Santa Clara, CA US | October 10th, 2019 | [Register](https://iotinactionevents.com/event/santa-clara?v=iot5d6fd9fcd51056.26635187&event_form_test=c){:target="_blank"} |
+| London, UK | October 15th, 2019 | [Register](https://iotinactionevents.com/event/london){:target="_blank"} |
+| Kanazawa, Japan | October 30th, 2019 | Registration opens soon |
+| Nagoya, Japan | November 5th, 2019 | Registration opens soon |
+| Aucklan, New Zealand | November 5th, 2019 | Registration opens soon |
+
+See [all the events](https://iotinactionevents.com/events/?v=iot5d6fd9fcd51056.26635187&event_form_test=c){:target="_blank"}

@@ -20,6 +20,7 @@ Start your camera search by familiarizing yourself with [showcased products]({{ 
 
 Azure device catalog showcases devices that have been certified for Azure Iot, IoT Edge and/or IoT Plug and Play. Selecting certified hardware guarantees device's compatibility with Azure IoT Hub and Azure cloud services
 
+Find [certified devices](https://catalog.azureiotsolutions.com/)
 
 
 

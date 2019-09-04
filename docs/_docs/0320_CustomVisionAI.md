@@ -21,10 +21,18 @@ Custom Vision is an Azure Cognitive Service for developers who want to customize
 
 This service provides an end-to-end platform for managing custom image understanding. Just upload a few labeled images and let Custom Vision do the hard work. 
 
+-[Get started](https://www.customvision.ai/)
+-[Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home)
 
 ## Options for export
 
+- Custom Vision allows exporting the AI model in different format. The compat models that are suited for edge devices as opposed in the cloud. Currently supported exports are:
+  - Tensorflow
+  - CoreML
+  - ONNX
+  - “dockerfile” (Tensorflow model wrapped in a container.)
+
 ## Pre-requisites
 
-- Azure account
+- Azure subscription
 

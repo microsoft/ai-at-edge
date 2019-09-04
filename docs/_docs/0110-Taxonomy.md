@@ -12,7 +12,7 @@ last_modified_at: 2019-05-28
 
 ## Azure Intelligent Edge and Cloud taxonomy
 
-While Intelligent Edge ultimately refers to the ability to run AI models, generate insights and take actions locally without relying to the cloud for data processing there is a wide spectrum of hardware options available for implementing an end to end solution. Below matrixes represent Microsoft's primary solution portfolio for different type of use cases. Typical end to end intelligent edge solution is a combination of multiple device categories and includes also cloud. Azure Sphere and IoT Devices represent a light edge and are incapable of running IoT Edge and containerized services. In the context of intelligent edge the require a smart gateway solution for further data processing, insights and actions.
+While Intelligent Edge and AI@Edge ultimately refer to the ability to run AI models, generate insights and take actions locally without relying to the cloud for data processing there is a wide spectrum of hardware options available for implementing an end to end solution. Below matrixes represent Microsoft's primary solution portfolio for different type of use cases. Typical end to end intelligent edge solution is a combination of multiple device categories and includes also cloud. Azure Sphere and IoT Devices represent a light edge and are incapable of running IoT Edge and containerized services. However, they are often included to the end-2-end solution. In the context of intelligent edge the require a smart gateway solution for further data processing, insights and actions.
 
 ![Edge taxonomy]({{ '/assets/images/MSFT_edge_taxonomy.PNG' | relative_url }})
 
@@ -36,6 +36,8 @@ IoT Devices refers to sensors that are capable of gathering and transferring dat
 ### Edge devices
 
 Edge device is a device that has one or multiple sensors and is capable of running AI model, process data and take actions without a roundtrip to cloud.
+
+A typical Edge device is described [here.]({{ '/docs/aiatedge/' | relative_url }})
 
 ### Edge appliances - [Azure Databox Edge](https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-overview)
 

@@ -1,7 +1,7 @@
 ---
-title: "Vision@Edge community resources"
+title: "AI@Edge community resources"
 permalink: /docs/community/
-excerpt: "Vision@Edge community resources"
+excerpt: "AI@Edge community resources"
 variable:
   - platform: windows
     name: Windows
