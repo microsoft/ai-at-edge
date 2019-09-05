@@ -10,8 +10,6 @@ variable:
 last_modified_at: 2019-06-14
 ---
 
-
-
 ## Show cased products
 
 Start your camera search by familiarizing yourself with [showcased products]({{ '/docs/devices' | relative_url }}). This products have tutorials and examples to get you started with running AI models. 

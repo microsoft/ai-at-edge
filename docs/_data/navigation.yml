@@ -16,7 +16,7 @@ docs:
     url: /docs/aiatedge/
     children:
       - title: Edge Taxonomy
-        url: /docs/taxonomy/
+        url: /docs/terminology/
       - title: Hardware Capabilities
         url: /docs/capabilities/
       - title: HW Acceleration

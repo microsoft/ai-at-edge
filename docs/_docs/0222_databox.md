@@ -23,7 +23,7 @@ Data Box Edge is a 1U rackmountable appliance. For more information take a look 
 
 | Solution example |
 | :----------- |
-| Get started quickly with a void detection example for retail. This solution is used to detect emtpy shelves in the retail store and alerting the staff. Assets can be found from [Intelligent Edge patterns GitHub](https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/edge-ai-void-detection){:target="_blank"} and they also contain and example for Azure Stack|
+| Get started quickly with a void detection example for retail. This solution is used to detect empty shelves in the retail store and alerting the staff. Assets can be found from [Intelligent Edge patterns GitHub](https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/edge-ai-void-detection){:target="_blank"} and it also contain an example for Azure Stack|
 
 | ![Standard IoT architecture]({{ '/assets/images/devices_databox_architecture.png' | relative_url }}) |
 
