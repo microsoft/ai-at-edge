@@ -12,15 +12,28 @@ main:
     
 # documentation links
 docs:
-  - title: Intelligent Edge
+  - title: AI@Edge
     url: /docs/aiatedge/
     children:
-      - title: Edge Taxonomy
+      - title: Edge Terminology
         url: /docs/terminology/
       - title: Hardware Capabilities
         url: /docs/capabilities/
       - title: HW Acceleration
         url: /docs/hw_acceleration/
+
+  - title: Examples
+    url: /docs/examples/
+    children:
+      - title: End-2-end solution examples
+        url: /docs/solution_examples/
+      - title: Show cased device examples
+        url: /docs/hw_examples/
+        children:
+          - title: Identify empty shelves with Azure Databox Edge
+            url: /docs/databox/
+          - title: Workplace safety
+            url: /docs/databox/
 
   - title: Hardware
     url: /docs/hardware/

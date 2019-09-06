@@ -101,12 +101,12 @@ partner_links:
       excerpt: Join Microsoft's Internet of Things community. Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, get help by asking questions and help others
       btn_label: " "
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
-    - image_path: /assets/images/MAIN_matchmake.png
+    - image_path: /assets/images/MAIN_events.png
       alt: ""
-      title: "Find partners"
-      excerpt: "Intelligent Edge value chain can be a long one consisting of a hardware manufacturer, solution integration and several SW providers. Find the most suitable partners for your specific needs"
+      title: "Live Events"
+      excerpt: "See the AI@Edge related live events with Microsoft's presence. Join and discuss about the topics of your interested face to face"
       btn_label: " "
-      url: "/docs/matchmake/"
+      url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.png
       alt: ""
       title: "Tutorials and labs"
