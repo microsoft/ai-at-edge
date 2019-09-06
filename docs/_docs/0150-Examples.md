@@ -35,7 +35,7 @@ example_links:
 
 ---
 
-Learn about the opportunities Microsoft's technology provides by familiaring yourself with examples. 
+Learn about the opportunities Microsoft's technology provides by familiaring yourself with examples. This page provides short cuts to technology examples, community projects that you can take as a starting point for your own development and Azure IoT demos to get a feel what an end-2-end solution will look like.
 
 <div class="white">
 <div class="feature__wrapper">
