@@ -1,6 +1,6 @@
 ﻿---
 layout: splash
-permalink: /
+permalink: /docs/old/
 title:
 header:
   overlay_color: ""

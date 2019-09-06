@@ -33,7 +33,7 @@ docs:
           - title: Identify empty shelves with Azure Databox Edge
             url: /docs/databox/
           - title: Workplace safety
-            url: /docs/databox/
+            url: /docs/visionaidevkit/
 
   - title: Hardware
     url: /docs/hardware/

@@ -19,6 +19,22 @@ excerpt:
 visionatedge_links:
   class: "light-gray"
 
+ai_edge_basics:
+  content:
+    - title: "What is AI@Edge community"
+      excerpt: AI@Edge community brings together hardware, artificial intelligence (AI) and Microsoft's Azure IoT services
+      image_path: /assets/images/MAIN_example.png
+      alt: Access examples
+      btn_label: "Learn more"
+      url: /docs/examples
+      btn_class: "btn--primary"
+      # attach: 
+      #   words: "Our membership has expresssed significant interest in developments that will bring advanced capabilities of ROS to industrial applications on the Windows platform and enable richer integration with other Microsoft tools."
+      #   author:
+      #     photo: /assets/images/ros-quote.png
+      #     name: Matthew M. Robinson
+      #     title: ROS-Industrial Consortium Americas
+
 general:
   content:
     - title: AI@Edge
@@ -66,30 +82,7 @@ solutions_links:
       excerpt: "Train in the cloud, Run on a device. Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
       btn_label: " "
       url: "/docs/azureiot/"
-# software:
-#   content:
-#     - title: Vision@Edge Software
-#     - excerpt: test writing here
-# software_links:
-#   content:
-#     - image_path: assets/images/MAIN_ai.png
-#       alt: ""
-#       title: "Machine learning for Vision"
-#       excerpt: Machine learning models for Vision. Edge devices are capable of running machine learning models in a device itself resulting to faster inferencing times. Learn about machine learning models for Vision, frameworks supported by different devices and tools for training models
-#       btn_label: " "
-#       url: "/docs/visionai/"
-#     - image_path: /assets/images/MAIN_Azure_resources.png
-#       alt: ""
-#       title: "Azure IoT Edge"
-#       excerpt: "Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
-#       btn_label: " "
-#       url: "/docs/azureresources/"
-#     - image_path: /assets/images/MAIN_find_assets.png
-#       alt: ""
-#       title: "Find assests"
-#       excerpt: "Find existing IoT Edge modules from Azure Marketplace, Vision AI models from community channels and other SW assets"
-#       btn_label: " "
-#       url: "/docs/findassests/"
+
 interact:
   content:
     - title: Become part of the community
@@ -114,6 +107,11 @@ partner_links:
       btn_label: " "
       url: "/docs/tutorials/"
 ---
+
+{% include feature_row id="ai_edge_basics" type="left" %}
+
+
+
 <div class="white">
 <div class="feature__wrapper">
   <h2 style="text-align: center;" font-size="1.25em" class="landing-page-videos-title">What is Vision@Edge Community?</h2>

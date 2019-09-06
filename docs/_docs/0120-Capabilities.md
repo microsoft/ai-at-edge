@@ -16,12 +16,12 @@ Below is a mapping of technical capabilities and architectural options to Micros
 
 | **Legend** | **Icon** | **Description** |
 | :----------- |
-| **Train** | ![Train]({{ '/assets/images/ICON_train.PNG' | relative_url }}) | <html><table width="50%"><tr><td>Ability to train AI models that are targeted to be run on the edge device </td></tr></table></html>|
-| **Run** | ![Run]({{ '/assets/images/ICON_run.PNG' | relative_url }}) | Ability to run an AI model |
-| **Collect data** | ![Collect]({{ '/assets/images/ICON_collect_data.PNG' | relative_url }}) |  |
-| **Generate data** | ![Generate]({{ '/assets/images/ICON_generate_data.PNG' | relative_url }}) | Ability to generate data even by having needed sensor in a device or a direct feed from an "dumb" sensor |
-| **Manage devices** | ![Manage]({{ '/assets/images/ICON_manage.PNG' | relative_url }}) | Ability to manage edge devices |
-
+| **Collect** | ![Collect]({{ '/assets/images/ICON_generate_data.PNG' | relative_url }}) | Collect raw data |
+| **Run** | ![Run]({{ '/assets/images/ICON_run.PNG' | relative_url }}) | Run AI model |
+| **Insights** | ![Insights]({{ '/assets/images/ICON_insights.PNG' | relative_url }}) | Produce insights based on AI |
+| **Actions** | ![Actions]({{ '/assets/images/ICON_actions.PNG' | relative_url }}) | Take action based on insights |
+| **Manage devices** | ![Manage]({{ '/assets/images/ICON_manage.PNG' | relative_url }}) | Manage edge devices |
+| **Train** | ![Train]({{ '/assets/images/ICON_train.PNG' | relative_url }}) | Train AI models |
 
 <!-- | **Functions** | **Train** | **Run** | **Collect data** | **Generate data** | **Manage devices** |
 | :----------- |
