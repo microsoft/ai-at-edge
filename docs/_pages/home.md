@@ -13,27 +13,21 @@ header:
       url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
 title: Welcome to AI@Edge community!
 excerpt:
-  Welcome to AI@Edge community!
-  A community that pulls together hardware, AI and software assests required to create intelligent edge solutions that can run machine learning in the device.
-
+  Welcome to AI@Edge community! 
+ 
 visionatedge_links:
   class: "light-gray"
 
 ai_edge_basics:
   content:
     - title: "What is AI@Edge community"
-      excerpt: AI@Edge community brings together hardware, artificial intelligence (AI) and Microsoft's Azure IoT services
+      excerpt:  AI@Edge community portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge! Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.
       image_path: /assets/images/MAIN_example.png
+      image_url: /docs/examples
       alt: Access examples
       btn_label: "Learn more"
-      url: /docs/examples
+      url: /docs/aiatedge
       btn_class: "btn--primary"
-      # attach: 
-      #   words: "Our membership has expresssed significant interest in developments that will bring advanced capabilities of ROS to industrial applications on the Windows platform and enable richer integration with other Microsoft tools."
-      #   author:
-      #     photo: /assets/images/ros-quote.png
-      #     name: Matthew M. Robinson
-      #     title: ROS-Industrial Consortium Americas
 
 general:
   content:
@@ -112,15 +106,15 @@ partner_links:
 
 
 
-<div class="white">
+<!-- <div class="white">
 <div class="feature__wrapper">
-  <h2 style="text-align: center;" font-size="1.25em" class="landing-page-videos-title">What is Vision@Edge Community?</h2>
+  <h2 style="text-align: center;" font-size="1.25em" class="landing-page-videos-title">What is AI@Edge Community?</h2>
   <h3 style="text-align: center;" class="landing-page-videos-title">Vision@Edge community portal is a collection of resources that allow you develop assets and solutions that utilize cameras and are intelligent in the edge!
   Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.</h3>
   <div class="landing-page-videos">
 {% include feature_row id="visionatedge_links" type="single" %}
 </div>
-</div>
+</div> -->
 <div class="light-gray">
 <div class="feature__wrapper">
     <h2 style="text-align: center;" class="landing-page-videos-title">AI@Edge</h2>

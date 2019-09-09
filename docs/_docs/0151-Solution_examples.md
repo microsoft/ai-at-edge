@@ -13,7 +13,7 @@ last_modified_at: 2019-05-28
 
 ## Example hardware architectures for end-2-end solutions
 
-Following examples introduce different options for setting up the hardware environment and related Azure solution for end to end customer scenario.
+Following examples introduce different options for setting up the hardware environment and related Azure solution for end to end customer scenario. In the beginning of each example there is an illustration in which hardware element different tasks are executed. In the intelligent edge scenarios running an AI model, generating insights and triggering an action based on insights happens in the edge device instead of in the cloud. ![Legend]({{ '/assets/images/ICON_legend.PNG' | relative_url }})
 
 ### Workplace safety in manufacturing site
 

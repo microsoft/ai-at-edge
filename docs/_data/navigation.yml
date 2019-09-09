@@ -32,8 +32,12 @@ docs:
         children:
           - title: Identify empty shelves with Azure Databox Edge
             url: /docs/databox/
-          - title: Workplace safety
+          - title: Workplace safety with Vision AI Dev Kit
             url: /docs/visionaidevkit/
+          - title: Run ONNX model with Jetson Nano
+            url: /docs/jetsonnano/
+          - title: Run ONNX model with Intel UP Squared
+            url: /docs/up2/
 
   - title: Hardware
     url: /docs/hardware/
@@ -64,11 +68,11 @@ docs:
         url: /docs/frameworks/
       - title: "Find existing models"
         url: /docs/existingassets/
-        children:
-          - title: "Azure Marketplace"
-            url: /docs/marketplace/
-          - title: "AI Gallery"
-            url: /docs/aigallery/
+        # children:
+        #   - title: "Azure Marketplace"
+        #     url: /docs/marketplace/
+        #   - title: "AI Gallery"
+        #     url: /docs/aigallery/
       - title: "Customvision.ai"
         url: /docs/customvision/
       - title: "Azure Machine Learning"
