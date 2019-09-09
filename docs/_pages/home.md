@@ -7,13 +7,13 @@ header:
   overlay_image: /assets/images/MAIN_overlay.png
   # image: /assets/images/MAIN_camera.png
   actions:
-    - label: "Get started"
-      url: ""
-    - label: "Join the community"
-      url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
+    - label: "Learn more"
+      url: "/docs/aiatedge/"
+    # - label: "Join the community"
+    #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
 title: Welcome to AI@Edge community!
 excerpt:
-  Welcome to AI@Edge community! 
+  AI@Edge community portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge!
  
 visionatedge_links:
   class: "light-gray"
@@ -21,7 +21,7 @@ visionatedge_links:
 ai_edge_basics:
   content:
     - title: "What is AI@Edge community"
-      excerpt:  AI@Edge community portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge! Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.
+      excerpt:  AI@Edge community portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge!  Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.
       image_path: /assets/images/MAIN_example.png
       image_url: /docs/examples
       alt: Access examples
@@ -42,16 +42,16 @@ general_links:
       url: "/docs/aiatedge/"
     - image_path: assets/images/MAIN_light_heavy.PNG
       alt: ""
-      title: "Light Edge vs. Heavy Edge"
-      excerpt: "Read about the options for implementation intelligent edge solution"
+      title: "Choosing the right HW architecture patterns"
+      excerpt: "Read about high level HW architecture options for implementation intelligent edge solution"
       btn_label: " "
-      url: "/docs/taxonomy/"
-    - image_path: assets/images/MAIN_hw_acceleration.png
+      url: "/docs/terminology/"
+    - image_path: assets/images/MAIN_examples_icon.png
       alt: ""
-      title: "HW Acceleration"
-      excerpt: "The most common hardware acceleration options for edge computing"
+      title: "Get started with examples"
+      excerpt: "Get start quickly with hardward, machine learning or solution building by using a collection of examples"
       btn_label: " "
-      url: "/docs/hw_acceleration/"
+      url: "/docs/examples/"
 
 solutions:
   content:
@@ -60,19 +60,19 @@ solutions_links:
   content:
     - image_path: assets/images/MAIN_build_hardware.png
       alt: ""
-      title: "Hardware"
+      title: "Build or find an AI@Edge Device"
       excerpt: "Find resources and best practices for building intelligent edge capable hardware or find existing hardware or developer kits to get started with software development"
       btn_label: " "
       url: "/docs/hardware/"
     - image_path: /assets/images/MAIN_ai2.png
       alt: ""
-      title: "Machine Learning"
+      title: "Train an AI model"
       excerpt: "Edge devices are capable of running machine learning models in a device itself resulting to faster inferencing times. Learn about machine learning models, frameworks supported by different devices and tools for training models"
       btn_label: " "
       url: "/docs/machine_learning/"
     - image_path: /assets/images/MAIN_azure_iot.png
       alt: ""
-      title: "Azure IoT"
+      title: "Operate and maintain an AI@Edge solution"
       excerpt: "Train in the cloud, Run on a device. Run containerized cloud services in a device for faster turnaround time, offline capabilities and funnel the data that eventually gets sent to the cloud. IoT Edge enables running several services that are typically run in cloud also in an edge device"
       btn_label: " "
       url: "/docs/azureiot/"
@@ -84,25 +84,25 @@ partner_links:
   content:
     - image_path: assets/images/MAIN_community.png
       alt: ""
-      title: "Join Vision@Edge community"
+      title: "Join AI@Edge community"
       excerpt: Join Microsoft's Internet of Things community. Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, get help by asking questions and help others
       btn_label: " "
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
     - image_path: /assets/images/MAIN_events.png
       alt: ""
-      title: "Live Events"
+      title: "Participate to Live Events"
       excerpt: "See the AI@Edge related live events with Microsoft's presence. Join and discuss about the topics of your interested face to face"
       btn_label: " "
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.png
       alt: ""
-      title: "Tutorials and labs"
+      title: "Learn using Tutorials and labs"
       excerpt: "Get started quickly by following easy to use tutorials and labs."
       btn_label: " "
       url: "/docs/tutorials/"
 ---
-
-{% include feature_row id="ai_edge_basics" type="left" %}
+<!-- 
+{% include feature_row id="ai_edge_basics" type="left" %} -->
 
 
 

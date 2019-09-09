@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Hardware"
+  - title: "AI@Edge devices"
     url: /docs/hardware/
     target: _self
   - title: "Machine Learning"
@@ -15,19 +15,17 @@ docs:
   - title: AI@Edge
     url: /docs/aiatedge/
     children:
-      - title: Edge Terminology
+      - title: Understand HW terminology
         url: /docs/terminology/
-      - title: Hardware Capabilities
+      - title: Learn about HW architecture solution options
         url: /docs/capabilities/
-      - title: HW Acceleration
-        url: /docs/hw_acceleration/
 
-  - title: Examples
+  - title: Get started with examples
     url: /docs/examples/
     children:
       - title: End-2-end solution examples
         url: /docs/solution_examples/
-      - title: Show cased device examples
+      - title: Device & solution examples
         url: /docs/hw_examples/
         children:
           - title: Identify empty shelves with Azure Databox Edge
@@ -39,19 +37,17 @@ docs:
           - title: Run ONNX model with Intel UP Squared
             url: /docs/up2/
 
-  - title: Hardware
+  - title: Build and find AI@Edge devices
     url: /docs/hardware/
     children:
-      - title: Build Hardware
+      - title: Build devices
         url: /docs/buildhardware/
         children:
-          - title: "Select SoC (System on Chip)"
-            url: /docs/soc/
           - title: "Choose Operating System"
             url: /docs/os/
           - title: "Device certification"
             url: /docs/certify/    
-      - title: Find Hardware
+      - title: Find devices
         url: /docs/hardwarelist/
         children:
           - title: "Showcased hardware"
@@ -60,8 +56,10 @@ docs:
             url: /docs/devkits/
           # - title: "See public hardware pipeline"
           #   url: /docs/hardwareroadmap/
+      - title: HW Acceleration
+        url: /docs/hw_acceleration/
 
-  - title: "Machine learning"
+  - title: "Build an AI model"
     url: /docs/machine_learning/
     children:
       - title: "Frameworks and runtimes"
@@ -80,21 +78,21 @@ docs:
       - title: "Model conversion"
         url: /docs/convert/
 
-  - title: "Azure IoT"
+  - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/
     children:
 
-  - title: AI@Edge Community
+  - title: Become part of AI@Edge Community
     url: /docs/community/
     children:
       - title: "Join TechCommunity"
         url: /docs/techcommunity/
       # - title: "Contribute"
       #   url: /docs/contribute/
-      - title: "Live Events"
+      - title: "Participate to Live Events"
         url: /docs/liveevents/
       # - title: "Tutorials"
       #   url: /docs/tutorials/
         
-  - title: Find Partners
-    url: /docs/matchmake/      
+  # - title: Find Partners
+  #   url: /docs/matchmake/      
