@@ -49,11 +49,11 @@ docs:
             url: /docs/certify/    
       - title: Find devices
         url: /docs/hardwarelist/
-        children:
-          - title: "Showcased hardware"
-            url: /docs/devkits/devices
-          - title: "Find Developer Kit"
-            url: /docs/devkits/
+        # children:
+        #   - title: "Showcased hardware"
+        #     url: /docs/devkits/devices
+        #   - title: "Find Developer Kit"
+        #     url: /docs/devkits/
           # - title: "See public hardware pipeline"
           #   url: /docs/hardwareroadmap/
       - title: HW Acceleration
@@ -71,10 +71,10 @@ docs:
         #     url: /docs/marketplace/
         #   - title: "AI Gallery"
         #     url: /docs/aigallery/
-      - title: "Customvision.ai"
-        url: /docs/customvision/
       - title: "Azure Machine Learning"
         url: /docs/aml/
+      - title: "Customvision.ai"
+        url: /docs/customvision/
       - title: "Model conversion"
         url: /docs/convert/
 

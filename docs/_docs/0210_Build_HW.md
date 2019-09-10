@@ -14,8 +14,6 @@ last_modified_at: 2019-06-14
 
 These pages offer guidance and best practices when building intelligent edge hardware - hardware that is able to run AI models, process data and take actions without a roundtrip to the cloud. 
 
-How to select SoC (System on Chip)
-
 IoT Edge supported operating systems
 
 Enable deploying devices at scale

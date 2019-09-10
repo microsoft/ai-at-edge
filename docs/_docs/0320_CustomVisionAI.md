@@ -10,7 +10,6 @@ variable:
 last_modified_at: 2019-06-14
 ---
 
-
 ## Custom Vision - Easily tailor computer vision for your use case
 
 - [Custom Vision](https://www.customvision.ai/) can be considered the easiest way to get started when creating a machine learning model for Vision that when run in a smart camera recognized images or objects

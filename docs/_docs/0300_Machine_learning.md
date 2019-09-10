@@ -15,9 +15,11 @@ last_modified_at: 2019-06-14
 
 In short machine learning is a science that provides a computer the ability to learn without being explicitly programmed. It's based on the usage of algorithms that analyze data, learn from it and make a specified prediction. Running machine learning models requires often a lot of computing power and it is common to run them algorithms, AI models, in the cloud. Edge computing brings that capability to the devices
 
-## Explain journey 
+## Creating an AI model 
 
-.. get data, label, train..
+There are standard
+
+
 
 | **Vision** | **Audio** | **Telemetry** |
 | :----------- |
