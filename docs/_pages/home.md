@@ -42,7 +42,7 @@ general_links:
       url: "/docs/aiatedge/"
     - image_path: assets/images/MAIN_light_heavy.PNG
       alt: ""
-      title: "Choosing the right HW architecture patterns"
+      title: "Choosing the right HW topology"
       excerpt: "Read about high level HW architecture options for implementation intelligent edge solution"
       btn_label: " "
       url: "/docs/terminology/"
@@ -104,17 +104,7 @@ partner_links:
 <!-- 
 {% include feature_row id="ai_edge_basics" type="left" %} -->
 
-
-
-<!-- <div class="white">
-<div class="feature__wrapper">
-  <h2 style="text-align: center;" font-size="1.25em" class="landing-page-videos-title">What is AI@Edge Community?</h2>
-  <h3 style="text-align: center;" class="landing-page-videos-title">Vision@Edge community portal is a collection of resources that allow you develop assets and solutions that utilize cameras and are intelligent in the edge!
-  Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.</h3>
-  <div class="landing-page-videos">
-{% include feature_row id="visionatedge_links" type="single" %}
-</div>
-</div> -->
+<!-- <div class="bgimg"> -->
 <div class="light-gray">
 <div class="feature__wrapper">
     <h2 style="text-align: center;" class="landing-page-videos-title">AI@Edge</h2>
