@@ -18,16 +18,16 @@ In short machine learning is a science that provides a computer the ability to l
 ## Creating an AI model 
 
 There are standard
+![ML flow]({{ '/assets/images/ML_flow.png' | relative_url }})
 
+## Characteristics of main machine learning use cases
 
-
-| **Vision** | **Audio** | **Telemetry** |
+| | **Vision** | **Audio** | **Telemetry** |
 | :----------- |
-| ![Vision]({{ '/assets/images/ICON_vision.png' | relative_url }}) | ![Audio]({{ '/assets/images/ICON_audio.png' | relative_url }}) | ![Telemetry]({{ '/assets/images/ICON_telemetry.png' | relative_url }}) |
-| Vision AI is specialized machine learning for images and video that allows you to transform camera input into labels and objects that you can use in your applications and busineses logic. | Machine learning solutions for audio can be further categorized into two main subcategories - speech to text used for example by smart assistant and anomaly detection based on sound | Telemetry refers to numeric data received from multiple different kinds of sensors. Telemetry data can reflect for example temperature or pressure. |
-
-
-
+| | ![Vision]({{ '/assets/images/ICON_vision.png' | relative_url }}) | ![Audio]({{ '/assets/images/ICON_audio.png' | relative_url }}) | ![Telemetry]({{ '/assets/images/ICON_telemetry.png' | relative_url }}) |
+| **Summary** | Vision AI is specialized machine learning for images and video that allows you to transform camera input into labels and objects that you can use in your applications and busineses logic. | Machine learning solutions for audio can be further categorized into two main subcategories - speech to text used for example by smart assistant and anomaly detection based on sound | Telemetry refers to numeric data received from multiple different kinds of sensors. Telemetry data can reflect for example temperature or pressure. |
+| **Typical use cases** | Workplace safety, Retail, Quality control (anommaly detection), Smart home/building/city, Access control | Speech to text, anomaly detection (predective maintenance) | 
+| **Main challenges** | Large amounts of data, HW acceleration needed for real time inferencing | Speech to text: Microphone and model dependency | Building a model often requires in depth machine learning knowledge. Limited amount of tools available. |
 
 <!-- ## Custom vision - get started with Vision AI
 

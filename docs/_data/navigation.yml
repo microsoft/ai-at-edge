@@ -65,7 +65,7 @@ docs:
       - title: "Frameworks and runtimes"
         url: /docs/frameworks/
       - title: "Find existing models"
-        url: /docs/existingassets/
+        url: /docs/find_ml/
         # children:
         #   - title: "Azure Marketplace"
         #     url: /docs/marketplace/
