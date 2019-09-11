@@ -75,8 +75,8 @@ docs:
         url: /docs/aml/
       - title: "Customvision.ai"
         url: /docs/customvision/
-      - title: "Model conversion"
-        url: /docs/convert/
+      # - title: "Model conversion"
+      #   url: /docs/convert/
 
   - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/
