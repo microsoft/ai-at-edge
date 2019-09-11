@@ -10,7 +10,8 @@
     {% endif %}
 
     {% comment %} set "active" class on current page {% endcomment %}
-    {% if child.url == page.url %}
+    {%- assign pageUrlTrailingSlash = page.url | append: '/' -%}
+    {% if child.url == page.url or child.url == pageUrlTrailingSlash %}
       {% assign active = "active" %}
     {% else %}
       {% assign active = "" %}
