@@ -13,7 +13,7 @@ header:
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
 title: Welcome to AI@Edge community!
 excerpt:
-  The AI@Edge Community portal can help you find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
+  Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
 visionatedge_links:
   class: "light-gray"
