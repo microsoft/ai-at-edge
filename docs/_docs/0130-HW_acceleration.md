@@ -14,7 +14,7 @@ general:
     - title: HW Acceleration at Edge
 general_links:
   content:
-    - image_path: /assets/images/AI_Channel9_HW_acceleration.png
+    - image_path: /assets/images/AI_Channel9_HW_acceleration.PNG
       alt: ""
       title: ""
       excerpt: ""
@@ -33,7 +33,7 @@ Intelligent Edge device that is expected to run complex AI algorithms in a devic
 
 Here are the most common options for HW acceleration at the edge
 
-![HW Acceleration]({{ '/assets/images/AI_hw_acceleration.png' | relative_url }})
+![HW Acceleration]({{ '/assets/images/AI_hw_acceleration.PNG' | relative_url }})
 
 ## CPU
 
