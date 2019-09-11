@@ -1,15 +1,12 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+/* ==========================================================================
+   Default skin
+   ========================================================================== */
 
+/* Colors */
 $primary-color: #006699 !default;
+$active-color: mix(#fff, $primary-color, 80%) !default;
+$google-plus-color: #dd4b39 !default;
 $footer-background-color: #393939 !default;
-
-
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 .layout--single{
     #page-title{
@@ -227,5 +224,12 @@ article{
             margin-left: 5px;
         }
 
+    }
+
+    .nav__items {
+      .active {
+        font-weight: bolder !important;
+        color: #006699 !important;
+      }
     }
 }
