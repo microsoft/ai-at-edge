@@ -35,6 +35,7 @@ general:
 general_links:
   content:
     - image_path: assets/images/MAIN_aiatedge.png
+      background_image: assets/images/MAIN_aiatedge.png
       alt: ""
       title: "What is AI@Edge?"
       excerpt: "What is the difference between traditional IoT device and intelligent edge"
