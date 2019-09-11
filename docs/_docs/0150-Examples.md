@@ -14,19 +14,19 @@ examples:
     - title: See examples
 example_links:
   content:
-    - image_path: assets/images/EXAMPLE_setup.png
+    - image_path: assets/images/EXAMPLE_setup.PNG
       alt: ""
       title: "Identify architecture opportunities"
       excerpt: "Get familiar with main building blocks of an intelligent edge solutions and get familiar with high level hardware architecture options"
       btn_label: " "
       url: "/docs/solution_examples/"
-    - image_path: /assets/images/EXAMPLE_hw.png
+    - image_path: /assets/images/EXAMPLE_hw.PNG
       alt: ""
       title: "Get started with devices and machine learning"
       excerpt: "Kick-start your development with a device and proven setup for machine learning."
       btn_label: " "
       url: "/docs/hw_examples/"
-    - image_path: /assets/images/EXAMPLE_azureiot.png
+    - image_path: /assets/images/EXAMPLE_azureiot.PNG
       alt: ""
       title: "Azure IoT demos"
       excerpt: "See demos and product examples for Azure IoT implementations"

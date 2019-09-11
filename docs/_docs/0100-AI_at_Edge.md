@@ -15,7 +15,7 @@ last_modified_at: 2019-05-28
 ### Traditional IoT architecture
 In a traditional Internet of Things (IoT) device setup a device that has one or multiple sensors sends all the data it generates to the cloud for insights and actions. These insights often include refining the data set and running AI models in the cloud in order to, for example, identify anomalies. Insights are followed by actions taken based on the analysis of the data. Some of the actions are communicated to the device (or to another device) while others are performed in the cloud.
 
-![Standard IoT architecture]({{ '/assets/images/AI_IoT.png' | relative_url }})
+![Standard IoT architecture]({{ '/assets/images/AI_IoT.PNG' | relative_url }})
 
 Traditional Internet of Things architecture
 
@@ -36,6 +36,6 @@ Intelligent Edge is a term used to refer bringing the cloud (processing AI algor
 
 Here is a simplified high level Intelligent Edge device architecture
 
-![Standard IoT architecture]({{ '/assets/images/AI_Intelligent_Edge.png' | relative_url }})
+![Standard IoT architecture]({{ '/assets/images/AI_Intelligent_Edge.PNG' | relative_url }})
 
 Intelligent Edge device architecture

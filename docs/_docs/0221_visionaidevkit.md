@@ -1,6 +1,6 @@
 ---
 title: "Vision AI dev Kit"
-permalink: /docs/visionaidevkit
+permalink: /docs/visionaidevkit/
 excerpt: "Vision AI dev Kit"
 variable:
   - platform: windows

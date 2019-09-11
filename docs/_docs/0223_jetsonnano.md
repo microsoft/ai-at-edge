@@ -1,6 +1,6 @@
 ---
 title: "Run ONNX model with Jetson Nano"
-permalink: /docs/jetsonnano
+permalink: /docs/jetsonnano/
 excerpt: "Run ONNX model with Jetson Nano"
 variable:
   - platform: windows

@@ -1,6 +1,6 @@
 ---
 title: "Detect empty shelves in retail store with Azure Databox Edge"
-permalink: /docs/databox
+permalink: /docs/databox/
 excerpt: "Detect empty shelves in retail store with Azure Databox Edge"
 variable:
   - platform: windows
