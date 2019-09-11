@@ -14,8 +14,8 @@ title                    : "AI@Edge Community"
 title_separator          : "-"
 description              : &description "TBD"
 url                      : https://microsoft.github.io
-baseurl                  : "/AI-At-Edge"
-repository               : "Microsoft/AI-At-Edge"
+baseurl                  : "/ai-at-edge"
+repository               : "microsoft/ai-at-edge"
 words_per_minute         : 200
 logo                     : "favicon.ico"
 head_scripts             : []
