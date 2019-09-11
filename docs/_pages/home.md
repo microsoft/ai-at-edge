@@ -4,7 +4,7 @@ permalink: /
 title:
 header:
   overlay_color: "white"
-  overlay_image: /assets/images/MAIN_overlay.png
+  overlay_image: /assets/images/MAIN_overlay.PNG
   # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
@@ -41,7 +41,7 @@ general_links:
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       btn_label: " "
       url: "/docs/aiatedge/"
-    - image_path: assets/images/MAIN_light_heavy.PNG
+    - image_path: assets/images/MAIN_light_heavy.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
