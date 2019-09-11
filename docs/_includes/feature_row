@@ -1,13 +1,12 @@
 {% if include.id %}
-  {% assign feature_row = page.[include.id] %}
+  {% assign feature_row = page[include.id] %}
 {% else %}
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
-<div class="{{ feature_row.class }}">
 <div class="feature__wrapper">
 
-  {% for f in feature_row.content %}
+  {% for f in feature_row %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
@@ -17,19 +16,42 @@
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-        {% if f.image_path %}
+        {% if f.video_path %}
           <div class="archive__item-teaser">
-            <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
-              {% else %}
-                "{{ f.image_path | relative_url }}"
-              {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
+            <video id="azuremediaplayer" class="azuremediaplayer amp-default-skin amp-big-play-centered" tabindex="0"
+              {% if f.video_poster %}
+              poster=
+                {% if f.video_poster contains "://" %}
+                  "{{ f.video_poster }}"
+                {% else %}
+                  "{{ f.video_poster | relative_url }}"
+                {% endif %}
+              {% endif%}>
+              <source src={% if f.video_path contains "://" %}
+                            "{{ f.video_path }}"
+                          {% else %}
+                            "{{ f.video_path | relative_url }}"
+                          {% endif %} type="video/mp4" />
+              <p class="amp-no-js">
+                  {% if f.alt %}
+                    {{ f.alt }}
+                  {% else %}
+                    To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+                  {% endif %}
+              </p>
+            </video>
+            <script>
+                var myOptions = {
+                    "nativeControlsForTouch": false,
+                    controls: true,
+                    autoplay: false,
+                    width: "100%",
+                    height: "auto"
+                }
+                myPlayer = amp("azuremediaplayer", myOptions);
+                </script>
           </div>
+        {% else if f.image_path %}
         {% endif %}
 
         <div class="archive__item-body">
@@ -46,36 +68,9 @@
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
-
-          {% if f.attach %}
-            <hr>
-            <div class="archive__item-excerpt">
-              <p class="attach-words"> "{{ f.attach.words }}" </p>
-              <div class="author">
-                {% if f.attach.author.photo %}
-                  <div class="author-photo">
-                    <img src=
-                      {% if f.attach.author.photo contains "://" %}
-                        "{{ f.attach.author.photo }}"
-                      {% else %}
-                        "{{ f.attach.author.photo | absolute_url }}"
-                      {%endif %}
-                    >
-                  </div>
-                {% endif %}
-                <div class="author-inform">
-                  <p> {{ f.attach.author.name }} </p>
-                {% if f.attach.author.title %}
-                  <p> {{ f.attach.author.title }} </p>
-                {% endif %}
-                </div>
-              </div>
-            </div>
-          {% endif %}
         </div>
       </div>
     </div>
   {% endfor %}
 
-</div>
 </div>

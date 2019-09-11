@@ -2,10 +2,21 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$primary-color: #006699 !default;
+$footer-background-color: #393939 !default;
+
+
 @charset "utf-8";
-$masthead-link-color: #4B5054;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.layout--single{
+    #page-title{
+        color: #ffffff;
+        padding: 2em 0em 2em .5em;
+    }
+}
 
 article{
     .page__inner-wrap {
@@ -14,135 +25,71 @@ article{
         dl {
         }
         header {
-            background-image: url("general_background.PNG");
+            background-image: url("/AIAtEdge/assets/images/general_background.png");
             background-position: center;
             background-size: cover;
         
             #page-title{
                 margin-bottom: 0px;
-                padding-bottom: 1.5em;
+                padding-bottom: 0.5em;
             }
         }
     }
 }
-// add by juniem - doensn't work
-.bgimg {
-    background-image: url('general_background.PNG');
+
+.page__footer {
+    margin-top: 0em !important; //override 
+    color: #737373 !important; // override
+    p, strong {
+        color: #737373 !important; // override
+    }
+
+    a {
+        color: #a6a6a6 !important; // override
+    }
 }
 
-.light-gray {
-    background: #f2f2f2;
-  }
+@import "minimal-mistakes"; // main partials
 
-.white {
-    background: #ffffff;
-  }
-  
-  .archive__item-teaser {
-    position: relative;
-    border-radius: $border-radius;
-    overflow: hidden;
-  
-    img {
-      width: 60%;
-    }
-  }
+.page__hero--overlay {
+    z-index: 2;
+    transition: transform 3s;
 
-  .archive__item-teaser-2 {
-    position: relative;
-    border-radius: $border-radius;
-    overflow: hidden;
-  
-    img {
-      width: 100%;
-    }
-  }
-
-.attach-words {
-    font-style: italic;
-    text-align:left;
-  }
-
-  .author {
-    .author-photo {
-      float: left;
-      height: 42px;
-      margin-right: 1em;
-
-      img {
-        border-radius: 50%;
-        height: 100%;
-      }
+    @media (max-width: 1440px) {
+        margin: 0px 24px;
     }
 
-    .author-inform {
-        p {
-          margin: 0px;
-          font-size: 14px;
-          color: #666;
-          text-align:left;
-        }
-      }
-  }
-
-  .landing-page-videos {
-    max-width: $x-large;
-    margin: auto;
-    padding: 0 1em 2em;
-
-    h2.landing-page-videos-title {
-      font-size: 1.25em;
+    @media (max-width: 960px) {
+        margin: 0px 6px;
     }
 
-    .landing-page-videos {
-      float: left;
-      width: 100%;
-
-      .grid__item {
-        text-align: left;
-
-        .archive__item {
-          a {
-            font-size: 16px;
-            color: inherit;
-          }
-
-          .archive__item-excerpt {
-            font-size: 14px;
-            text-align:left;
-          }
-        }
-      }
+    &:after {
+        border-radius: 6px;
+        background: black(0.3);
     }
-  }
 
-    .page__footer{
-    margin-top: 0px;
+    &:hover {
+        transition: transform 0.75s;
+    }
 
-    &-nav {
-        font-family: $global-font-family;
-        font-size: $type-size-7;
+    .wrapper {
+        display: flex;
 
-        ul {
-            display: flex;
-            justify-content: flex-end;
-            flex-wrap: wrap;
-            list-style: none;
-
-            li {
-                display: inline-block;
-            }
+        .page__hero--content {
+            max-width: 66%;
         }
 
-        a {
-            display: inline-block;
-            margin-left: 18px;
-            border-bottom: 1px solid;
-
-            &:hover {
-                border-bottom: 2px solid;
-                text-decoration: none;
-            }
+        .page__hero-image {
+            position: absolute;
+            height: calc(100% + 15px);
+            left: 0;
+            right: 0;
+            top: 0;
+            margin-left: auto;
+            width: 34%;
+            max-width: 456px;
+            background-size: contain;
+            background-repeat: no-repeat;
         }
     }
 }
@@ -167,137 +114,83 @@ article{
     }
 }
 
-.feature__item {
-    &--triple {
-        @include breakpoint($small) {
-            float: left;
-            margin-bottom: 0;
-            width: span(4 of 12);
-
-            &:nth-child(3n + 1) {
-                clear: both;
-                text-align: center;
-                margin-left: 0;
-            }
-
-            &:nth-child(3n + 2) {
-                clear: none;
-                text-align: center;
-                margin-left: gutter(of 12);
-            }
-
-            &:nth-child(3n + 3) {
-                clear: none;
-                text-align: center;
-                margin-left: gutter(of 12);
-            }
-        }
-    }
-}
-
 .layout--splash {
     #main {
-        .page__content {
+        margin-left: inherit;
+        margin-right: inherit;
+        padding-left: inherit;
+        padding-right: inherit;
+        max-width: inherit;
+
+        .feature__outer_wrapper {
+            display: flex;
+
+            h2 {
+                border-bottom: none;
+            }
+
+            &:first-child {
+                padding-top: 100px;
+                margin-top: -100px;
+                background: mix(#cccccc, #ccc);
+
+                @include breakpoint($small) {
+                    background: linear-gradient(to right, #CCCCCC 50%, #ccc 50%);
+                }
+            }
+
+            &:nth-child(2) {
+                padding-top: 3em;
+                padding-bottom: 2em;
+                background: rgba(0,120,215,0.1);
+                border-bottom: 1px solid #cccccc;
+                border-top: 1px solid #cccccc;
+            }
+
+
             .feature__wrapper {
-                margin-bottom: 0px;
-                border-bottom: 0px;
-                width: auto;
-                padding-top: 2em;
-                padding-left: 2em;
-                padding-right: 2em;
+                max-width: 1280px;
+                margin-left: auto;
+                margin-right: auto;
+                padding-left: 1em;
+                padding-right: 1em;
+                border-bottom: none;
+                // background-color: beige;
             }
         }
     }
 }
 
-.masthead {
-    position: fixed;
-    width: 95%;
-    top: 0;
-    left: 0;
-    border-bottom: none;
+.page__footer-nav {
+    font-family: $global-font-family;
+    font-size: $type-size-7;
 
-    .greedy-nav {
-        background-color: transparent;
-    }
-    
-    + .initial-content {
-        &>*:first-child {
-            padding-top: 90px;
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        list-style: none;
+
+        li {
+            display: inline-block;
         }
-    }
-}
-
-.masthead_fixed{
-    background-color: $background-color;
-    border-bottom: 1px solid $border-color;
-}
-
-.masthead_shrink{
-    padding: 0.5em 1em 0.5em;
-}
-
-$primary-color: #006699 !default;
-$footer-background-color: #393939 !default;
-
-article{
-    .page__inner-wrap {
-        p,
-        li,
-        dl {
-            font-size: 0.75em !important;
-        }
-    }
-}
-
-.page__footer {
-    color: #737373 !important; // override
-    p, strong {
-        color: #737373 !important; // override
     }
 
     a {
-        color: #a6a6a6 !important; // override
+        display: inline-block;
+        margin-left: 18px;
+        border-bottom: 1px solid;
+
+        &:hover {
+            border-bottom: 2px solid;
+            text-decoration: none;
+        }
     }
 }
 
-.page__hero--overlay {
-    z-index: 2;
-    transition: transform 3s;
-    margin: 0px 0px !important;
-
-    &:after {
-        border-radius: 6px;
-        background: black(0.3);
-    }
-
-    &:hover {
-        transition: transform 0.75s;
-    }
-
-    .wrapper {
-        display: flex;
-
-        .page__hero--content {
-            max-width: 60%;
-            margin-right: 0px;
-            margin-left: auto;
-        }
-
-        .page__hero-image {
-            position: absolute;
-            height: 100%;
-            left: 0;
-            top: 0;
-            margin-left: 0px;
-            margin-right: auto;
-            width: 34%;
-            background-position-x: right;
-            background-position-y: center;
-            background-size: contain;
-            background-repeat: no-repeat
-        }
-    }
+.tree-expander-indicator{
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 .nav__list {

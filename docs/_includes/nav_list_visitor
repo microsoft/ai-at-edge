@@ -1,6 +1,7 @@
 {%- assign visitor_node = include.node -%}
 {%- assign is_expanded = false -%}
-{%- if visitor_node.url == page.url -%}
+{%- assign pageUrlTrailingSlash = page.url | append: '/' -%}
+{%- if visitor_node.url == page.url or visitor_node.url == pageUrlTrailingSlash -%}
   {%- assign is_expanded = true -%}
 {%- else -%}
   {%- for child in visitor_node.children -%}
