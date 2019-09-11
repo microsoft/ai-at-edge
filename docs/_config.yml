@@ -17,7 +17,7 @@ url                      : https://microsoft.github.io
 baseurl                  : "/AIAtEdge"
 repository               : "Microsoft/AI-At-Edge"
 words_per_minute         : 200
-logo                     : ""
+logo                     : "favicon.ico"
 head_scripts             : []
 footer_scripts           : ["/assets/js/main.min.js", "/assets/js/scripts.js", "https://c.s-microsoft.com/mscc/statics/mscc-0.4.0.min.js"]
 
