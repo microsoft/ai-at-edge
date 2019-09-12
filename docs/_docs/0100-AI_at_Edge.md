@@ -1,7 +1,7 @@
 ---
-title: "AI@Edge"
+title: "What is AI@Edge?"
 permalink: /docs/aiatedge/
-excerpt: "General introduction to AI@Edge community"
+excerpt: "General introduction to AI@Edge"
 variable:
   - platform: windows
     name: Windows
@@ -9,8 +9,6 @@ variable:
     name: macOS
 last_modified_at: 2019-05-28
 ---
-
-## What is AI@Edge?
 
 ## Traditional IoT architecture
 In a traditional Internet of Things (IoT) device setup a device that has one or multiple sensors sends all the data it generates to the cloud for insights and actions. These insights often include refining the data set and running AI models in the cloud in order to, for example, identify anomalies. Insights are followed by actions taken based on the analysis of the data. Some of the actions are communicated to the device (or to another device) while others are performed in the cloud.
