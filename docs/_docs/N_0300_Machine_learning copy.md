@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-permalink: /docs/machine_learning/
+permalink: /docs/machine_learning_342/
 excerpt: "Machine Learning"
 variable:
   - platform: windows
@@ -19,9 +19,9 @@ In the context of AI@Edge the machine learning models are run in containers that
 
 ## Creating an AI model 
 
-There are number of standard steps required to run AI model in an edge device. Here is an example of a typical process for creating an AI model.
+There are number of standard steps required to run AI model in an edge device. See here an example of typical process.
 
-![ML flow]({{ '/assets/images/ML_flow.PNG' | relative_url }})
+![ML flow]({{ '/assets/images/ML_flow.png' | relative_url }})
 
 <!-- 
 
@@ -60,9 +60,9 @@ Other possible solution include:
 
 | | **Vision** | **Audio** | **Telemetry** |
 | :----------- |
-| | ![Vision]({{ '/assets/images/ICON_vision.PNG' | relative_url }}) | ![Audio]({{ '/assets/images/ICON_audio.PNG' | relative_url }}) | ![Telemetry]({{ '/assets/images/ICON_telemetry.PNG' | relative_url }}) |
+| | ![Vision]({{ '/assets/images/ICON_vision.png' | relative_url }}) | ![Audio]({{ '/assets/images/ICON_audio.png' | relative_url }}) | ![Telemetry]({{ '/assets/images/ICON_telemetry.png' | relative_url }}) |
 | **Summary** | Vision AI is specialized machine learning for images and video that allows you to transform camera input into labels and objects that you can use in your applications and busineses logic. | Machine learning solutions for audio can be further categorized into two main subcategories - speech to text used for example by smart assistant and anomaly detection based on sound | Telemetry refers to numeric data received from multiple different kinds of sensors. Telemetry data can reflect for example temperature or pressure. |
-| **Typical use cases** | Workplace safety, Retail, Quality control (anommaly detection), Smart home/building/city, Access control | Speech to text, anomaly detection (predective maintenance) | Anomaly detection, Predective maintenance |
+| **Typical use cases** | Workplace safety, Retail, Quality control (anommaly detection), Smart home/building/city, Access control | Speech to text, anomaly detection (predective maintenance) | Anomaly detection, predictive maintenance |
 | **Main challenges** | Large amounts of data, HW acceleration needed for real time inferencing | Speech to text: Microphone and model dependency, Acquiring audio transcription data for training | Building a model often requires in depth machine learning knowledge. Limited amount of tools available. |
 
 

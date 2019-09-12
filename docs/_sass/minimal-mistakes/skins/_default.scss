@@ -34,7 +34,7 @@ article{
         dl {
         }
         header {
-            background-image: url("/ai-at-edge/assets/images/general_background.PNG");
+            background-image: url("/ai-at-edge/assets/images/background_new.png");
             background-position: center;
             background-size: cover;
         
@@ -44,6 +44,10 @@ article{
             }
         }
     }
+}
+
+.bgimg {
+    background-image: url("/ai-at-edge/assets/images/background_new.png");
 }
 
 .page__footer {

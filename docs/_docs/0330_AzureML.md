@@ -10,9 +10,6 @@ variable:
 last_modified_at: 2019-06-14
 ---
 
-
-Add you cool content here
-
-
+Content to be added by 9/13/2019
 
 <!-- https://www.youtube.com/watch?reload=9&v=GBDSBInvz08 -->
