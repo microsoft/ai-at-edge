@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-06-14
+last_modified_at: 2019-09-12
 ---
 
 ## Azure IoT and Intelligent Edge
