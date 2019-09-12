@@ -32,19 +32,19 @@ ai_edge_basics:
 general_links:
   title: AI@Edge
   content:
-    - image_path: assets/images/Newpost1.PNG
+    - image_path: assets/images/Newpost1.png
       alt: ""
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       btn_label: " "
       url: "/docs/aiatedge/"
-    - image_path: assets/images/Newpost3.PNG
+    - image_path: assets/images/Newpost3.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       btn_label: " "
       url: "/docs/terminology/"
-    - image_path: assets/images/Newpost2.PNG
+    - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Get started"
       excerpt: "Start you project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
