@@ -27,6 +27,14 @@ $background-color           : $lighter-gray !default;
     }
 }
 
+.greedy-nav {
+    .masthead__menu-item {
+        a {
+            font-weight: 500;
+        }
+    }
+}
+
 article{
     .page__inner-wrap {
         p,
@@ -166,6 +174,10 @@ article{
 
             .archive__item-teaser-2{
                 text-align: center;
+                
+                img {
+                    max-height: 220px;
+                }
             }
 
             &:nth-child(4n - 2) {
