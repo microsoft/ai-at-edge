@@ -90,8 +90,8 @@ partner_links:
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.PNG
       alt: ""
-      title: "Tutorials and labs"
-      excerpt: "Improve your AI@Edge knowledge"
+      title: "Sign up for updates"
+      excerpt: "Sign up to receive information about updates to this portal"
       btn_label: " "
       url: "/docs/tutorials/"
 ---
