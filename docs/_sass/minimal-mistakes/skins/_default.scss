@@ -135,6 +135,19 @@ article{
         padding-right: inherit;
         max-width: inherit;
 
+        .feature__title {
+            position: relative;
+            z-index: 100;
+            margin: -20px 5%;
+            padding: 5px !important;
+            text-align: center;
+            background: $primary-color;
+            box-shadow: -5px 5px 5px mix(#fff, $primary-color, 60%);
+            border-radius: 5px;
+            border: transparent !important;
+            color: #fff;
+        }
+
         .feature__outer_wrapper {
             display: flex;
             padding-top: 2em;
@@ -155,28 +168,15 @@ article{
                 text-align: center;
             }
 
-            /*&:first-child {
-                padding-top: 100px;
-                margin-top: -100px;
-                 background: mix(#cccccc, #ccc);
-
-                @include breakpoint($small) {
-                    background: linear-gradient(to right, #CCCCCC 50%, #ccc 50%);
-                } 
-            }*/
-
-            &:nth-child(2) {
-                padding-top: 2em;
-                padding-bottom: 1em;
+            &:nth-child(4n - 2) {
                 background: rgba(0,120,215,0.1);
-                border-bottom: 1px solid #cccccc;
-                border-top: 1px solid #cccccc;
             }
 
             .feature__wrapper {
                 max-width: 1280px;
                 margin-left: auto;
                 margin-right: auto;
+                margin-bottom: 0.5em;
                 padding-left: 1em;
                 padding-right: 1em;
                 border-bottom: none;
@@ -185,20 +185,6 @@ article{
     }
 }
 
-.feature__title {
-  position: relative;
-  z-index: 100;
-  h2 {
-      margin: -20px 5%;
-      padding: 5px !important;
-      text-align: center;
-      background: $primary-color;
-      box-shadow: -5px 5px 5px mix(#fff, $primary-color, 60%);
-      border-radius: 5px;
-      border: transparent !important;
-      color: #fff;
-  }
-}
 
 .page__footer-nav {
     font-family: $global-font-family;

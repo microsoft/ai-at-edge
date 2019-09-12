@@ -36,19 +36,16 @@ general_links:
       alt: ""
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
-      btn_label: " "
       url: "/docs/aiatedge/"
     - image_path: assets/images/Newpost3.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
-      btn_label: " "
       url: "/docs/terminology/"
     - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Get started"
       excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
-      btn_label: " "
       url: "/docs/examples/"
 
 solutions_links:
@@ -58,19 +55,16 @@ solutions_links:
       alt: ""
       title: "Find or build an AI@Edge Device"
       excerpt: "Find existing hardware and developer kits, or use resources and best practices to  build intelligent edge capable hardware"
-      btn_label: " "
       url: "/docs/hardware/"
     - image_path: /assets/images/MAIN_ai2.PNG
       alt: ""
       title: "Train an AI/ML model"
       excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
-      btn_label: " "
       url: "/docs/machine_learning/"
     - image_path: /assets/images/MAIN_azure_iot.PNG
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
       excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge device offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
-      btn_label: " "
       url: "/docs/azureiot/"
 
 partner_links:
@@ -80,19 +74,16 @@ partner_links:
       alt: ""
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, and get help from the community
-      btn_label: " "
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
     - image_path: /assets/images/MAIN_events.PNG
       alt: ""
       title: "Participate in Live Events"
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
-      btn_label: " "
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.PNG
       alt: ""
       title: "Sign up for updates"
       excerpt: "Sign up to receive information about updates to this portal"
-      btn_label: " "
       url: "/docs/tutorials/"
 ---
 {% include feature_row_1 id="general_links" %}
