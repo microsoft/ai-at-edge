@@ -11,7 +11,7 @@ header:
       url: "/docs/aiatedge/"
     # - label: "Join the community"
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
-title: Welcome to AI@Edge community!
+title: PREVIEW - Welcome to AI@Edge community!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
