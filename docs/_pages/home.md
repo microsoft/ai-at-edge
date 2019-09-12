@@ -47,7 +47,7 @@ general_links:
     - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Get started"
-      excerpt: "Start you project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
+      excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
       btn_label: " "
       url: "/docs/examples/"
 

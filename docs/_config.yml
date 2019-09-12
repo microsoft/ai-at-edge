@@ -130,5 +130,5 @@ github: [metadata]
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-137900817-3"
+    tracking_id: "UA-137900817-4"
     anonymize_ip: false # default
