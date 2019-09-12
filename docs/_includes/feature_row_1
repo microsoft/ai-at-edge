@@ -4,9 +4,9 @@
   {% assign feature_row_1 = page.feature_row_1 %}
 {% endif %}
 
-{% comment %} <div class="feature__title">
+<div class="feature__title">
   <h2>{{feature_row_1.title}}</h2>
-</div> {% endcomment %}
+</div>
 <div class="{{ feature_row_1.class | default: 'feature__outer_wrapper' }}">
 <div class="feature__wrapper">
 
