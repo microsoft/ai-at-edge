@@ -220,6 +220,16 @@ article{
 
 .nav__list {
     .tree-item{
+        .nav__sub-title {
+            a {
+                display: inline;
+            }
+        }
+
+        ul {
+            list-style: none;
+        }
+
         &:not(.has-children){
             .tree-expander-indicator:first-of-type{
                 visibility: hidden;
@@ -237,7 +247,7 @@ article{
             }
         }
 
-        &:not(.is-expanded){
+        &:not(.is-expanded){ 
             .tree-expander-indicator:first-of-type{
                 -webkit-transform: none;
                 transform: none;
@@ -248,10 +258,9 @@ article{
             }
         }
 
-        .tree-item{
+        .tree-item {
             margin-left: 5px;
         }
-
     }
 
     .nav__items {
