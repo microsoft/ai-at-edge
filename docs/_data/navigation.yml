@@ -17,8 +17,8 @@ docs:
     children:
       - title: Understand HW terminology
         url: /docs/terminology/
-      - title: Learn about HW architecture solution options
-        url: /docs/capabilities/
+      # - title: Learn about HW architecture solution options
+      #   url: /docs/capabilities/
 
   - title: Get started with examples
     url: /docs/examples/
