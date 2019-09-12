@@ -52,7 +52,7 @@ general_links:
       url: "/docs/examples/"
 
 solutions_links:
-  title: Vision@Edge Hardware
+  title: I want to
   content:
     - image_path: assets/images/MAIN_build_hardware.PNG
       alt: ""
