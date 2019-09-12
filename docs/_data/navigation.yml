@@ -83,8 +83,8 @@ docs:
         url: /docs/telcos/
       - title: "Participate to Live Events"
         url: /docs/liveevents/
-      # - title: "Tutorials"
-      #   url: /docs/tutorials/
+      - title: "Sign up for updates"
+        url: /docs/signup/
         
   # - title: Find Partners
   #   url: /docs/matchmake/      
