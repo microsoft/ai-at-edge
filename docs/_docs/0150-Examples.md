@@ -38,12 +38,4 @@ example_links:
 ## Get started
 
 Learn about the opportunities Microsoft's technology provides by familiaring yourself with examples. This page provides short cuts to technology examples, community projects that you can take as a starting point for your own development and Azure IoT demos to get a feel what an end-2-end solution will look like.
-
-<div class="white">
-<div class="feature__wrapper">
-    <h2 style="text-align: center;" class="landing-page-videos-title"></h2>
-    <div class="landing-page-videos">
 {% include feature_row_1 id="example_links" %}
-  </div>
-</div>
-</div>

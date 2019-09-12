@@ -135,6 +135,19 @@ article{
         padding-right: inherit;
         max-width: inherit;
 
+        .feature__title {
+            position: relative;
+            z-index: 100;
+            margin: -20px 5%;
+            padding: 5px !important;
+            text-align: center;
+            background: $primary-color;
+            box-shadow: -5px 5px 5px mix(#fff, $primary-color, 60%);
+            border-radius: 5px;
+            border: transparent !important;
+            color: #fff;
+        }
+
         .feature__outer_wrapper {
             display: flex;
             padding-top: 2em;
@@ -185,20 +198,6 @@ article{
     }
 }
 
-.feature__title {
-  position: relative;
-  z-index: 100;
-  h2 {
-      margin: -20px 5%;
-      padding: 5px !important;
-      text-align: center;
-      background: $primary-color;
-      box-shadow: -5px 5px 5px mix(#fff, $primary-color, 60%);
-      border-radius: 5px;
-      border: transparent !important;
-      color: #fff;
-  }
-}
 
 .page__footer-nav {
     font-family: $global-font-family;
