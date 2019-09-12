@@ -1,5 +1,5 @@
 ---
-title: "Examples"
+title: "Get started with examples"
 permalink: /docs/examples/
 excerpt: "High level introduction to HW acceleration"
 variable:
@@ -34,6 +34,8 @@ example_links:
       url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
 
 ---
+
+## Get started
 
 Learn about the opportunities Microsoft's technology provides by familiaring yourself with examples. This page provides short cuts to technology examples, community projects that you can take as a starting point for your own development and Azure IoT demos to get a feel what an end-2-end solution will look like.
 

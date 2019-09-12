@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "AI@Edge devices"
-    url: /docs/hardware/
+  - title: "Get Started"
+    url: /docs/examples/
     target: _self
   - title: "Machine Learning"
     url: /docs/machine_learning/
     target: _self
   - title: "Community"
-    url: /docs/community
+    url: /docs/community/
     target: _self
     
 # documentation links
@@ -36,6 +36,8 @@ docs:
             url: /docs/jetsonnano/
           - title: Run ONNX model with Intel UP Squared
             url: /docs/up2/
+      - title: Azure IoT Demos
+        url: "https://azure-iot-megamap.azurewebsites.net/dashboard"
 
   - title: Build and find AI@Edge devices
     url: /docs/hardware/
@@ -49,13 +51,6 @@ docs:
             url: /docs/certify/    
       - title: Find devices
         url: /docs/hardwarelist/
-        # children:
-        #   - title: "Showcased hardware"
-        #     url: /docs/devkits/devices
-        #   - title: "Find Developer Kit"
-        #     url: /docs/devkits/
-          # - title: "See public hardware pipeline"
-          #   url: /docs/hardwareroadmap/
       - title: HW Acceleration
         url: /docs/hw_acceleration/
 
@@ -66,11 +61,6 @@ docs:
         url: /docs/frameworks/
       - title: "Find existing models"
         url: /docs/find_ml/
-        # children:
-        #   - title: "Azure Marketplace"
-        #     url: /docs/marketplace/
-        #   - title: "AI Gallery"
-        #     url: /docs/aigallery/
       - title: "Azure Machine Learning"
         url: /docs/aml/
       - title: "Customvision.ai"
@@ -89,6 +79,8 @@ docs:
         url: /docs/techcommunity/
       # - title: "Contribute"
       #   url: /docs/contribute/
+      - title: "Community calls"
+        url: /docs/telcos/
       - title: "Participate to Live Events"
         url: /docs/liveevents/
       # - title: "Tutorials"

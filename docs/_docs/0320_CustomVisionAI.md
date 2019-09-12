@@ -31,7 +31,5 @@ This service provides an end-to-end platform for managing custom image understan
   - ONNX
   - “dockerfile” (Tensorflow model wrapped in a container.)
 
-## Pre-requisites
 
-- Azure subscription
 

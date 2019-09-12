@@ -19,7 +19,7 @@ In the context of AI@Edge the machine learning models are run in containers that
 
 ## Creating an AI model 
 
-There are number of standard steps required to run AI model in an edge device. See here an example of typical process.
+There are number of standard steps required to run AI model in an edge device. Here is an example of a typical process for creating an AI model.
 
 ![ML flow]({{ '/assets/images/ML_flow.PNG' | relative_url }})
 

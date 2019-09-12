@@ -14,11 +14,11 @@ last_modified_at: 2019-06-14
 
 Azure device catalog showcases devices that have been certified for Azure IoT, IoT Edge and/or IoT Plug and Play. Selecting certified hardware guarantees device's compatibility with Azure IoT Hub and Azure cloud services
 
-Find [certified devices](https://catalog.azureiotsolutions.com/)
+Find [certified devices](https://catalog.azureiotsolutions.com/){:target="_blank"}
 
 IoT Edge certified devices are certified for being able to IoT Edge in the device enabling the devices to run containers that are controlled by IoT Hub.
 
-Find [IoT Edge certified devices](https://catalog.azureiotsolutions.com/alldevices?filters={"18":["1"]})
+Find [IoT Edge certified devices](https://catalog.azureiotsolutions.com/alldevices?filters={"18":["1"]}){:target="_blank"}
 
 ## Hardware with verified AI solution examples
 

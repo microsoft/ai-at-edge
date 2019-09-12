@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-permalink: /docs/machine_learning/
+permalink: /docs/machine_learning_342/
 excerpt: "Machine Learning"
 variable:
   - platform: windows

@@ -12,14 +12,13 @@ last_modified_at: 2019-06-14
 
 ## Azure IoT and Intelligent Edge
 
-An end-2-end intelligent edge IoT solution consists of services that run AI models, process data to generate insights and take action locally in the hardware that is located in the field. The solution can operate without cloud connectivy. Typically solution still transfer refined set of data to the cloud for furhter processing and long time storage. Below is a introduction of most common Azure services that are used in intelligent edge solutions.
+An end-2-end intelligent edge IoT solution consists of services that run AI models, process data to generate insights and take action locally in the hardware that is located in the field. The solution can operate without cloud connectivy. Typically solution still transfer refined set of data to the cloud for further processing and long time storage. Below is a introduction of most common Azure services that are used in intelligent edge solutions.
 
 ![Standard IoT architecture]({{ '/assets/images/AI_Intelligent_Edge.PNG' | relative_url }})
 
 ## Reference architectures
 
 <a href="https://azure.microsoft.com/en-us/blog/azure-iot-reference-architecture-update/">Azure IoT Reference Architecture</a>  aims to accelerate customers building IoT Solutions on Azure by providing a proven production ready architecture, with proven technology implementation choices, and with links to Solution Accelerator reference architecture implementations such as Remote Monitoring and Connected Factory. The document offers an overview of the IoT space, recommended subsystem factoring for scalable IoT solutions, prescriptive technology recommendations per subsystems, and detailed sections per subsystem that explore use cases and technology alternatives.
-
 
 ## Azure IoT Hub 
 

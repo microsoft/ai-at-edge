@@ -32,20 +32,19 @@ ai_edge_basics:
 general_links:
   title: AI@Edge
   content:
-    - image_path: assets/images/MAIN_aiatedge.PNG
-      background_image: assets/images/MAIN_aiatedge.PNG
+    - image_path: assets/images/Newpost1.PNG
       alt: ""
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       btn_label: " "
       url: "/docs/aiatedge/"
-    - image_path: assets/images/MAIN_light_heavy.png
+    - image_path: assets/images/Newpost3.PNG
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       btn_label: " "
       url: "/docs/terminology/"
-    - image_path: assets/images/MAIN_examples_icon.PNG
+    - image_path: assets/images/Newpost2.PNG
       alt: ""
       title: "Get started"
       excerpt: "Start you project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
@@ -98,4 +97,6 @@ partner_links:
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}
+<!-- <div class="bgimg"> -->
 {% include feature_row_1 id="partner_links" %}
+<!-- </div> -->
