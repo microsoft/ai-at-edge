@@ -29,10 +29,8 @@ ai_edge_basics:
       url: /docs/aiatedge
       btn_class: "btn--primary"
 
-general:
-  content:
-    - title: AI@Edge
 general_links:
+  title: AI@Edge
   content:
     - image_path: assets/images/MAIN_aiatedge.PNG
       background_image: assets/images/MAIN_aiatedge.PNG
@@ -54,10 +52,8 @@ general_links:
       btn_label: " "
       url: "/docs/examples/"
 
-solutions:
-  content:
-    - title: Vision@Edge Hardware
 solutions_links:
+  title: Vision@Edge Hardware
   content:
     - image_path: assets/images/MAIN_build_hardware.PNG
       alt: ""
@@ -78,10 +74,8 @@ solutions_links:
       btn_label: " "
       url: "/docs/azureiot/"
 
-interact:
-  content:
-    - title: Become part of the community
 partner_links:
+  title: Become part of the community
   content:
     - image_path: assets/images/MAIN_community.PNG
       alt: ""
@@ -102,12 +96,6 @@ partner_links:
       btn_label: " "
       url: "/docs/tutorials/"
 ---
-<div class="feature__outer_wrapper">
 {% include feature_row_1 id="general_links" %}
-</div>
-<div class="feature__outer_wrapper">
 {% include feature_row_1 id="solutions_links" %}
-</div>
-<div class="feature__outer_wrapper">
 {% include feature_row_1 id="partner_links" %}
-</div>
