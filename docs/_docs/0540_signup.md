@@ -1,7 +1,7 @@
 ---
-title: "Find existing tutorials and labs"
-permalink: /docs/tutorials/
-excerpt: "Find existing tutorials and labs"
+title: "Sign up for updates"
+permalink: /docs/signup/
+excerpt: "Sign up for updates"
 variable:
   - platform: windows
     name: Windows
