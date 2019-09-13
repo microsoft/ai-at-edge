@@ -62,7 +62,7 @@ examples2:
     - title: 
 example_links2:
   content:
-    - image_path: assets/images/azure_marketplace.PNG
+    - image_path: assets/images/azure_marketplace.png
       alt: ""
       title: "Find IoT Edge modules"
       excerpt: "Find existing IoT Edge modules from Azure Marketplace"
