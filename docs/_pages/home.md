@@ -37,12 +37,12 @@ general_links:
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       url: "/docs/aiatedge/"
-    - image_path: assets/images/Newpost5.png
+    - image_path: assets/images/newpost5.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       url: "/docs/terminology/"
-    - image_path: assets/images/Newpost4.png
+    - image_path: assets/images/newpost4.png
       alt: ""
       title: "Get started"
       excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
@@ -58,7 +58,7 @@ solutions_links:
       excerpt: "Find existing hardware and developer kits, or use resources and best practices to  build intelligent edge capable hardware"
       url: "/docs/hardware/"
     # - image_path: /assets/images/MAIN_ai2.PNG
-    - image_path: /assets/images/Newpost6.png
+    - image_path: /assets/images/newpost6.png
       alt: ""
       title: "Train an AI/ML model"
       excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
@@ -84,6 +84,7 @@ partner_links:
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.PNG
+    # - image_path: /assets/images/group-of-three.svg
       alt: ""
       title: "Help us, help you"
       excerpt: "Sign up for customer and partner research"
