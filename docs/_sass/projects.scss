@@ -81,4 +81,16 @@ p.project-difficulty {
   padding: 1px 14px 2px;
   margin: 12px 14px;
   z-index: 2;
+
+  &-easy{
+    background: #8fc31f
+  }
+
+  &-medium{
+    background: #f98f40
+  }
+
+  &-medium{
+    background: #f05a2d
+  }
 }
