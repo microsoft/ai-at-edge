@@ -9,7 +9,7 @@ $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
 $lighter-gray               : mix(#fff, $gray, 90%) !default;
 
-$primary-color              : #006699 !default;
+$primary-color              : #121F47 !default;
 $active-color               : mix(#fff, $primary-color, 80%) !default;
 $google-plus-color          : #dd4b39 !default;
 $footer-background-color    : #393939 !default;
@@ -23,10 +23,15 @@ $text-color                 : #222831 !default;
 $background-color           : $lighter-gray !default;
 */
 
-.layout--single{
+.layout--single, .archive{
     #page-title{
         color: #ffffff;
         padding: 2em 0em 2em .5em;
+        background-image: url("/ai-at-edge/assets/images/background_new.png");
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 0px;
+        padding-bottom: 0.5em;
     }
 }
 
@@ -34,25 +39,6 @@ $background-color           : $lighter-gray !default;
     .masthead__menu-item {
         a {
             font-weight: 500;
-        }
-    }
-}
-
-article{
-    .page__inner-wrap {
-        p,
-        li,
-        dl {
-        }
-        header {
-            background-image: url("/ai-at-edge/assets/images/background_new.png");
-            background-position: center;
-            background-size: cover;
-        
-            #page-title{
-                margin-bottom: 0px;
-                padding-bottom: 0.5em;
-            }
         }
     }
 }

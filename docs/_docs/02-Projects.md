@@ -32,22 +32,3 @@ author_profile: false
   {% endfor %}
 
 </div>
-
-<h3>Community contributed tutorials. Kudos to our developers!</h3>
-
-<div class="grid__wrapper">
-
-  {% assign communities = '' | split: '' %} {% comment %} Empty array {% endcomment %}
-
-  {% for community in site.communities %}
-      
-    {% comment %} Collect all the single page projects {% endcomment %}
-    {% assign communities = communities | push: community %}
-
-  {% endfor %}
-
-  {% for post in communities %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-
-</div>
