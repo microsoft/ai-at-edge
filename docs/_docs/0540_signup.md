@@ -1,7 +1,7 @@
 ---
-title: "Sign up for updates"
+title: "Sign up customer and partner research"
 permalink: /docs/signup/
-excerpt: "Sign up for updates"
+excerpt: "Sign up customer and partner research"
 variable:
   - platform: windows
     name: Windows
