@@ -4,14 +4,14 @@ permalink: /
 title:
 header:
   overlay_color: "white"
-  overlay_image: /assets/images/MAIN_overlay.PNG
+  overlay_image: /assets/images/MAIN_overlay_beta.PNG
   # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
       url: "/docs/aiatedge/"
     # - label: "Join the community"
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
-title: PREVIEW - Welcome to the AI@Edge community!
+title: Welcome to the AI@Edge community!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
@@ -86,11 +86,11 @@ partner_links:
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
       url: "/docs/liveevents/"
     #- image_path: /assets/images/MAIN_tutorials.PNG
-    - image_path: /assets/images/telcos.png
+    - image_path: /assets/images/calls.png
       alt: ""
       title: "Dial in to calls"
       excerpt: "Join bi-weekly Intelliegent Edge Brief calls"
-      url: "/docs/telco/"
+      url: "/docs/telcos/"
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}
