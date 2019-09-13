@@ -62,6 +62,13 @@ $background-color           : $lighter-gray !default;
 @import "minimal-mistakes"; // main partials
 @import "../../projects";
 
+/* This defines the font size of the navigation bar */
+.sidebar {
+    p, li{
+        font-size: $type-size-6 !important;
+    }
+}
+
 .page__hero--overlay {
     z-index: 2;
     transition: transform 3s;
