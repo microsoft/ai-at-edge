@@ -82,9 +82,9 @@ partner_links:
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.PNG
       alt: ""
-      title: "Sign up for updates"
-      excerpt: "Sign up to receive information about updates to this portal"
-      url: "/docs/tutorials/"
+      title: "Help us, help you"
+      excerpt: "Sign up for customer and partner research"
+      url: "/docs/signup/"
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}

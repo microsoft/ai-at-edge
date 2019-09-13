@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-07-05
+last_modified_at: 2019-09-05
 ---
 
 ## Live Events
