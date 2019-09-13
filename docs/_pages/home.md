@@ -86,11 +86,11 @@ partner_links:
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
       url: "/docs/liveevents/"
     #- image_path: /assets/images/MAIN_tutorials.PNG
-    - image_path: /assets/images/calls.png
+    - image_path: /assets/images/telcos.png
       alt: ""
       title: "Dial in to calls"
       excerpt: "Join bi-weekly Intelliegent Edge Brief calls"
-      url: "/docs/signup/"
+      url: "/docs/telco/"
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}
