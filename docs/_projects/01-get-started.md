@@ -7,9 +7,9 @@ excerpt: "Send sensor data from DevKit to Azure IoTHub."
 header:
   overlay_image: /assets/images/AI-IoT.PNG
   overlay_full: true
-  teaser: /assets/images/AI-IoT.PNG
+  teaser: /assets/images/AI_IoT.PNG
 icons:
-  - url: /assets/images/AI-IoT.PNG
+  - url: /assets/images/AI_IoT.PNG
     target: https://azure.microsoft.com/services/iot-hub/
     title: IoT Hub
 difficulty: EASY

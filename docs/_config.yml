@@ -48,6 +48,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -72,20 +75,14 @@ defaults:
       sidebar:
         nav: "docs"
         include_tree: true
-  # _projects - I think I may have added this when trying to get the projects to work(juniem)
+  # _projects
   - scope:
-      path: "_projects"
-      type: docs
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: false
-      share: false
-      comments: false
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "docs/projects"
-        include_tree: true
+      share: true
         
 # Outputting
 permalink: /:categories/:title/

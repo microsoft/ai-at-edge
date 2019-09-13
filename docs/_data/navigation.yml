@@ -20,6 +20,9 @@ docs:
       # - title: Learn about HW architecture solution options
       #   url: /docs/capabilities/
 
+  - title: Projects Catalog
+    url: /docs/projects/
+
   - title: Get started with examples
     url: /docs/examples/
     children:
