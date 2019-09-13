@@ -4,7 +4,7 @@ permalink: /docs/projects/visionaidevkit/
 redirect_to: /docs/visionaidevkit/
 excerpt: "Get started with workplace safety and Vision AI Developer Kit"
 header:
-  overlay_image: /assets/images/AI-IoT.PNG
+  overlay_image: /assets/images/AI_IoT.PNG
   overlay_full: true
   teaser: /assets/images/DEVKIT_vaidk.png
 # icons:
