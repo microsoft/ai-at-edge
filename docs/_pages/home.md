@@ -4,14 +4,14 @@ permalink: /
 title:
 header:
   overlay_color: "white"
-  overlay_image: /assets/images/MAIN_overlay.PNG
+  overlay_image: /assets/images/MAIN_overlay_beta.PNG
   # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
       url: "/docs/aiatedge/"
     # - label: "Join the community"
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
-title: PREVIEW - Welcome to the AI@Edge community!
+title: Welcome to the AI@Edge community!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
@@ -73,22 +73,24 @@ solutions_links:
 partner_links:
   title: Become part of the community
   content:
-    - image_path: assets/images/MAIN_community.PNG
+   # - image_path: assets/images/MAIN_community.PNG
+    - image_path: assets/images/community.png
       alt: ""
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, and get help from the community
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
-    - image_path: /assets/images/MAIN_events.PNG
+    #- image_path: /assets/images/MAIN_events.PNG
+    - image_path: /assets/images/events.png
       alt: ""
       title: "Participate in Live Events"
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
       url: "/docs/liveevents/"
-    - image_path: /assets/images/MAIN_tutorials.PNG
-    # - image_path: /assets/images/group-of-three.svg
+    #- image_path: /assets/images/MAIN_tutorials.PNG
+    - image_path: /assets/images/calls.png
       alt: ""
-      title: "Help us, help you"
-      excerpt: "Sign up for customer and partner research"
-      url: "/docs/signup/"
+      title: "Dial in to calls"
+      excerpt: "Join bi-weekly Intelliegent Edge Brief calls"
+      url: "/docs/telcos/"
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}
