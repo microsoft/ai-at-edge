@@ -37,6 +37,12 @@ Depending on the use case it's recommended that part of the data set is preserve
 
 Develop scripts
 
+
+
+### Deploy
+
+An AI model can be deploy to a device first for testing and then for production use using Azure IoT Hub. In the development phase most of the scripts used to train and convert machine learning models also include a build in functions for deployment making it faster to iterate and test teh model in a device. A deployed IoT module is a Docker container that includes your model and associated script or application and any additional dependencies
+
 -->
 
 ### Tools
