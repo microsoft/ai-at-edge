@@ -73,21 +73,23 @@ solutions_links:
 partner_links:
   title: Become part of the community
   content:
-    - image_path: assets/images/MAIN_community.PNG
+   # - image_path: assets/images/MAIN_community.PNG
+    - image_path: assets/images/community.png
       alt: ""
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, and get help from the community
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
-    - image_path: /assets/images/MAIN_events.PNG
+    #- image_path: /assets/images/MAIN_events.PNG
+    - image_path: /assets/images/events.png
       alt: ""
       title: "Participate in Live Events"
       excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
       url: "/docs/liveevents/"
-    - image_path: /assets/images/MAIN_tutorials.PNG
-    # - image_path: /assets/images/group-of-three.svg
+    #- image_path: /assets/images/MAIN_tutorials.PNG
+    - image_path: /assets/images/calls.png
       alt: ""
-      title: "Help us, help you"
-      excerpt: "Sign up for customer and partner research"
+      title: "Dial in to calls"
+      excerpt: "Join bi-weekly Intelliegent Edge Brief calls"
       url: "/docs/signup/"
 ---
 {% include feature_row_1 id="general_links" %}
