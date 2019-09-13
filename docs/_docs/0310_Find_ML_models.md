@@ -10,11 +10,11 @@ variable:
 last_modified_at: 2019-09-14
 ---
 
-## Using existing models
+### Using existing models
 
-Deep Neural Network (DNN) models are very complicated and in order to receive an adequate performance they are often required to be run in an HW accelerated chip such as GPU or DSP. Due to the underlying complexity they are often also specific to certain hardware architecture. AI frameworks are used to represent AI models An AI model is build using a neural network and an AI framework such are ONNX or Tensorflo
+Deep Neural Network (DNN) models are very complicated and in order to receive an adequate performance they are often required to be run in an HW accelerated chip such as GPU or DSP. Due to the underlying complexity they are often also specific to certain hardware architecture. AI frameworks are used to represent AI models An AI model is built using a neural network and an AI framework such as Tensorflow or P{yTorch}.
 
-## Model conversion
+### Model conversion
 
 AI models can often be converted to allow running them in the specific hardware. However, it's extremely important to understand that the hardware needs to support also the neural network model that is used in the model.
 
@@ -22,7 +22,7 @@ AI models can often be converted to allow running them in the specific hardware.
 - Use ONNX Converter Image to convert other major model frameworks to ONNX. Supported frameworks are currently
   - CNTK, CoreML, Keras, scikit-learn, Tensorflow, PyTorch
 
-## Model Zoos
+### Model Zoos
 
 Model Zoos are collections of AI models that can be run as such or improved to meet specific user's needs. 
 

@@ -3,6 +3,9 @@ main:
   - title: "Get Started"
     url: /docs/examples/
     target: _self
+  - title: "Hardware"
+    url: /docs/hardware/
+    target: _self
   - title: "Machine Learning"
     url: /docs/machine_learning/
     target: _self
@@ -20,8 +23,8 @@ docs:
       # - title: Learn about HW architecture solution options
       #   url: /docs/capabilities/
 
-  - title: Projects Catalog
-    url: /docs/projects/
+  # - title: Projects Catalog
+  #   url: /docs/projects/
 
   - title: Get started with examples
     url: /docs/examples/
@@ -60,6 +63,10 @@ docs:
   - title: "Build an AI model"
     url: /docs/machine_learning/
     children:
+      - title: "ML Training process"
+        url: /docs/ml_process/
+      - title: "Tools"
+        url: /docs/ml_tools/
       - title: "Frameworks and runtimes"
         url: /docs/frameworks/
       - title: "Find existing models"
@@ -68,8 +75,7 @@ docs:
         url: /docs/aml/
       - title: "Customvision.ai"
         url: /docs/customvision/
-      # - title: "Model conversion"
-      #   url: /docs/convert/
+
 
   - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/

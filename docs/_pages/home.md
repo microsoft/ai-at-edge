@@ -37,12 +37,12 @@ general_links:
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       url: "/docs/aiatedge/"
-    - image_path: assets/images/Newpost3.png
+    - image_path: assets/images/Newpost5.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       url: "/docs/terminology/"
-    - image_path: assets/images/Newpost2.png
+    - image_path: assets/images/Newpost4.png
       alt: ""
       title: "Get started"
       excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
@@ -51,17 +51,20 @@ general_links:
 solutions_links:
   title: I want to
   content:
-    - image_path: assets/images/MAIN_build_hardware.PNG
+    # - image_path: assets/images/MAIN_build_hardware.PNG
+    - image_path: assets/images/Newpost3.png
       alt: ""
       title: "Find or build an AI@Edge Device"
       excerpt: "Find existing hardware and developer kits, or use resources and best practices to  build intelligent edge capable hardware"
       url: "/docs/hardware/"
-    - image_path: /assets/images/MAIN_ai2.PNG
+    # - image_path: /assets/images/MAIN_ai2.PNG
+    - image_path: /assets/images/Newpost6.png
       alt: ""
       title: "Train an AI/ML model"
       excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
       url: "/docs/machine_learning/"
-    - image_path: /assets/images/MAIN_azure_iot.PNG
+    # - image_path: /assets/images/MAIN_azure_iot.PNG
+    - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
       excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge device offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
