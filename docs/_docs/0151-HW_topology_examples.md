@@ -1,7 +1,7 @@
 ---
-title: "Solution examples"
-permalink: /docs/solution_examples/
-excerpt: "Example solutions"
+title: "Hardware architecture examples"
+permalink: /docs/hw_topology_examples/
+excerpt: "Hardware architecture examples"
 variable:
   - platform: windows
     name: Windows

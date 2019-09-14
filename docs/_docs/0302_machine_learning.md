@@ -1,7 +1,7 @@
 ---
-title: "Neural networks and ML framework"
-permalink: /docs/frameworks/
-excerpt: "Neural networks and ML framework"
+title: "What is machine learning?"
+permalink: /docs/machine_learning/
+excerpt: "What is machine learning?"
 variable:
   - platform: windows
     name: Windows
@@ -9,6 +9,19 @@ variable:
     name: macOS
 last_modified_at: 2019-09-14
 ---
+
+### What is machine learning?
+
+In short machine learning is a science that provides a computer the ability to learn without being explicitly programmed. It's based on the usage of algorithms that analyze data, learn from it and make a specified prediction. Running machine learning models requires often a lot of computing power and it is common to run them algorithms, AI models, in the cloud. Edge computing brings that capability to the devices.
+
+In the context of AI@Edge the machine learning models are run in containers that are deployed to the devices using Azure IoT Hub.
+
+### Creating an AI model 
+
+To get started you'll need to:
+- Decide which you are going to use
+- Select [tools]({{ '/docs/ml_tools/' | relative_url }}) to be used
+- Understand the high level [process]({{ '/docs/ml_process/' | relative_url }})
 
 ### Neural networks
 

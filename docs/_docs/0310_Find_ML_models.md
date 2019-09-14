@@ -12,7 +12,7 @@ last_modified_at: 2019-09-14
 
 ### Using existing models
 
-Deep Neural Network (DNN) models are very complicated and in order to receive an adequate performance they are often required to be run in an HW accelerated chip such as GPU or DSP. Due to the underlying complexity they are often also specific to certain hardware architecture. AI frameworks are used to represent AI models An AI model is built using a neural network and an AI framework such as Tensorflow or P{yTorch}.
+Deep Neural Network (DNN) models are very complicated and in order to receive an adequate performance they are often required to be run in an HW accelerated chip such as GPU or DSP. Due to the underlying complexity they are often also specific to certain hardware architecture. If you have an existing IoT Edge and are looking for example models, start by checking with neural networks and ML frameworks are supported.
 
 ### Model conversion
 

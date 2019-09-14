@@ -16,7 +16,7 @@ hardwardgeneral:
 
 hardware:
   content:
-    - title: Vision@Edge Hardware
+    - title: AI@Edge Hardware
 featured_kits:
   content:
     - image_path: /assets/images/HW_intelligent_camera.PNG
@@ -36,12 +36,17 @@ featured_kits:
       btn_label: " "
 ---
 
-## General
+### Intelligent edge hardware
 
-In the AI@Edge portal Microsoft provides best practices for building AI@Edge hardware and helps you find an existing hardware with sample solutions to get a quick start for building a solution.
+An optimal end to end solution following intelligent edge principles can be set up in multiple  ways. In the context of intelligent edge hardware the primary implementation options are a) Edge devices and b) IoT Devices with Edge appliances (smart gateways). The term 'smart gateway" spans over any edge device that needs a data feed from a sensor and can do inferencing and take actions based on the feed. See examples of the [hardware topology]({{ '/docs/hw_topology_examples/' | relative_url }}) in end-2-end solutions. 
 
-### Hardware categories
+[Build hardware]({{ '/docs/buildhardware/' | relative_url }})
+
+[Find hardware]({{ '/docs/hardwarelist/' | relative_url }})
+
+
+<!-- ### Hardware categories
 
 An optimal end to end solution following intelligent edge principles can be set up in multiple different ways. In the context of intelligent edge hardware the primary implementation options are a) Edge devices and b) IoT Devices with Edge appliances. Some devices that would be qualified as regular sensor meaning that they don't have capabilities to run IoT Edge and AI models in the device will be also showcased in these pages in the context of a gateway solution that is proven to work with them
 
-{% include feature_row_1 id="featured_kits" %}
+{% include feature_row_1 id="featured_kits" %} -->

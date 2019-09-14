@@ -57,7 +57,7 @@ DSP is a custom intergrated circuit that is optimized from performance point of 
 
 A variant of the above technologies, the term VPU is gaining adoption as a term to describe hardware components that are specizlied for Vision AI and related applications.
 
-<!-- ### Check out Channel9 video that talk about HW acceleration at Edge
+### Check out Channel9 video that talk about HW acceleration at Edge
 
 <div class="white">
 <div class="feature__wrapper">
@@ -65,4 +65,4 @@ A variant of the above technologies, the term VPU is gaining adoption as a term 
 {% include feature_row_1 id="general_links" %}
   </div>
 </div>
-</div> -->
+</div>
