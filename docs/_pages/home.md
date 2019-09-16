@@ -37,7 +37,7 @@ general_links:
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       url: "/docs/aiatedge/"
-    - image_path: assets/images/newpost5.png
+    - image_path: assets/images/newpost11.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
@@ -89,7 +89,7 @@ partner_links:
     - image_path: /assets/images/calls.png
       alt: ""
       title: "Dial in to calls"
-      excerpt: "Join bi-weekly Intelliegent Edge Brief calls"
+      excerpt: "Join bi-weekly Intelligent Edge Brief calls"
       url: "/docs/telcos/"
 ---
 {% include feature_row_1 id="general_links" %}

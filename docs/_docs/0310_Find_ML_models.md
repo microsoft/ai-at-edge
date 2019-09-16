@@ -16,7 +16,7 @@ Deep Neural Network (DNN) models are very complicated and in order to receive an
 
 ### Model conversion
 
-AI models can often be converted to allow running them in the specific hardware. However, it's extremely important to understand that the hardware needs to support also the neural network model that is used in the model.
+AI models can often be converted to allow running them in the specific hardware. However, it's extremely important to understand that the inferencing engine in the hardware needs to support also the neural network model that is used in the model.
 
 [Convert to ONNX](https://github.com/microsoft/OLive/tree/master/docker-images/onnx-converter){:target="_blank"}
 - Use ONNX Converter Image to convert other major model frameworks to ONNX. Supported frameworks are currently
