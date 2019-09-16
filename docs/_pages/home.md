@@ -60,8 +60,8 @@ solutions_links:
       alt: ""
       title: "Train an AI/ML model"
       excerpt: "Take advantage of the faster inference times an AI@Edge device offers by learning more about ML models, the ML frameworks supported by different devices, and the tools used for training models"
-      url: "/docs/machine_learning/"
-    - image_path: /assets/images/MAIN_azure_iot.PNG
+      url: "/docs/ai/"
+    - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
       excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge devices offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
