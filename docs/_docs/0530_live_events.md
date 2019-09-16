@@ -7,12 +7,12 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-09-05
+last_modified_at: 2019-09-16
 ---
 
 ## Live Events
 
-Interested in hearing more about the opportunities AI@Edge enables. Join us in live events.
+Interested in hearing more about the opportunities AI@Edge enables? Join us at various live events.
 
 ## IoT in Action
 
