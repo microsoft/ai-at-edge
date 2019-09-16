@@ -67,7 +67,7 @@ solutions_links:
     - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
-      excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge devices offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
+      excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge devices offer, Azure IoT Edge helps containerize, deploy, and manage cloud services"
       url: "/docs/azureiot/"
 
 partner_links:
