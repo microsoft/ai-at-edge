@@ -7,10 +7,10 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-06-14
+last_modified_at: 2019-09-14
 ---
 
-## Custom Vision - Easily tailor computer vision for your use case
+### Custom Vision - Easily tailor computer vision for your use case
 
 - [Custom Vision](https://www.customvision.ai/){:target="_blank"} can be considered the easiest way to get started when creating a machine learning model for Vision that when run in a smart camera recognized images or objects
 - Azure Custom Vision is a cognitive service that lets you build, deploy and improve your own image classifiers using a simple Web UI
@@ -23,7 +23,7 @@ This service provides an end-to-end platform for managing custom image understan
 - [Get started](https://www.customvision.ai/){:target="_blank"}
 - [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home){:target="_blank"}
 
-## Options for export
+### Options for export
 
 - Custom Vision allows exporting the AI model in different format. The compat models that are suited for edge devices as opposed in the cloud. Currently supported exports are:
   - Tensorflow

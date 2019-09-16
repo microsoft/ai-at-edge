@@ -29,7 +29,7 @@ Below matrixes represent Microsoft's primary solution portfolio for different ty
 ### Microcontrollers - [Azure Sphere](https://azure.microsoft.com/en-us/services/azure-sphere/)
 Azure Sphere brings together the best of Microsoft’s expertise in cloud, software, and silicon—resulting in a unique approach to security that starts in the silicon and extends to the cloud. Together, Azure Sphere MCUs, The Azure Sphere OS, and our Azure Sphere Security Service provide a foundation of security and connectivity that lets you create intelligent products and experiences that customers love—and get them to market quickly—at a price point that enables IoT at scale.
 
-[Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/) in Microsoft docs
+[Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/){:target="_blank"} in Microsoft docs
 
 ### IoT Devices - [Device SDKs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
 
@@ -39,15 +39,16 @@ IoT Devices refers to sensors that are capable of gathering and transferring dat
 
 Edge device is a device that has one or multiple sensors and is capable of running AI model, process data and take actions without a roundtrip to cloud.
 
-A typical Edge device is described [here.]({{ '/docs/aiatedge/' | relative_url }})
+A typical Edge device is described [here.]({{ '/docs/aiatedge/' | relative_url }}){:target="_blank"}
 
-### Edge appliances - [Azure Databox Edge](https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-overview)
+### Edge appliances - [Azure Databox Edge](https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-overview){:target="_blank"}
 
 Edge appliances refes to gateway devices that do not sensors themselves to be able to generate data for example to measure temporatute or pressure, listen audio or record video. Edge appliances require sensors to be connected to them. The benefit of using these devices is that they are often capable for taking input from several sensors simultaneously and running several AI models in parallel.
 
-### Edge cloud - [Microsoft Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/)
+### Edge cloud - [Microsoft Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/){:target="_blank"}
 
 Edge cloud means running cloud infrastructure in an on-premise location instead of cloud. Edge cloud can run Azure cloud services, control edge devices and do complex data processing using locally managed hardware in a server room.
 
 **Microsoft Azure Stack** is an extension of Azure that brings the innovation of cloud computing to build and deploy hybrid applications anywhere. 
 
+Read more about [Hybrid-Cloud solutions](https://azure.microsoft.com/en-us/solutions/hybrid-cloud-app/)

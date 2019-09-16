@@ -3,6 +3,9 @@ main:
   - title: "Get Started"
     url: /docs/examples/
     target: _self
+  - title: "Hardware"
+    url: /docs/hardware/
+    target: _self
   - title: "Machine Learning"
     url: /docs/machine_learning/
     target: _self
@@ -17,14 +20,14 @@ docs:
     children:
       - title: Understand HW terminology
         url: /docs/terminology/
+      - title: End-2-end HW topology examples
+        url: /docs/hw_topology_examples/
       # - title: Learn about HW architecture solution options
       #   url: /docs/capabilities/
 
   - title: Get started with examples
     url: /docs/examples/
     children:
-      - title: End-2-end solution examples
-        url: /docs/solution_examples/
       - title: Device & solution examples
         url: /docs/hw_examples/
         children:
@@ -36,6 +39,8 @@ docs:
             url: /docs/jetsonnano/
           - title: Run ONNX model with Intel UP Squared
             url: /docs/up2/
+      - title: Azure Marketplace
+        url: /docs/marketplace/
       - title: Azure IoT Demos
         url: "https://azure-iot-megamap.azurewebsites.net/dashboard"
 
@@ -55,18 +60,23 @@ docs:
         url: /docs/hw_acceleration/
 
   - title: "Build an AI model"
-    url: /docs/machine_learning/
+    url: /docs/ai/
     children:
-      - title: "Frameworks and runtimes"
-        url: /docs/frameworks/
+      - title: "What is machine learning?"
+        url: /docs/machine_learning/
+      - title: "Learn about ONNX"
+        url: /docs/onnx/
+      - title: "Machine learning process"
+        url: /docs/ml_process/
+      - title: "Tools"
+        url: /docs/ml_tools/
       - title: "Find existing models"
         url: /docs/find_ml/
       - title: "Azure Machine Learning"
         url: /docs/aml/
       - title: "Customvision.ai"
         url: /docs/customvision/
-      # - title: "Model conversion"
-      #   url: /docs/convert/
+
 
   - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/

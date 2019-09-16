@@ -5,7 +5,7 @@ redirect_to:
   - https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-ota.md
 excerpt: "Update IoT DevKit firmware OTA (Over-the-Air) through Azure IoT Hub Automatic Device Management."
 header:
-  overlay_image: /assets/images/projects-ota-firmware-updateg.jpg
+  overlay_image: /assets/images/projects-ota-firmware-update.jpg
   overlay_full: true
   teaser: /assets/images/projects-ota-firmware-update-th.jpg
 icons:

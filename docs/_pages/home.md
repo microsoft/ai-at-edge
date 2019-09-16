@@ -4,14 +4,14 @@ permalink: /
 title:
 header:
   overlay_color: "white"
-  overlay_image: /assets/images/MAIN_overlay.PNG
+  overlay_image: /assets/images/MAIN_overlay_beta.PNG
   # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
       url: "/docs/aiatedge/"
     # - label: "Join the community"
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
-title: PREVIEW - Welcome to the AI@Edge community!
+title: Welcome to the AI@Edge community!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
@@ -37,12 +37,12 @@ general_links:
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       url: "/docs/aiatedge/"
-    - image_path: assets/images/Newpost3.png
+    - image_path: assets/images/newpost11.png
       alt: ""
       title: "Choosing a hardware topology"
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       url: "/docs/terminology/"
-    - image_path: assets/images/Newpost2.png
+    - image_path: assets/images/newpost4.png
       alt: ""
       title: "Get started"
       excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning, and solution demos"
@@ -51,16 +51,19 @@ general_links:
 solutions_links:
   title: I want to
   content:
-    - image_path: assets/images/MAIN_build_hardware.PNG
+    # - image_path: assets/images/MAIN_build_hardware.PNG
+    - image_path: assets/images/Newpost3.png
       alt: ""
       title: "Find or build an AI@Edge Device"
       excerpt: "Find existing hardware and developer kits, or use resources and best practices to  build intelligent edge capable hardware"
       url: "/docs/hardware/"
-    - image_path: /assets/images/MAIN_ai2.PNG
+    # - image_path: /assets/images/MAIN_ai2.PNG
+    - image_path: /assets/images/newpost6.png
       alt: ""
       title: "Train an AI/ML model"
-      excerpt: "Take advantage of the faster inference times an AI@Edge device offers by learning more about ML models, the ML frameworks supported by different devices, and the tools used for training models"
+      excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
       url: "/docs/ai/"
+    # - image_path: /assets/images/MAIN_azure_iot.PNG
     - image_path: assets/images/Newpost2.png
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
@@ -70,21 +73,24 @@ solutions_links:
 partner_links:
   title: Become part of the community
   content:
-    - image_path: assets/images/MAIN_community.PNG
+   # - image_path: assets/images/MAIN_community.PNG
+    - image_path: assets/images/community.png
       alt: ""
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news for Azure and Windows IoT, share your thoughts, and get help from the community
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
-    - image_path: /assets/images/MAIN_events.PNG
+    #- image_path: /assets/images/MAIN_events.PNG
+    - image_path: /assets/images/events.png
       alt: ""
       title: "Participate in Live Events"
       excerpt: "Learn about in-person events and conferences covering AI@Edge"
       url: "/docs/liveevents/"
-    - image_path: /assets/images/MAIN_tutorials.PNG
+    #- image_path: /assets/images/MAIN_tutorials.PNG
+    - image_path: /assets/images/calls.png
       alt: ""
-      title: "Sign up for updates"
-      excerpt: "Sign up to receive information about updates to this portal"
-      url: "/docs/tutorials/"
+      title: "Dial in to calls"
+      excerpt: "Join bi-weekly Intelligent Edge Brief calls"
+      url: "/docs/telcos/"
 ---
 {% include feature_row_1 id="general_links" %}
 {% include feature_row_1 id="solutions_links" %}

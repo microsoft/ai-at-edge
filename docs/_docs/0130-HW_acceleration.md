@@ -9,18 +9,6 @@ variable:
     name: macOS
 last_modified_at: 2019-05-28
 
-general:
-  content:
-    - title: HW Acceleration at Edge
-general_links:
-  content:
-    - image_path: /assets/images/AI_Channel9_HW_acceleration.PNG
-      alt: ""
-      title: ""
-      excerpt: ""
-      btn_label: " "
-      url: https://channel9.msdn.com/Shows/Internet-of-Things-Show/Hardware-Acceleration-for-AI-at-the-Edge
-
 ---
 
 ### What is hardware acceleration?
@@ -57,12 +45,6 @@ DSP is a custom intergrated circuit that is optimized from performance point of 
 
 A variant of the above technologies, the term VPU is gaining adoption as a term to describe hardware components that are specizlied for Vision AI and related applications.
 
-<!-- ### Check out Channel9 video that talk about HW acceleration at Edge
+### Check out Channel9 video that talk about HW acceleration at Edge
 
-<div class="white">
-<div class="feature__wrapper">
-  <div class="landing-page-videos">
-{% include feature_row_1 id="general_links" %}
-  </div>
-</div>
-</div> -->
+<iframe src="https://channel9.msdn.com/Shows/Internet-of-Things-Show/Hardware-Acceleration-for-AI-at-the-Edge/player" width="480" height="270" allowFullScreen frameBorder="0" title="Hardware Acceleration for AI at the Edge - Microsoft Channel 9 Video"></iframe>

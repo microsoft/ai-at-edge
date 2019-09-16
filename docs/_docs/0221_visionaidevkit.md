@@ -19,7 +19,8 @@ last_modified_at: 2019-09-02
 
 | Solution example |
 | :----------- |
-| This project demonstrates the implementation of a Custom Vision ML model to the Vision AI DevKit to identify the presence of workplace safety equipment such as hardhats, vests, and safety glasses. As each object is detected, the information is stored and an alarm is triggered when a person that is not wearing the specified eqipment is detected in the frame. Clone project source code from [GitHub](https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/edge-ai-void-detection){:target="_blank"} and it also contain an example for Azure Stack|
+| This project demonstrates the implementation of a Custom Vision ML model to the Vision AI DevKit to identify the presence of workplace safety equipment such as hardhats, vests, and safety glasses. As each object is detected, the information is stored and an alarm is triggered when a person that is not wearing the specified eqipment is detected in the frame. Clone project source code from [GitHub](https://github.com/balakreshnan/WorkplaceSafety){:target="_blank"} 
+
 
 | ![Standard IoT architecture]({{ '/assets/images/WorkplaceSafetyarch.jpg' | relative_url }}) |
 
