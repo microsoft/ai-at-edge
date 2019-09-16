@@ -19,5 +19,4 @@ There are several ways to interact with AI@Edge communities
 
 - [Intelligent Edge Brief]({{ '/docs/telcos/' | relative_url }}) calls focusing on "heavier edge" - Databox Edge and Azure Stack
 
-- Participate the [live events]({{ '/docs/liveevents/' | relative_url }}). Meet us in conferences.
-
+- Participate the [live events]({{ '/docs/liveevents/' | relative_url }}). Meet us at conferences.
