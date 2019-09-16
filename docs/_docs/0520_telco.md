@@ -17,7 +17,7 @@ Please join us every other Friday (through December 2019) at 11:00 a.m. Central 
 Agenda:
 
 - Overview of the latest news surrounding Azure Intelligent Edge solutions
-- Drill down on 1-2 focus areas: [Specific Topics](https://aka.ms/aieb-topics){:target="_blank"} to be discussed will be posted a few days prior to the webcast:  
+- Drill down on 1-2 focus areas. [Specific Topics](https://aka.ms/aieb-topics){:target="_blank"} will be posted a few days prior to the webcast.  
 
 Important links:
 
