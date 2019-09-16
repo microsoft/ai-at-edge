@@ -61,7 +61,7 @@ solutions_links:
     - image_path: /assets/images/newpost6.png
       alt: ""
       title: "Train an AI/ML model"
-      excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
+      excerpt: "Take advantage of the faster inference times an AI@Edge device offers by learning more about ML models, the ML frameworks supported by different devices, and the tools used for training models"
       url: "/docs/ai/"
     # - image_path: /assets/images/MAIN_azure_iot.PNG
     - image_path: assets/images/Newpost2.png
