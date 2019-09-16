@@ -64,12 +64,12 @@ docs:
     children:
       - title: "What is machine learning?"
         url: /docs/machine_learning/
-      - title: "Learn about ONNX"
-        url: /docs/onnx/
       - title: "Machine learning process"
         url: /docs/ml_process/
       - title: "Tools"
         url: /docs/ml_tools/
+      - title: "Learn about ONNX"
+        url: /docs/onnx/
       - title: "Find existing models"
         url: /docs/find_ml/
       - title: "Azure Machine Learning"
