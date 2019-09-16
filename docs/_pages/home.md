@@ -59,12 +59,12 @@ solutions_links:
     - image_path: /assets/images/MAIN_ai2.PNG
       alt: ""
       title: "Train an AI/ML model"
-      excerpt: "To take advantage of the faster inference times an AI@Edge device can provide, learn more about ML models, the ML frameworks supported by different devices, and the tools used for training the models"
+      excerpt: "Take advantage of the faster inference times an AI@Edge device offers by learning more about ML models, the ML frameworks supported by different devices, and the tools used for training models"
       url: "/docs/machine_learning/"
     - image_path: /assets/images/MAIN_azure_iot.PNG
       alt: ""
       title: "Operate and maintain an AI@Edge solution"
-      excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge device offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
+      excerpt: "To take advantage of the fast turn around, offine capabilities and filtered data AI@Edge devices offer, Azure IoT Edge enables you to conatinerize, deploy, and manage cloud services to your AI@Edge device"
       url: "/docs/azureiot/"
 
 partner_links:
@@ -73,12 +73,12 @@ partner_links:
     - image_path: assets/images/MAIN_community.PNG
       alt: ""
       title: "Join the AI@Edge community"
-      excerpt: Hear the latest solution and services news from Azure and Windows IoT, share your thoughts, and get help from the community
+      excerpt: Hear the latest solution and services news for Azure and Windows IoT, share your thoughts, and get help from the community
       url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
     - image_path: /assets/images/MAIN_events.PNG
       alt: ""
       title: "Participate in Live Events"
-      excerpt: "Learn about in-person events and conferences related to AI@Edge topics"
+      excerpt: "Learn about in-person events and conferences covering AI@Edge"
       url: "/docs/liveevents/"
     - image_path: /assets/images/MAIN_tutorials.PNG
       alt: ""
