@@ -10,9 +10,9 @@ variable:
 last_modified_at: 2019-09-02
 ---
 
-## Run ONNX models with Jetson Nano
+## Run ONNX models with NVidia Jetson Nano
 
-| **[Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/){:target="_blank"}** |  |
+| **[NVidia Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/){:target="_blank"}** |  |
 | :----------- |
 | NVIDIA® Jetson Nano™ Developer Kit is a small, powerful computer that lets you run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing. All in an easy-to-use platform that runs in as little as 5 watts. It opens new worlds of embedded IoT applications, including entry-level Network Video Recorders (NVRs), home robots, and intelligent gateways with full analytics capabilities. | ![Jetson Nano]({{ '/assets/images/devices_jetson_nano.jpg' | relative_url }}) | 
 

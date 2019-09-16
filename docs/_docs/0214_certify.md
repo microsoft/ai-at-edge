@@ -13,7 +13,7 @@ last_modified_at: 2019-07-08
 ## IoT Edge Certification
 
 ### General 
-Azure IoT Edge Certification program started in June 2018 currently have 80 + IoT Edge Certified devices in Device Catalog. Microsoft is certifying against IoT Edge runtime pre-installation and ability to deploy the Edge Modules on the Edge device apart from connectivity to Azure IoT Hub.
+Azure IoT Edge Certification program started in June 2018 and there is currently 80 + IoT Edge Certified devices in Device Catalog. Microsoft is certifying against IoT Edge runtime pre-installation and ability to deploy the Edge Modules on the Edge device apart from connectivity to Azure IoT Hub.
 
 ## Process
 -	Submit Device: Partner submit the device in [Partner Dashboard](https://catalog.azureiotsolutions.com/){:target="_blank"}
