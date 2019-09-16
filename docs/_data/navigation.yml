@@ -77,7 +77,6 @@ docs:
       - title: "Customvision.ai"
         url: /docs/customvision/
 
-
   - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/
     children:
