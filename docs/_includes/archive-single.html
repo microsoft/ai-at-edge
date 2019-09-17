@@ -10,6 +10,18 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.redirect_to %}
+  {% assign post_url = post.redirect_to %}
+{% else %}
+  {% assign post_url = post.url %}
+{% endif %}
+
+{% if post_url contains "://" %}
+  {% capture post_url %}{{ post_url }}{% endcapture %}
+{% else %}
+  {% capture post_url %}{{ post_url | relative_url }}{% endcapture %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -30,9 +42,9 @@
     <div class="archive__item-body">
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
-          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
-          <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+          <a href="{{ post_url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       </h2>
       {% if post.read_time %}
