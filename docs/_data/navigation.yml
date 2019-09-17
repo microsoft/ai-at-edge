@@ -7,7 +7,7 @@ main:
     url: /docs/ai/
     target: _self
   - title: "Azure Services"
-    url: /docs/azure_iot/
+    url: /docs/azureiot/
     target: _self
   - title: "Community"
     url: /docs/community/
