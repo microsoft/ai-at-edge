@@ -12,6 +12,9 @@ main:
   - title: "Community"
     url: /docs/community/
     target: _self
+  - title: "Contact Us"
+    url: /docs/contact_us/
+    target: _self
     
 # documentation links
 docs:
