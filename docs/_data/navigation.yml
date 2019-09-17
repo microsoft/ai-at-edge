@@ -40,8 +40,8 @@ docs:
             url: /docs/visionaidevkit/
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
-          - title: Run ONNX model with UP Squared
-            url: /docs/up2/
+          # - title: Run ONNX model with UP Squared
+          #   url: /docs/up2/
       - title: Azure Marketplace
         url: /docs/marketplace/
       - title: Azure IoT Demos
