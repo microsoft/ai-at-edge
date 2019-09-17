@@ -4,7 +4,7 @@ permalink: /
 title:
 header:
   overlay_color: "white"
-  overlay_image: /assets/images/MAIN_overlay_beta.PNG
+  overlay_image: /assets/images/MAIN_overlay.PNG
   # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
