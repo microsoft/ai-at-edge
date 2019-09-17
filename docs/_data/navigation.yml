@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Get Started"
-    url: /docs/examples/
-    target: _self
   - title: "Hardware"
     url: /docs/hardware/
     target: _self
   - title: "Machine Learning"
     url: /docs/machine_learning/
+    target: _self
+  - title: "Azure Services"
+    url: /docs/mazure_iot/
     target: _self
   - title: "Community"
     url: /docs/community/
