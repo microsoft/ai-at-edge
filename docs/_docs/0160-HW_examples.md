@@ -1,7 +1,7 @@
 ---
-title: "Examples combining Ai model and hardware"
+title: "Examples combining AI model and hardware"
 permalink: /docs/hw_examples/
-excerpt: "Examples combining machine learning and hardware"
+excerpt: "Examples combining AI model and hardware"
 variable:
   - platform: windows
     name: Windows
@@ -20,3 +20,7 @@ Here is a list of product examples using a proven and tested combination of hard
 | ![Databox]({{ '/assets/images/ICON_databox.PNG' | relative_url }}) | [**Azure Databox Edge**]({{ '/docs/databoxedge/' | relative_url }}) | Smart gateway (+ camera) | Vision | Retail, recognition of empty shelves in store |
 | ![Jetson]({{ '/assets/images/ICON_jetsonnano.PNG' | relative_url }}) | [**Jetson Nano**]({{ '/docs/jetsonnano/' | relative_url }}) | Developer Kit, Smart gateway (+ camera) | Vision | Enable running ONNX models on device |
 | ![UP2]({{ '/assets/images/ICON_up2.PNG' | relative_url }}) | [**Intel powered Aaeon UP Squared**]({{ '/docs/up2/' | relative_url }}) | Developer Kit, Smart Camera | Vision | Enable running ONNX models on device |
+
+### Want to publish your own example?
+
+Send email to [aiedge@microsoft.com](mailto:aiedge@microsoft.com) 
