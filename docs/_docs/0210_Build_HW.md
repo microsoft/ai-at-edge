@@ -32,6 +32,12 @@ Read more about [Hardware acceleration]({{ '/docs/hw_acceleration/' | relative_u
 
 In addition to selecting and developing hardware with AI acceleration in mind, you should also take into account the system requirements to support the IoT Edge Runtime which will manage enable cloud connectivity and management for the device.  As a best practice we recommend running your application in a container so you should ensure the hardware supports a container engine.  For detailed information on system requirements and containers with IoT Edge runtime, see the documentation for [Platform Support](https://docs.microsoft.com/en-us/azure/iot-edge/support){:target="_blank"}
 
+### Enable ONNX
+
+[ONNX](https://onnx.ai/){:target="_blank"} is an open format to represent both deep learning and traditional models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them.
+
+See instructions for enabling ONNX runtim in [ONNX runtime GitHub](https://github.com/microsoft/onnxruntime){:target="_blank"}.
+
 ### Plan for deploying devices at scale
 
 When using development kits or deploying prototype devices, you may be relying on setting up each device individually which would be difficult to manage once you are ready to deploy at scale.  When you're ready to deploy at scale, you should leverage technologies such as DPS that ease deployment and ensure that devices are production ready.  For more information, consult the following resources.  
