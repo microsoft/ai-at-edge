@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Examples combining AI model and hardware"
-permalink: /docs/hw_projects/
+permalink: /docs/hw_examples/
 author_profile: false
 ---
 
