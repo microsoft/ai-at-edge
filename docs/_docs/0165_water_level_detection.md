@@ -1,6 +1,6 @@
 ---
 title: "Audio based anomaly detection"
-permalink: /docs/visionaidevkit/
+permalink: /docs/water_level/
 excerpt: "Audio based anomaly detection"
 variable:
   - platform: windows
