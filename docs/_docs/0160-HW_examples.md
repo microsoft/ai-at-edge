@@ -17,7 +17,7 @@ Here is a list of product examples using a proven and tested combination of hard
 | | **Device name** | **Device type** |**AI model** | **AI Solution area example** | 
 | :----------- |
 | ![VAIDK]({{ '/assets/images/ICON_visionaidevkit.PNG' | relative_url }}) | [**Vision AI Developer Kit**]({{ '/docs/visionaidevkit/' | relative_url }}) | Developer Kit, Smart Camera | Vision | Workplace safety, checking that people are wearing safety gear |
-| ![Databox]({{ '/assets/images/ICON_databox.PNG' | relative_url }}) | [**Azure Databox Edge**]({{ '/docs/databoxedge/' | relative_url }}) | Smart gateway (+ camera) | Vision | Retail, recognition of empty shelves in store |
+| ![Databox]({{ '/assets/images/ICON_databox.PNG' | relative_url }}) | [**Azure Databox Edge**]({{ '/docs/databox/' | relative_url }}) | Smart gateway (+ camera) | Vision | Retail, recognition of empty shelves in store |
 | ![Jetson]({{ '/assets/images/ICON_jetsonnano.PNG' | relative_url }}) | [**NVIDIA Jetson Nano**]({{ '/docs/jetsonnano/' | relative_url }}) | Developer Kit, Smart gateway (+ camera) | Vision | Enable running ONNX models on device |
 
 <!-- | ![UP2]({{ '/assets/images/ICON_up2.PNG' | relative_url }}) | [**Intel powered Aaeon UP Squared**]({{ '/docs/up2/' | relative_url }}) | Developer Kit, Smart Camera | Vision | Enable running ONNX models on device | -->

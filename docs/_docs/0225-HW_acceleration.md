@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-05-28
+last_modified_at: 2019-08-28
 
 ---
 
