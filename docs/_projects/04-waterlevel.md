@@ -6,7 +6,7 @@ excerpt: Get started with audio based for anomaly detection
 header:
   overlay_image: 
   overlay_full: true
-  teaser: /assets/images/PROJECT_water_level_detection.PNG
+  teaser: /assets/images/PROJECT_water_level_detection.png
 icons:
   - url: /assets/images/DEVKIT_vaidk_small.png
     target: https://www.visionaidevkit.com
