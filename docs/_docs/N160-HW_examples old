@@ -1,6 +1,6 @@
 ---
 title: "Examples combining AI model and hardware"
-permalink: /docs/hw_examples/
+permalink: /docs/s
 excerpt: "Examples combining AI model and hardware"
 variable:
   - platform: windows

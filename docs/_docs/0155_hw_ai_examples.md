@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Project Catalog"
-permalink: /docs/projects/
+title: "Examples combining AI model and hardware"
+permalink: /docs/hw_projects/
 author_profile: false
 ---
 
-<h3>Official tutorials that guide you build and learn Vision-AI-DevKit.</h3>
-
+Here is a list of product examples using a proven and tested combination of hardware and AI model. Most of the examples are stored in specific GitHub instances and contain the assets and instructions to get you started. You will of course need the hardware to go with the example.
 
 <div class="grid__wrapper grid__catalog">
 
@@ -32,3 +31,7 @@ author_profile: false
   {% endfor %}
 
 </div>
+
+### Want to publish your own example?
+
+Send email to [aiedge@microsoft.com](mailto:aiedge@microsoft.com) 

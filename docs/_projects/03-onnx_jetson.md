@@ -1,5 +1,5 @@
 ---
-title: “Run ONNX on NVIDIA Jetson Nano"
+title: Run ONNX on NVIDIA Jetson Nano
 permalink: /docs/projects/jetsonnano/
 redirect_to: https://microsoft.github.io/ai-at-edge/docs/jetsonnano
 excerpt: Get started with ONNX framework and NVIDIA Jetson Nano
