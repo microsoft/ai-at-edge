@@ -36,7 +36,7 @@ In addition to selecting and developing hardware with AI acceleration in mind, y
 
 [ONNX](https://onnx.ai/){:target="_blank"} is an open format to represent both deep learning and traditional models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them.
 
-See instructions for enabling ONNX runtim in [ONNX runtime GitHub](https://github.com/microsoft/onnxruntime){:target="_blank"}.
+See instructions for enabling ONNX runtime in [ONNX runtime GitHub](https://github.com/microsoft/onnxruntime){:target="_blank"}.
 
 ### Plan for deploying devices at scale
 

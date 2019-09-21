@@ -85,6 +85,12 @@ docs:
   - title: "Operate and maintain an AI@Edge solution"
     url: /docs/azureiot/
     children:
+      - title: "Enable intelligence with IoT Edge"
+        url: /docs/iot_edge/
+      - title: "Connect to cloud with IoT Hub"
+        url: /docs/iot_hub/
+      - title: "Run containerized Azure services at the edge"
+        url: /docs/containerized_services/     
 
   - title: Become part of AI@Edge Community
     url: /docs/community/
