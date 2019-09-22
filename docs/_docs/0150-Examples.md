@@ -9,29 +9,29 @@ variable:
     name: macOS
 last_modified_at: 2019-05-28
 
-examples:
-  content:
-    - title: See examples
-example_links:
-  content:
-    - image_path: assets/images/EXAMPLE_setup.PNG
-      alt: ""
-      title: "Identify architecture opportunities"
-      excerpt: "Get familiar with main building blocks of an intelligent edge solutions and get familiar with high level hardware architecture options"
-      btn_label: " "
-      url: "/docs/solution_examples/"
-    - image_path: /assets/images/EXAMPLE_hw.PNG
-      alt: ""
-      title: "Get started with devices and machine learning"
-      excerpt: "Kick-start your development with a device and proven setup for machine learning."
-      btn_label: " "
-      url: "/docs/hw_examples/"
-    - image_path: /assets/images/EXAMPLE_azureiot.PNG
-      alt: ""
-      title: "Azure IoT demos"
-      excerpt: "See demos and product examples for Azure IoT implementations"
-      btn_label: " "
-      url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
+# examples:
+#   content:
+#     - title: See examples
+# example_links:
+#   content:
+#     - image_path: assets/images/EXAMPLE_setup.PNG
+#       alt: ""
+#       title: "Identify architecture opportunities"
+#       excerpt: "Get familiar with main building blocks of an intelligent edge solutions and get familiar with high level hardware architecture options"
+#       btn_label: " "
+#       url: "/docs/solution_examples/"
+#     - image_path: /assets/images/EXAMPLE_hw.PNG
+#       alt: ""
+#       title: "Get started with devices and machine learning"
+#       excerpt: "Kick-start your development with a device and proven setup for machine learning."
+#       btn_label: " "
+#       url: "/docs/hw_examples/"
+#     - image_path: /assets/images/EXAMPLE_azureiot.PNG
+#       alt: ""
+#       title: "Azure IoT demos"
+#       excerpt: "See demos and product examples for Azure IoT implementations"
+#       btn_label: " "
+#       url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
 
 examples:
   content:
@@ -50,25 +50,12 @@ example_links:
       excerpt: "Find and publish IoT Edge modules in Azure Marketplace"
       btn_label: " "
       url: "/docs/marketplace/"
-    - image_path: /assets/images/EXAMPLE_azureiot.PNG
-      alt: ""
-      title: "Azure IoT demos"
-      excerpt: "See demos and product examples for Azure IoT implementations"
-      btn_label: " "
-      url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
-
-examples2:
-  content:
-    - title: 
-example_links2:
-  content:
-    - image_path: assets/images/azure_marketplace.png
-      alt: ""
-      title: "Find IoT Edge modules"
-      excerpt: "Find existing IoT Edge modules from Azure Marketplace"
-      btn_label: " "
-      url: "https://aka.ms/iot-edge-marketplace"
-
+    # - image_path: /assets/images/EXAMPLE_azureiot.PNG
+    #   alt: ""
+    #   title: "Azure IoT demos"
+    #   excerpt: "See demos and product examples for Azure IoT implementations"
+    #   btn_label: " "
+    #   url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
 
 ---
 

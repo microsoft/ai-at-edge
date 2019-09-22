@@ -1,6 +1,6 @@
 ---
 title: "Connect to cloud with IoT Hub"
-permalink: /docs/iot_hubt/
+permalink: /docs/iot_hub/
 excerpt: "Connect to cloud with IoT Hub"
 variable:
   - platform: windows
