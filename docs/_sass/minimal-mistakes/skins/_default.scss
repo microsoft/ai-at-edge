@@ -18,8 +18,9 @@ $masthead-link-color-hover  : $primary-color !default;
 
 // changed to black by juniem to meet accessibility critaria
 // $text-color                 : #333 !default;
+// $muted-text-color           : mix(#fff, $text-color, 35%) !default;
 $text-color                 : black !default;
-$muted-text-color           : mix(#fff, $text-color, 35%) !default;
+$muted-text-color           : black !default;
 /*
 $text-color                 : #222831 !default;
 $background-color           : $lighter-gray !default;
