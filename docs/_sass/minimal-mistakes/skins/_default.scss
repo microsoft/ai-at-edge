@@ -47,15 +47,17 @@ $background-color           : $lighter-gray !default;
     background-image: url("/ai-at-edge/assets/images/newpost10.png");
 }
 
+// Original #737373 and #a6a6a6. Edited by juniem because of accessibility requirements
+
 .page__footer {
     margin-top: 0em !important; //override 
-    color: #737373 !important; // override
+    color: white !important; // override
     p, strong {
-        color: #737373 !important; // override
+        color: white !important; // override
     }
 
     a {
-        color: #a6a6a6 !important; // override
+        color: white !important; // override
     }
 }
 

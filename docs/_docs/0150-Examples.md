@@ -39,23 +39,30 @@ examples:
 example_links:
   content:
     - image_path: /assets/images/EXAMPLE_hw.PNG
-      alt: ""
+      alt: "Get started with devices and machine learning"
       title: "Get started with devices and machine learning"
       excerpt: "Kick-start your development with a device and proven setup for machine learning."
       btn_label: " "
       url: "/docs/hw_examples/"
-    - image_path: assets/images/azure_marketplace.png
-      alt: ""
+    - image_path: assets/images/EXAMPLE_marketplace.PNG
+      alt: "IoT Edge modules in Azure Marketplace"
       title: "IoT Edge modules in Azure Marketplace"
       excerpt: "Find and publish IoT Edge modules in Azure Marketplace"
       btn_label: " "
       url: "/docs/marketplace/"
+    - image_path: /assets/images/EXAMPLE_iot_solutions.PNG
+      alt: "Read about building Azure IoT Solutions"
+      title: "Azure IoT Solutions"
+      excerpt: "Visit the comprehensive guide for building IoT solutions with Azure"
+      btn_label: " "
+      url: "https://discover.microsoft.com/azure-iot-building-solutions-dev-guide/"     
+
     # - image_path: /assets/images/EXAMPLE_azureiot.PNG
     #   alt: ""
     #   title: "Azure IoT demos"
     #   excerpt: "See demos and product examples for Azure IoT implementations"
     #   btn_label: " "
-    #   url: "https://azure-iot-megamap.azurewebsites.net/dashboard"     
+    #   url: "https://azure-iot-megamap.azurewebsites.net/dashboard"  
 
 ---
 
