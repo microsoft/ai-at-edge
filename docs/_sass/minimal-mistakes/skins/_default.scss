@@ -16,7 +16,9 @@ $footer-background-color    : #393939 !default;
 $masthead-link-color        : $primary-color !default;
 $masthead-link-color-hover  : $primary-color !default;
 
-$text-color                 : #333 !default;
+// changed to black by juniem to meet accessibility critaria
+// $text-color                 : #333 !default;
+$text-color                 : black !default;
 $muted-text-color           : mix(#fff, $text-color, 35%) !default;
 /*
 $text-color                 : #222831 !default;
