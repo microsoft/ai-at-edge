@@ -31,9 +31,12 @@ Azure Sphere brings together the best of Microsoft’s expertise in cloud, softw
 
 [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/){:target="_blank"} in Microsoft docs
 
+Check out Channel 9 video about **Running AI on IoT microcontroller devices with ELL**
+<iframe src="https://channel9.msdn.com/Shows/Internet-of-Things-Show/Running-AI-on-IoT-microcontroller-devices-with-ELL/player" width="640" height="360" allowFullScreen frameBorder="0" title="Running AI on IoT microcontroller devices with ELL - Microsoft Channel 9 Video"></iframe>
+
 ### IoT Devices - [Device SDKs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
 
-IoT Devices refers to sensors that are capable of gathering and transferring data, but not powerfull enough to run AI models and process data in a device. In very simple terms, they don't run IoT Edge runtime and enables running containerized services. Device SDKs enable you to build apps that run on your IoT devices. These apps send telemetry to your IoT hub, and optionally receive messages, job, method, or twin updates from your IoT hub. You can connect virtually any device to IoT Hub by leveraging different device SDKs.
+IoT Devices refers to sensors that are capable of gathering and transferring data, but not powerful enough to run AI models and process data in a device. In very simple terms, they don't run IoT Edge runtime and enables running containerized services. Device SDKs enable you to build apps that run on your IoT devices. These apps send telemetry to your IoT hub, and optionally receive messages, job, method, or twin updates from your IoT hub. You can connect virtually any device to IoT Hub by leveraging different device SDKs.
 
 ### Edge devices
 

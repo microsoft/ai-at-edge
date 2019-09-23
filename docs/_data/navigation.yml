@@ -46,8 +46,8 @@ docs:
             url: /docs/water_level/
       - title: Azure Marketplace
         url: /docs/marketplace/
-      - title: Azure IoT Demos
-        url: "https://azure-iot-megamap.azurewebsites.net/dashboard"
+      # - title: Azure IoT Demos
+      #   url: "https://azure-iot-megamap.azurewebsites.net/dashboard"
 
   - title: Build and find AI@Edge devices
     url: /docs/hardware/
