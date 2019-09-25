@@ -32,6 +32,6 @@ Here is a list of product examples using a proven and tested combination of hard
 
 </div>
 
-### Want to publish your own example?
 
-Send email to [aiedge@microsoft.com](mailto:aiedge@microsoft.com) 
+| **Want to publish your own example?** |
+| Send email to [aiedge@microsoft.com](mailto:aiedge@microsoft.com) |

@@ -1,7 +1,7 @@
 ---
 title: Water level detection using audio
 permalink: /docs/projects/water_level_audio/
-redirect_to: https://microsoft.github.io/ai-at-edge/docs/water_level
+redirect_to: /docs/water_level
 excerpt: Get started with audio based for anomaly detection
 header:
   overlay_image: 

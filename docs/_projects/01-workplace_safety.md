@@ -1,7 +1,7 @@
 ---
 title: "Workplace safety with Vision AI Developer Kit"
 permalink: /docs/projects/vision/
-redirect_to: https://microsoft.github.io/ai-at-edge/docs/visionaidevkit
+redirect_to: /docs/visionaidevkit
 excerpt: "Get started with a workplace safety solution"
 header:
   overlay_image: 
