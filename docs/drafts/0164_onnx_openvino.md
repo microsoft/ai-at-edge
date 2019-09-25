@@ -16,7 +16,7 @@ last_modified_at: 2019-09-24
 | :----------- |
 | **Get good, better or best** Intel® powered developer kits come with one or multiple CPU choices - Atom, Core and Xeon. You can select to use the one that best fits your use case |
 | **UP Squared** that comes with Intel's Atom processor is a high performance kit that provides a clear path to production, simple set up and configuration with pre-installed Ubuntu OS, expanded I/O to help with rapid prototyping, and a means to incorporate complex and advanced libraries in an intuitive fashion. All bundled into one package along with prototyping sensors with a clear path to industrial grade sensors for commercial deployments.  | ![UP2]({{ '/assets/images/devices_up2.png' | relative_url }})|
-| **IEI TANK AIoT** Developer Kit ships with either Core (i5/i7) or Xeon (E3) processors with an optional vision accelerator enables analysis of more than 16 video streams, deep neural network (DNN) inferencing for AI at the edge and comes with consistent APIs and runtimes across cameras, edge appliances, and cloud solutions | ![Tank]({{ '/assets/images/devices_tank2.png' | relative_url }})| 
+| **IEI TANK AIoT** Developer Kit ships with either Core (i5/i7) or Xeon (E3) processor and with an optional vision accelerator and enables analysis of more than 16 video streams, deep neural network (DNN) inferencing for AI at the edge and comes with consistent APIs and runtimes across cameras, edge appliances, and cloud solutions | ![Tank]({{ '/assets/images/devices_tank2.png' | relative_url }})| 
 
 | Solution example |
 | :----------- |
