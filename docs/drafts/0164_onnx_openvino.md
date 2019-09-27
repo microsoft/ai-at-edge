@@ -12,7 +12,7 @@ last_modified_at: 2019-09-24
 
 ## Run ONNX models with OpenVINO™ in Intel® powered hardware
 
-| **[Intel® powered Aaeon UP Squared and IEI Tank developer kits](https://software.intel.com/en-us/iot/cloud-analytics/microsoft-azure){:target="_blank"}** |  |
+| **[Intel® powered developer kits for ONNX and Azure IoT](https://software.intel.com/en-us/iot/cloud-analytics/microsoft-azure){:target="_blank"}** |  |
 | :----------- |
 | **Get good, better or best** Intel® powered developer kits come with one or multiple CPU choices - Atom™, Core™ and Xeon™. You can select to use the one that best fits your use case |
 | **UP Squared** that comes with Intel's Atom™ processor is a high performance kit that provides a clear path to production, simple set up and configuration with pre-installed Ubuntu OS, expanded I/O to help with rapid prototyping, and a means to incorporate complex and advanced libraries in an intuitive fashion. All bundled into one package along with prototyping sensors with a clear path to industrial grade sensors for commercial deployments.  | ![UP2]({{ '/assets/images/devices_up2.png' | relative_url }})|

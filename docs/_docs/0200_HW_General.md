@@ -1,5 +1,5 @@
 ---
-title: "Vision@Edge Hardware"
+title: "AI@Edge Hardware"
 permalink: /docs/hardware/
 excerpt: "General hardware landing page"
 

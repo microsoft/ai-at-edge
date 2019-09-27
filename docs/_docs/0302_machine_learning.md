@@ -19,7 +19,7 @@ In the context of AI@Edge the machine learning models are run in containers that
 ### Creating an AI model
 
 To get started you'll need to:
-- Decide which you are going to use
+- Decide which machine learning framework (and neural network) you are going to use
 - Select [tools]({{ '/docs/ml_tools/' | relative_url }}) to be used
 - Understand the high level [process]({{ '/docs/ml_process/' | relative_url }})
 
