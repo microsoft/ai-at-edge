@@ -28,6 +28,11 @@ The Speech Services by [Cognitive Services](https://azure.microsoft.com/en-us/se
 - [Speech translation](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-translation){:target="_blank"}
 - [Voice-first virtual assistants preview](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/voice-first-virtual-assistants){:target="_blank"}
 
+### Get started with Custom Speech service
+
+What is [Custom Speech](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-custom-speech){:target="_blank"}?
+Access [Custom Speech portal](https://speech.microsoft.com/portal){:target="_blank"}
+
 ### Get started with a device and speech
 
 Get Speech Devices SDK and find suitable development kits [here](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/get-speech-devices-sdk){:target="_blank"}.
