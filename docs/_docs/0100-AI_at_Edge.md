@@ -18,7 +18,7 @@ In a traditional Internet of Things (IoT) architecture, a device has one or more
 
 ## Intelligent Edge
 
-![Standard IoT architecture]({{ '/assets/images/AI_Intelligent_Edge2.PNG' | relative_url }})
+![AI@Edge architecture]({{ '/assets/images/AI_Intelligent_Edge2.PNG' | relative_url }})
 
 The Intelligent Edge brings the processing of AI algorithms and the taking of resulting actions to the device itself. Cloud Services can be defined, containerized, and deployed to one (or many) devices. Being able to run “AI@Edge” has multiple benefits:
 
