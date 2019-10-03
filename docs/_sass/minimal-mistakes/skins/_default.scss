@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$gray                       : #1976d2 !default;
+$gray                       : #0065b3 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
@@ -25,6 +25,9 @@ $muted-text-color           : black !default;
 $text-color                 : #222831 !default;
 $background-color           : $lighter-gray !default;
 */
+
+
+
 
 .layout--single, .archive{
     #page-title{
@@ -199,6 +202,13 @@ $background-color           : $lighter-gray !default;
     }
 }
 
+/* links Custom Contrast */
+#main
+{
+    a {color: #121F47 !important;}
+    a:visited { color: #003d6b !important; }
+    a:hover { color: #0065b3 !important; outline: 0; }
+}
 
 .page__footer-nav {
     font-family: $global-font-family;
