@@ -39,7 +39,7 @@ Get Speech Devices SDK and find suitable development kits [here](https://docs.mi
 
 ### Testing a speech platform device
 
-| The signal paths and architecture used for testing a Microsoft Windows Speech Platform device are described below: |
+The signal paths and architecture used for testing a Microsoft Windows Speech Platform device are described below:
 ![Speech testing]({{ '/assets/images/speech_testing.PNG' | relative_url }})
 
 Capture streams represent audio signals acquired by integrated microphone(s), and pre-processed for use by a speech recognition engine or keyword spotter.
