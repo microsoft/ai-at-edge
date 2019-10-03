@@ -210,6 +210,20 @@ $background-color           : $lighter-gray !default;
     a:hover { color: #0065b3 !important; outline: 0; }
 }
 
+/* Custom Font Override and change of body width */
+#main
+{
+   body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;}
+   max-width: 100% !important;
+   margin-left: 100px !important;
+   margin-right: 100px !important;
+}
+
+.page__content
+{
+  font-size: 16px !important;
+}
+
 .page__footer-nav {
     font-family: $global-font-family;
     font-size: $type-size-7;
