@@ -78,7 +78,7 @@ partner_links:
       alt: "Join the AI@Edge community"
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news for Azure and Windows IoT, share your thoughts, and get help from the community
-      url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
+      url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
     #- image_path: /assets/images/MAIN_events.PNG
     - image_path: /assets/images/events.png
       alt: "Participate in Live Events"

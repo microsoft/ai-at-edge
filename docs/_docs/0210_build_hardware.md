@@ -1,7 +1,7 @@
 ---
-title: "Build Hardware for Vision@Edge"
+title: "Build AI@Edge Hardware"
 permalink: /docs/buildhardware/
-excerpt: "General hardware landing page"
+excerpt: "Build AI@Edge Hardware"
 variable:
   - platform: windows
     name: Windows
