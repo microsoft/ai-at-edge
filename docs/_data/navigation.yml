@@ -40,8 +40,8 @@ docs:
             url: /docs/visionaidevkit/
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
-          - title: "Run ONNX model with OpenVINO™ in Intel® powered hardware"
-            url: /docs/onnx_openvino/
+          # - title: "Run ONNX model with OpenVINO™ in Intel® powered hardware"
+          #   url: /docs/onnx_openvino/
           - title: Audio based anomaly detection
             url: /docs/water_level/
       - title: Azure Marketplace
