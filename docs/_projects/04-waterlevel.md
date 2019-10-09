@@ -1,12 +1,12 @@
 ---
-title: Water level detection using audio
-permalink: /docs/projects/water_level_audio/
+title: Create an audio based anomaly detection model
+permalink: /docs/projects/vaidk_/
 redirect_to: /docs/water_level
-excerpt: Get started with audio based for anomaly detection
+excerpt: Learn how to record audio samples, create an AI model based on them and run it on Vision AI Developer Kit
 header:
   overlay_image: 
   overlay_full: true
-  teaser: /assets/images/PROJECT_water_level_detection.png
+  teaser: /assets/images/WN_audio.PNG
 icons:
   - url: /assets/images/DEVKIT_vaidk_small.png
     target: https://www.visionaidevkit.com
