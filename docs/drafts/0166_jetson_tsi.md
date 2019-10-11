@@ -1,7 +1,7 @@
 ---
-title: "NVIDIA Jetson Nano with Azure Time Series Insights"
+title: "Intelligent Closed-Circuit TV with Azure and Nvidia Jetson"
 permalink: /docs/jetson_tsi/
-excerpt: "NVIDIA Jetson Nano with Azure Time Series Insights"
+excerpt: "Intelligent Closed-Circuit TV with Azure and Nvidia Jetson"
 variable:
   - platform: windows
     name: Windows
@@ -10,7 +10,7 @@ variable:
 last_modified_at: 2019-10-09
 ---
 <!-- <html><font size="5"> -->
-## NVIDIA Jetson Nano with Azure Time Series Insights reporting
+## Intelligent Closed-Circuit TV with Azure and Nvidia Jetson
 
 | **[NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/){:target="_blank"}** |  |
 | :----------- |
