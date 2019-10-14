@@ -14,7 +14,7 @@ last_modified_at: 2019-09-02
 
 | **[Vision AI Developer Kit](https://www.visionaidevkit.com){:target="_blank"}** |  |
 | :----------- |
-| Allthough Vision AI Developer Kit is by definition a smart camera it comes with 2 microphones and is able to run AI models for audio with its CPU | ![Vision AI Dev Kit]({{ '/assets/images/DEVKIT_vaidk.png' | relative_url }}) | 
+| Allthough Vision AI Developer Kit is by definition a smart camera it comes with 2 microphones and is able to run AI models for audio with its CPU | ![Vision AI Dev Kit]({{ '/assets/images/DEVKIT_vaidk_small.png' | relative_url }}) | 
 
 | Solution example |
 | :----------- |

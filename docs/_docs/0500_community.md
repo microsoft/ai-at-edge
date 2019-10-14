@@ -1,7 +1,7 @@
 ---
-title: "AI@Edge community resources"
-permalink: /docs/community/
-excerpt: "AI@Edge community resources"
+title: "AI@Edge discussion resources"
+permalink: /docs/discuss/
+excerpt: "AI@Edge discussion resources"
 variable:
   - platform: windows
     name: Windows
@@ -10,17 +10,19 @@ variable:
 comments: 
   provider: "disqus"
   disqus: 
-    shortname: AI@Edge community discussions
+    shortname: AI@Edge discussions
 
 last_modified_at: 2019-09-14
 ---
 
 
-### AI@Edge Communities
+### AI@Edge discussion resources
 
 There are several ways to interact with AI@Edge communities
 
-- Join [TechCommunities]({{ '/docs/techcommunity/' | relative_url }}) to be kept up to date regarding news and announcements.
+- Join [Internet of Things TechCommunity](https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering){:target="_blank"} participate to discuss, stay up to regarding news and announcements.
+
+- Read about other relevant [TechCommunities]({{ '/docs/techcommunity/' | relative_url }}) 
 
 - [Intelligent Edge Brief]({{ '/docs/telcos/' | relative_url }}) calls focusing on "heavier edge" - Databox Edge and Azure Stack
 

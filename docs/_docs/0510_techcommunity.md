@@ -12,9 +12,13 @@ last_modified_at: 2019-09-16
 
 ## Internet of things TechCommunity
 
-Read blogs and announcements! Comment and ask questions! Participating to TechCommunity ensures that you’ll have the latest information regarding Microsoft’s product offering. We are partnering with Internet of Things community that provides a lot of useful information including Windows IoT, Azure IoT, Azure Sphere etc.
+In this forum you will find the latest news, conversations and stories, product announcements and case studies relevant to manufacturers delivering hardware running Intelligent Edge solutions based on Microsoft technologies and platforms.
 
 Join the [community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT){:target="_blank"}
+
+## AI Platform
+
+Join the [community](https://techcommunity.microsoft.com/t5/AI-Platform/ct-p/AIPlatform){:target="_blank"}
 
 ## Windows Server community
 

@@ -9,8 +9,8 @@ main:
   - title: "Azure Services"
     url: /docs/azureiot/
     target: _self
-  - title: "Community"
-    url: /docs/community/
+  - title: "Discuss"
+    url: /docs/discuss/
     target: _self
   - title: "Contact Us"
     url: /docs/contact_us/
@@ -40,8 +40,8 @@ docs:
             url: /docs/visionaidevkit/
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
-          # - title: Run ONNX model with UP Squared
-          #   url: /docs/up2/
+          # - title: "Run ONNX model with OpenVINO™ in Intel® powered hardware"
+          #   url: /docs/onnx_openvino/
           - title: Audio based anomaly detection
             url: /docs/water_level/
       - title: Azure Marketplace
@@ -93,7 +93,7 @@ docs:
         url: /docs/containerized_services/     
 
   - title: Become part of AI@Edge Community
-    url: /docs/community/
+    url: /docs/discuss/
     children:
       - title: "Join TechCommunity"
         url: /docs/techcommunity/

@@ -9,9 +9,9 @@ header:
   actions:
     - label: "Learn more"
       url: "/docs/aiatedge/"
-    # - label: "Join the community"
+    # - label: "Discuss"
     #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
-title: Welcome to the AI@Edge community!
+title: Welcome to the AI@Edge community pages!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
  
@@ -20,8 +20,8 @@ visionatedge_links:
 
 ai_edge_basics:
   content:
-    - title: "What is AI@Edge community"
-      excerpt:  AI@Edge community portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge!  Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.
+    - title: "What is AI@Edge portal"
+      excerpt:  AI@Edge portal is a collection of resources that allow you develop assets and solutions that combine hardware, machine learning / artificial intelligence (AI) and Microsoft Azure services enabling intelligence in the edge!  Whether you are a seasoned professional or taking your first steps to IoT, whether you are building intelligent edge hardware, creating end-2-end solutions by combining hardware, software and services, data scientics developing machine learning models or a software developer this community will help you to identify opportunities, get started fast with examples and partner with other professionals to create awesome solutions.
       image_path: /assets/images/MAIN_example.PNG
       image_url: /docs/examples
       alt: Access examples
@@ -45,8 +45,8 @@ general_links:
     - image_path: assets/images/newpost4.png
       alt: "Get started"
       title: "Get started"
-      excerpt: "Start your project planning with these examples of AI@Edge hardware, machine learning and building Azure IoT solutions"
-      url: "/docs/examples/"
+      excerpt: "Ready to go? Get started with concrete examples that provide you an example of running AI model in a device"
+      url: "/docs/hw_examples/"
 
 solutions_links:
   title: I want to
@@ -78,7 +78,7 @@ partner_links:
       alt: "Join the AI@Edge community"
       title: "Join the AI@Edge community"
       excerpt: Hear the latest solution and services news for Azure and Windows IoT, share your thoughts, and get help from the community
-      url: "https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT"
+      url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
     #- image_path: /assets/images/MAIN_events.PNG
     - image_path: /assets/images/events.png
       alt: "Participate in Live Events"
