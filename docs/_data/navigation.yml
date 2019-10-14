@@ -44,6 +44,8 @@ docs:
           #   url: /docs/onnx_openvino/
           - title: Audio based anomaly detection
             url: /docs/water_level/
+          - title: Intelligent Closed-Circuit TV
+            url: /docs/jetson_tsi/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos

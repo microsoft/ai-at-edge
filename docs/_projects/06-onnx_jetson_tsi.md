@@ -1,7 +1,7 @@
 ---
 title: Intelligent Closed-Circuit TV with Azure
-permalink: /docs/projects/jetson_tsi_/
-redirect_to: /docs/jetson_tsi_
+permalink: /docs/projects/jetson_tsi/
+redirect_to: /docs/jetson_tsi/
 excerpt: Get started with CCTV, Azure Time Series Insights and NVIDIA Jetson Nano
 header:
   overlay_image: 
