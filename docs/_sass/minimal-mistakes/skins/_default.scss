@@ -27,7 +27,11 @@ $background-color           : $lighter-gray !default;
 */
 
 
-
+// added by juniem to increase the font in the project pages
+td
+{
+    font-size: 1.40em !important;
+}
 
 .layout--single, .archive{
     #page-title{

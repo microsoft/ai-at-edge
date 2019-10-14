@@ -10,7 +10,7 @@ variable:
 last_modified_at: 2019-10-09
 ---
 <!-- <html><font size="5"> -->
-## Intelligent Closed-Circuit TV with Azure and Nvidia Jetson
+## Intelligent Closed-Circuit TV with Azure and NVIDIA® Jetson Nano™
 
 | **[NVIDIA® Jetson Nano™](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/){:target="_blank"}** |  |
 | :----------- |
