@@ -13,4 +13,5 @@ icons:
     title: Azure Databox Edge
 difficulty: MEDIUM
 last_modified_at: 2019-09-20
+tags: ["vision"]
 ---
