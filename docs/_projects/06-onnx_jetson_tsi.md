@@ -13,4 +13,5 @@ icons:
     title: NVIDIA Jetson Nano
 difficulty: MEDIUM
 last_modified_at: 2019-10-13
+tags: ["vision"]
 ---
