@@ -13,6 +13,7 @@ icons:
     title: Vision AI Developer Kit
 difficulty: EASY
 last_modified_at: 2019-9-20
+tags: ["vision"]
 --- 
 
 
