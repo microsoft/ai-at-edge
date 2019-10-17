@@ -7,12 +7,12 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-09-14
+last_modified_at: 2019-10-17
 ---
 
 ### Using existing models
 
-Deep Neural Network (DNN) models are often very complex, so in order to achieve their optimum performance, they should run in an HW accelerated chip such as GPU or DS. Due to the underlying complexity they are often also specific to certain hardware architecture. If you have an existing IoT Edge and are looking for example models, start by checking which neural networks and ML frameworks are supported.
+Deep Neural Network (DNN) models are often  complex, so in order to achieve their optimum performance, they should run in an HW accelerated chip such as GPU or DS. Due to the underlying complexity they are often also specific to certain hardware architecture. If you have an existing IoT Edge and are looking for example models, start by checking which neural networks and ML frameworks are supported.
 
 ### Model conversion
 

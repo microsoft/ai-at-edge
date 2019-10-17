@@ -13,15 +13,15 @@ last_modified_at: 2019-08-28
 
 ### What is hardware acceleration?
 
-HW Acceleration as a term refers to a concept where a device offloads some of the computing task from CPU to a hardware components that are specifically designed to run certain type of apps and workloads faster. 
+HW Acceleration as a term refers to a concept where a device offloads some of the computing task from CPU to a hardware component that are specifically designed to run certain type of apps and workloads faster. 
 
 ### Why is hardware acceleration important?
 
-Intelligent Edge device that is expected to run complex AI algorithms in a device fasts needs the best hardware capabilities for doing so. For example AI model that analyzes video stream needs to be able to process tens of frames per second. Traditional CPU does not perform well under that kind of workload. Additional processsor also allow CPU to focus on running more basics operations.
+Intelligent Edge device that is expected to run complex AI algorithms in a device fasts needs the best hardware capabilities for doing so. For example, AI model that analyzes video stream needs to be able to process tens of frames per second. Traditional CPU does not perform well under that kind of workload. Additional processor also allow CPU to focus on running more basics operations.
 
 ### CPU
 
-CPU is a general purpose processor and designed to do calculations related to general computing very well. Most / all edge devices will have a CPU to run standard computing workloads.  The OS that you select, as well as the Azure IoT runtime and associated components, will all run on the CPU.  Additionally, for very basic AI applications, you may be able to run your AI model directly on the CPU.  For most AI applications, your model will need to run on specialized hardware for performance and latency.
+CPU is a general-purpose processor and designed to do calculations related to general computing very well. Most / all edge devices will have a CPU to run standard computing workloads.  The OS that you select, as well as the Azure IoT runtime and associated components, will all run on the CPU.  Additionally, for very basic AI applications, you may be able to run your AI model directly on the CPU.  For most AI applications, your model will need to run on specialized hardware for performance and latency.
 
 ### Options for HW acceleration
 
@@ -31,7 +31,7 @@ Here are the most common options for HW acceleration at the edge
 
 ### GPU - Graphics Processing Unit
 
-GPU was originally designed to improve 2D and 3D rendering times, but nowadays it has multiple applications for example in scienticic research area. Compared to CPU, GPU has thousands of small cores that are designed to run calculations in parallel.
+GPU was originally designed to improve 2D and 3D rendering times, but nowadays it has multiple applications for example in scientific research area. Compared to CPU, GPU has thousands of small cores that are designed to run calculations in parallel.
 
 ### FPGA - Field Programmable Gate Array
 
@@ -39,11 +39,11 @@ FPGA is an integrated circuit that is designed to the re-programmable where are 
 
 ### DSP (Digital Signal Processor)
 
-DSP is a custom intergrated circuit that is optimized from performance point of view for a specific application it's expected to run. DSP often provides the best available performance, but it's a fixed purpose solution that can't be reprogrammed.
+DSP is a custom integrated circuit that is optimized from performance point of view for a specific application it's expected to run. DSP often provides the best available performance, but it's a fixed purpose solution that can't be reprogrammed.
 
 ### VPU - Vision Processing Unit
 
-A variant of the above technologies, the term VPU is gaining adoption as a term to describe hardware components that are specizlied for Vision AI and related applications.
+A variant of the above technologies, the term VPU is gaining adoption as a term to describe hardware components that are specialized for Vision AI and related applications.
 
 ### Check out Channel9 video that talk about HW acceleration at Edge
 

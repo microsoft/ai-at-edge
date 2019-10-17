@@ -12,7 +12,7 @@ last_modified_at: 2019-09-16
 
 ### Azure IoT and Intelligent Edge
 
-Azure provides many key components to end-2-end AI@Edge solution and Azure IoT services :
+Azure provides many key components to end-2-end AI@Edge solution and Azure IoT services:
 ![Azure components]({{ '/assets/images/azure_services.PNG' | relative_url }})
 1.	[Azure IoT Edge]({{ '/docs/iot_edge/' | relative_url }}){:target="_blank"} enables running applications in containers in a device and pre-processing the data before sending it to cloud making an edge device “intelligent”
 2.	[IoT Hub]({{ '/docs/iot_hub/' | relative_url }}){:target="_blank"} is a cloud service that acts as a central message hub for bi-directional communication between IoT cloud applications and connected devices

@@ -46,7 +46,7 @@ A typical Edge device is described [here.]({{ '/docs/aiatedge/' | relative_url }
 
 ### Edge appliances - [Azure Databox Edge](https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-overview){:target="_blank"}
 
-Edge appliances refes to gateway devices that do not sensors themselves to be able to generate data for example to measure temporatute or pressure, listen audio or record video. Edge appliances require sensors to be connected to them. The benefit of using these devices is that they are often capable for taking input from several sensors simultaneously and running several AI models in parallel.
+Edge appliances refer to gateway devices that do not sensors themselves to be able to generate data for example to measure temperature or pressure, listen audio or record video. Edge appliances require sensors to be connected to them. The benefit of using these devices is that they are often capable for taking input from several sensors simultaneously and running several AI models in parallel.
 
 ### Edge cloud - [Microsoft Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/){:target="_blank"}
 

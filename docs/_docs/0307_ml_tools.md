@@ -20,7 +20,7 @@ Microsoft offers multiple tools for training, packaging and deploying the model.
 - [Azure Notebooks](https://notebooks.azure.com/){:target="_blank"} provides online access to Jupyter notebooks running in the cloud on Microsoft Azure. The portal also contains a comprehensive set of default projects to get started with Jupyter Notebooks. See [Azure Notebooks documentation](https://docs.microsoft.com/en-us/azure/notebooks/){:target="_blank"}
 - Jupyter Notebooks can be run using local hardware like laptop or creating Notebook VM (Virtual MAchine) in [Azure Machine Learning Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace){:target="_blank"}.
 
-Other possible solution include:
+Other possible solutions include:
 - [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py){:target="_blank"} enables python based development.
 - Automate your machine learning activities with the [Azure Machine Learning CLI](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-azure-machine-learning-cli){:target="_blank"}.
 - Write code in Visual Studio Code with [Azure Machine Learning VS Code extension](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-vscode-tools){:target="_blank"}
