@@ -12,7 +12,7 @@ last_modified_at: 2019-09-14
 
 ### Get started with Machine learning
 
-The process for creating a machine learning model varies based on the characteristics of the model, tools and other variables like where it will be run. Here is a high level example that gives and overview of the main steps included to teh process.
+The process for creating a machine learning model varies based on the characteristics of the model, tools and other variables like where it will be run. Here is a high level example that gives an overview of the main steps included to the process.
 
 ![Machine learning process]({{ '/assets/images/ML_flow.PNG' | relative_url }})
 
@@ -20,7 +20,7 @@ The process for creating a machine learning model varies based on the characteri
 
 AI models for vision and sound require data for training purposes. Production models may require thousands of samples. For vision, training data should be captured, if possible, from the actual location where the camera(s) will be used in production. Also, you should consider different lighting conditions and other variables with the target of being able to generate as comprehensive data set as possible as that is important.  For getting started with machine learning, you can create basic image classification models with tens or hundreds of pictures using the [Azure Custom Vision]({{ '/docs/customvision/' | relative_url }}) service. 
 
-Labeling refers to the process of assigning meaning to your data.  In practice it's indicating what data represent by labeling objects in a picture or label sound sample.  With a basic image classification model, labeling can be as simple as maintaining folders with the name that corresponds to the images that you have for each label.  Depending on the use case it's recommended that part of the data set is preserved (unlabeled) for validating the model.
+Labeling refers to the process of assigning meaning to your data. In practice it's indicating what data represent by labeling objects in a picture or label sound sample.  With a basic image classification model, labeling can be as simple as maintaining folders with the name that corresponds to the images that you have for each label.  Depending on the use case it's recommended that part of the data set is preserved (unlabeled) for validating the model.
 
 ### Train 
 
