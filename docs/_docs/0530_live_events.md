@@ -24,10 +24,9 @@ Read more about [IoT in Action](https://iotinactionevents.com/){:target="_blank"
 
 | Location | Time | Registration link |
 | :----------- |
-| Santa Clara, CA US | October 10th, 2019 | [Register](https://iotinactionevents.com/event/santa-clara?v=iot5d6fd9fcd51056.26635187&event_form_test=c){:target="_blank"} |
-| London, UK | October 15th, 2019 | [Register](https://iotinactionevents.com/event/london){:target="_blank"} |
-| Kanazawa, Japan | October 30th, 2019 | Registration opens soon |
-| Nagoya, Japan | November 5th, 2019 | Registration opens soon |
-| Aucklan, New Zealand | November 5th, 2019 | Registration opens soon |
+| Kanazawa, Japan | October 30th, 2019 | [Register](https://iotinactionevents.com/event/kanazawa){:target="_blank"} |
+| Nagoya, Japan | November 5th, 2019 | [Register](https://iotinactionevents.com/event/nagoya){:target="_blank"} |
+| Auckland, New Zealand | November 5th, 2019 | [Register](https://iotinactionevents.com/event/auckland){:target="_blank"} |
+| Warsaw, Poland | November 13th, 2019 | [Register](https://iotinactionevents.com/event/warsaw){:target="_blank"} |
 
 See [all the events](https://iotinactionevents.com/events/?v=iot5d6fd9fcd51056.26635187&event_form_test=c){:target="_blank"}
