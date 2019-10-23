@@ -22,11 +22,11 @@ Read more about [IoT in Action](https://iotinactionevents.com/){:target="_blank"
 
 ## Upcoming events
 
-| Location | Time | Registration link |
+| Location | Time | Registration link | AI@Edge community presence | 
 | :----------- |
-| Kanazawa, Japan | October 30th, 2019 | [Register](https://iotinactionevents.com/event/kanazawa){:target="_blank"} |
-| Nagoya, Japan | November 5th, 2019 | [Register](https://iotinactionevents.com/event/nagoya){:target="_blank"} |
-| Auckland, New Zealand | November 5th, 2019 | [Register](https://iotinactionevents.com/event/auckland){:target="_blank"} |
-| Warsaw, Poland | November 13th, 2019 | [Register](https://iotinactionevents.com/event/warsaw){:target="_blank"} |
+| Kanazawa, Japan | October 30th, 2019 | [Register](https://iotinactionevents.com/event/kanazawa){:target="_blank"} | |
+| Nagoya, Japan | November 5th, 2019 | [Register](https://iotinactionevents.com/event/nagoya){:target="_blank"} | | 
+| Auckland, New Zealand | November 5th, 2019 | [Register](https://iotinactionevents.com/event/auckland){:target="_blank"} | | 
+| Warsaw, Poland | November 13th, 2019 | [Register](https://iotinactionevents.com/event/warsaw){:target="_blank"} | Confirmed | 
 
 See [all the events](https://iotinactionevents.com/events/?v=iot5d6fd9fcd51056.26635187&event_form_test=c){:target="_blank"}
