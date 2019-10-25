@@ -37,13 +37,13 @@ docs:
           - title: Identify empty shelves with Azure Databox Edge
             url: /docs/databox/
           - title: Workplace safety with Vision AI Dev Kit
-            url: /docs/visionaidevkit/
+            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
           # - title: "Run ONNX model with OpenVINO™ in Intel® powered hardware"
           #   url: /docs/onnx_openvino/
           - title: Audio based anomaly detection
-            url: /docs/water_level/
+            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project03/
           - title: Intelligent Closed-Circuit TV
             url: /docs/jetson_tsi/
       - title: Azure Marketplace
