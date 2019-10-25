@@ -25,7 +25,7 @@ NVIDIA® Jetson Nano™ Developer Kit is a small, powerful computer that lets yo
 Solution example
 </b></td></tr>
 <tr><td colspan="2">
-This solution example provides step by step instructions for enabling <a href="https://onnx.ai/" target="_blank">ONNX</a> on Jetson Nano. ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners. Use this example to enable running ONNX models with Jetson Nano.<a href="https://github.com/Azure-Samples/onnxruntime-iot-edge/blob/master/README-ONNXRUNTIME-arm64.md" target="_blank">ONNX Runtime IoT Edge GitHub</a>
+This solution example provides step by step instructions for enabling <a href="https://onnx.ai/" target="_blank">ONNX</a> on Jetson Nano. ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners. Use this example to enable running ONNX models with Jetson Nano.<br><a href="https://github.com/Azure-Samples/onnxruntime-iot-edge/blob/master/README-ONNXRUNTIME-arm64.md" target="_blank">ONNX Runtime IoT Edge GitHub</a>
 </td></tr>
 <tr><td>
 Solution flow example

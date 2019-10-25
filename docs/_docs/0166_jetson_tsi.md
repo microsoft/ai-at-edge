@@ -10,7 +10,6 @@ variable:
 last_modified_at: 2019-10-09
 ---
 
-<!-- **[NVIDIA® Jetson Nano™](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/){:target="_blank"} -->
 ## Intelligent Closed-Circuit TV with Azure and NVIDIA® Jetson Nano™
 
 <html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
@@ -35,8 +34,8 @@ This will culminate with an Intelligent Edge Hands-On-Lab that will walk through
 Access GitHub to <a href="http://aka.ms/IntelligentEdgeHOL" target="_blank">get started</a> 
 </td></tr>
 <tr><td>
-<img src="{{'/assets/images/jetson_tsi.jpg' | relative_url}}" alt="Person recognition example">
-Time Series Insights example
+<img src="{{'/assets/images/jetson_tsi.jpg' | relative_url}}" alt="Person recognition example"><br>
+Time Series Insights example<br>
 <img src="{{'/assets/images/jetson_tsi_ui.jpg' | relative_url}}" alt="Time Series Insights example">
 </td></tr>
 
