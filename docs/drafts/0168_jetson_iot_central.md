@@ -34,7 +34,7 @@ The nvidia-jetson-dcs application accomplishes this using a device connection st
 Access the turorial in GitHub to <a href="https://github.com/toolboc/azure-iot-nvidia-jetson-deepstream-pnp" target="_blank">get started</a> 
 </td></tr>
 <tr><td>
-IoT Central dashboard example
+IoT Central dashboard view example
 <img src="{{'/assets/images/jetson_iot_central.png' | relative_url}}" alt="IoT Central dashboard">
 </td></tr>
 
