@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Hardware"
-    url: /docs/hardware/
+  - title: "News"
+    url: /docs/news/
     target: _self
-  - title: "Machine Learning"
-    url: /docs/ai/
+  - title: "Events"
+    url: /docs/liveevents/
     target: _self
-  - title: "Azure Services"
-    url: /docs/azureiot/
+  - title: "Calls"
+    url: /docs/telcos/
     target: _self
   - title: "Discuss"
-    url: /docs/discuss/
+    url: https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering
     target: _self
   - title: "Contact Us"
     url: /docs/contact_us/
@@ -105,8 +105,10 @@ docs:
         url: /docs/telcos/
       - title: "Participate in Live Events"
         url: /docs/liveevents/
-      - title: "Sign up for updates"
-        url: /docs/signup/
+  ##  - title: "Sign up for updates"
+  ##    url: /docs/signup/
+      - title: "Stay up to date with latest news"
+        url: /docs/news/
         
   # - title: Find Partners
   #   url: /docs/matchmake/      
