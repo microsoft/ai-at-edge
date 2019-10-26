@@ -12,7 +12,7 @@ icons:
     target: https://www.visionaidevkit.com
     title: Vision AI Developer Kit
 difficulty: EASY
-last_modified_at: 2019-9-20
+last_modified_at: 2019-09-20
 tags: ["vision"]
 --- 
 

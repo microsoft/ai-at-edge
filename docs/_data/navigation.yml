@@ -46,6 +46,10 @@ docs:
             url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project03/
           - title: Intelligent Closed-Circuit TV
             url: /docs/jetson_tsi/
+          - title: "Deepstream with Jetson Nano and Azure IoT Central"
+            url: /docs/jetson_iot_central/
+          - title: Intelligent Alarm
+            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
