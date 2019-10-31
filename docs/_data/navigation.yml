@@ -50,6 +50,8 @@ docs:
             url: /docs/jetson_iot_central/
           - title: Intelligent Alarm
             url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/
+          - title: Run ONNX with OpenVINO™
+            url: /docs/onnx_openvino/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos

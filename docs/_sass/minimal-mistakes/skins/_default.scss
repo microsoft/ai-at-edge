@@ -77,7 +77,8 @@ td
 /* This defines the font size of the navigation bar */
 .sidebar {
     p, li{
-        font-size: $type-size-6 !important;
+        font-size: 0.85em !important;
+        // font-size: $type-size-6 !important; original - changed by juniem
     }
 }
 

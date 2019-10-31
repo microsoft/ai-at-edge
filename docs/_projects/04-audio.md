@@ -2,7 +2,7 @@
 title: Create an audio based anomaly detection model
 permalink: /docs/projects/vaidk_/
 redirect_to: /docs/water_level
-excerpt: Learn how to record audio samples, create an AI model based on them and run it on Vision AI Developer Kit
+excerpt: Learn how to record audio samples and create an audio AI model
 header:
   overlay_image: 
   overlay_full: true
