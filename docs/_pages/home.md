@@ -43,7 +43,6 @@ general_links:
       excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
       url: "/docs/terminology/"
     - image_path: assets/images/projects.PNG
-      # - image_path: assets/images/newpost4.png
       alt: "Get started"
       title: "Get started"
       excerpt: "Ready to go? Get started with concrete examples that provide you an example of running AI model in a device"
