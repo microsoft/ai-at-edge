@@ -1,5 +1,5 @@
 ---
-title: Create an audio based anomaly detection model
+title: Anomaly detection based on audio
 permalink: /docs/projects/vaidk_/
 redirect_to: /docs/water_level
 excerpt: Learn how to record audio samples and create an audio AI model

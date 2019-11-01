@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "News"
+  - title: "What's new?"
     url: /docs/news/
     target: _self
   - title: "Events"
