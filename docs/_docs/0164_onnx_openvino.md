@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-11-04
+last_modified_at: 2019-11-05
 ---
 
 ## Run ONNX models with OpenVINO™ in Intel® powered hardware
