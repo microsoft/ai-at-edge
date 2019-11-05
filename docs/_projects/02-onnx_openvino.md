@@ -1,5 +1,5 @@
 ---
-title: Run ONNX and OpenVINO™
+title: Run ONNX and Intel® OpenVINO™
 permalink: /docs/projects/onnx_openvino/
 redirect_to: /docs/onnx_openvino
 excerpt: Get started with ONNX framework, OpenVINO™ and Intel® powered Hardware
