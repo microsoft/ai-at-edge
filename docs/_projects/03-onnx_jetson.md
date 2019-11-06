@@ -8,7 +8,7 @@ header:
   overlay_full: true
   teaser: /assets/images/ONNX_project.PNG
 icons:
-  - url: /assets/images/devices_jetson_nano.jpg
+  - url: /assets/images/ICON_jetsonnano.PNG
     target: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/
     title: NVIDIA Jetson Nano
 difficulty: MEDIUM

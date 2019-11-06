@@ -52,6 +52,8 @@ docs:
             url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/
           - title: Run ONNX with OpenVINO™
             url: /docs/onnx_openvino/
+          - title: "Turn your installed RSTP cameras into sensors"
+            url: /docs/jetson_deepstream/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
