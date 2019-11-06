@@ -13,5 +13,5 @@ icons:
     title: Raspberry Pi
 difficulty: MEDIUM
 last_modified_at: 2019-11-05
-tags: ["vision"]
+# tags: ["vision"]
 ---
