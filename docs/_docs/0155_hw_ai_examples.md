@@ -1,12 +1,15 @@
 ---
-layout: archive
+# layout: archive
 title: "Examples combining AI model and hardware"
 permalink: /docs/hw_examples/
 author_profile: false
 ---
-{% assign pageTag = "vision" %}
+
+### Community project examples
 
 Here is a list of product examples using a proven and tested combination of hardware and AI model. Most of the examples are stored in specific GitHub instances and contain the assets and instructions to get you started. You will need the hardware to go with the example.
+
+{% assign pageTag = "vision" %}
 
 <div class="grid__wrapper grid__catalog">
 
