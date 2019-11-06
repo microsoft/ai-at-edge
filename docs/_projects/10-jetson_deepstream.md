@@ -12,6 +12,6 @@ icons:
     target: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/
     title: NVIDIA Jetson Nano
 difficulty: MEDIUM
-last_modified_at: 2019-10-31
+last_modified_at: 2019-11-05
 tags: ["vision"]
 ---
