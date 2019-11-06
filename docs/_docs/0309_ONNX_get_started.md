@@ -54,6 +54,3 @@ Here is a list of product examples using a ONNX and tested combination of hardwa
  {% endfor %}
 </div>
 
-
-| **Want to publish your own example?** |
-| Send email to [aiedge@microsoft.com](mailto:aiedge@microsoft.com) |
