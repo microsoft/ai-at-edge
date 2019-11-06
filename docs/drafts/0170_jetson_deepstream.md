@@ -34,9 +34,10 @@ DeepStream also allows you to layer multiple AI models. For example, if you are 
 </td></tr>
 <tr><td colspan="2">
 Access the tutorial in GitHub to <a href="https://github.com/toolboc/azure-iot-nvidia-jetson-deepstream-pnp" target="_blank">get started</a> 
+Discuss about this in <a href="https://techcommunity.microsoft.com/t5/Internet-of-Things/Computer-vision-at-the-Edge-with-NVIDIA-DeepStream-and-Azure-IoT/ba-p/984607" target="_blank">TechCommunity</a> 
 </td></tr>
 <tr><td>
-Watch IoT Show episode
+Watch IoT Show episode<br>
 <iframe src="https://channel9.msdn.com/Shows/Internet-of-Things-Show/Azure-IoT-Edge-integration-with-Nvidia-Deepstream/player" width="960" height="540" allowFullScreen frameBorder="0" title="Azure IoT Edge integration with Nvidia Deepstream - Microsoft Channel 9 Video"></iframe>
 </td></tr>
 
