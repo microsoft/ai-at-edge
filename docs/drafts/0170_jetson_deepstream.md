@@ -33,7 +33,7 @@ With smarter algorithms, you can squeeze more video streams from your hardware. 
 DeepStream also allows you to layer multiple AI models. For example, if you are analyzing video data from a construction site, you can use one model to identify a work person and you can use a second model to confirm whether the work person is wearing a hard hat and safety gloves.
 </td></tr>
 <tr><td colspan="2">
-Access the tutorial in GitHub to <a href="https://github.com/toolboc/azure-iot-nvidia-jetson-deepstream-pnp" target="_blank">get started</a> 
+Access the tutorial in GitHub to <a href="https://github.com/toolboc/azure-iot-nvidia-jetson-deepstream-pnp" target="_blank">get started</a><br>
 Discuss about this in <a href="https://techcommunity.microsoft.com/t5/Internet-of-Things/Computer-vision-at-the-Edge-with-NVIDIA-DeepStream-and-Azure-IoT/ba-p/984607" target="_blank">TechCommunity</a> 
 </td></tr>
 <tr><td>
