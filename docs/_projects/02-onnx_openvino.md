@@ -22,5 +22,5 @@ icons:
     title: AAEON BOXER-6841M powered by Intel®
 difficulty: MEDIUM
 last_modified_at: 2019-10-30
-tags: ["vision"]
+tags: ["vision","onnx"]
 ---
