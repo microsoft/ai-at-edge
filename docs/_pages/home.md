@@ -5,12 +5,11 @@ title:
 header:
   overlay_color: "white"
   overlay_image: /assets/images/MAIN_overlay.PNG
-  # image: /assets/images/MAIN_camera.png
   actions:
     - label: "Learn more"
       url: "/docs/aiatedge/"
-    # - label: "Discuss"
-    #   url: "https://techcommunity.microsoft.com/t5/IoT-Devices/bd-p/HardwareEngineering"
+    - label: "Help us improve - take a Vision AI survey!"
+      url: "https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzgFhy4pKddImQwUh-d_NZZUMTAzNFJTUDY0M1g4QjROSDFCWlQ4TlJVMS4u"
 title: Welcome to the AI@Edge community pages!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
