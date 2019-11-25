@@ -15,7 +15,7 @@ last_modified_at: 2019-11-25
 <html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
 WinML and ONNX on Windows IoT Core</b>
 <tr><td>
-<a href="https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core" target="_blank">Windows 10 IoT Core</a> is a version of Windows 10 that is optimized for smaller devices with or without a display that run on both ARM and x86/x64 devices.
+<a href="https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core" target="_blank">Windows 10 IoT Core</a> is a version of Windows 10 that is optimized for smaller devices with or without a display that run on both ARM and x86/x64 devices.<br>
 With <a href="https://docs.microsoft.com/en-us/windows/ai/windows-ml/" target="_blank">Windows ML</a>, developers can use trained ML models in Windows apps that are written in C#, C++, JavaScript, or Python, either locally on a Windows 10 device or on a Windows Server 2019 machine.
 </td>
 <td width="30%">
