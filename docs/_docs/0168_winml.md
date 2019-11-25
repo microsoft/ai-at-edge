@@ -25,7 +25,7 @@ With <a href="https://docs.microsoft.com/en-us/windows/ai/windows-ml/" target="_
 Solution example
 </b></td></tr>
 <tr><td colspan="2">
-In this lab you will download the ONNX model from Custom Vision, add some .NET components and deploy the model in a docker container to a device running Azure IoT Edge on Windows 10 IoT Core.
+This example is based on a lab that was run at //Build conference in 2019. It show cases intelligent edge on Windows IoT Core operating system. In this lab you will download the ONNX model from Custom Vision, add some .NET components and deploy the model in a docker container to a device running Azure IoT Edge on Windows 10 IoT Core.
 
 Images will be captured from a camera on our edge device with inferencing happening at the edge using Windows ML and sending our results through Azure IoT Hub. Finally, we will visualize the results using Azure Time Series Insights.
 </td></tr>
