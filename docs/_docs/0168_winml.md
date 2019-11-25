@@ -1,5 +1,5 @@
 ---
-title: "Deploy an ONNX to a Windows device"
+title: "Deploy an ONNX model to a Windows device"
 permalink: /docs/winml/
 excerpt: "Deploy a custom vision model to a Windows device"
 variable:

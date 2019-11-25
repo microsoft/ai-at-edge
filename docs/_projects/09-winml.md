@@ -13,5 +13,5 @@ icons:
     title: Windows Machine Learning
 difficulty: MEDIUM
 last_modified_at: 2019-10-31
-tags: ["vision"]
+tags: ["vision","onnx"]
 ---

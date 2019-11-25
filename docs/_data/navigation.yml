@@ -40,8 +40,6 @@ docs:
             url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
-          # - title: "Run ONNX model with OpenVINO™ in Intel® powered hardware"
-          #   url: /docs/onnx_openvino/
           - title: Audio based anomaly detection
             url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project03/
           - title: Intelligent Closed-Circuit TV
@@ -54,6 +52,10 @@ docs:
             url: /docs/onnx_openvino/
           - title: "Turn your installed RSTP cameras into sensors"
             url: /docs/jetson_deepstream/
+          - title: "Kubernetes Cluster on Raspberry Pi"
+            url: /docs/rpi_kubernetes/
+          - title: "Run ONNX and WinML on Windows"
+            url: /docs/winml/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
