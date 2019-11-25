@@ -12,7 +12,7 @@ last_modified_at: 2019-11-05
 
 ## Building a Kubernetes "Intelligent Edge" Cluster on Raspberry Pi
 
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+<html><table><tr bgcolor="#c51a4a"><td colspan="2"><b>
 <a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></b>
 <tr><td>
 The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
@@ -20,7 +20,7 @@ The Raspberry Pi is a low cost, credit-card sized computer that plugs into a com
 <td width="30%">
 <img src="{{'assets/images/raspberry_pi.PNG' | relative_url}}">
 </td></tr>
-<tr bgcolor="#68adc4"><td colspan="2"><b>
+<tr bgcolor="#c51a4a"><td colspan="2"><b>
 Solution example - turn your installed RSTP cameras into sensors
 </b></td></tr>
 <tr><td colspan="2">
