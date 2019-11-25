@@ -36,6 +36,6 @@ Access the lab in GitHub to <a href="https://github.com/jcoliz/WindowsAiEdgeLabC
 </td></tr>
 <tr><td>
 Architecture
-<img src="{{'/assets/images/winmliot.png' | relative_url}}" alt="Project arcitecture">
+<img src="{{'/assets/images/winmliot.png' | relative_url}}" alt="Project architecture">
 </td></tr>
 
