@@ -12,17 +12,17 @@ last_modified_at: 2019-11-25
 
 ## Building a Kubernetes "Intelligent Edge" Cluster on Raspberry Pi
 
-<html><table><tr bgcolor="#c51a4a"><td colspan="2"><b>
-<a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></b>
+<html><table><tr bgcolor="#c51a4a"><td colspan="2"><font color="white"><b>
+<a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></b></font>
 <tr><td>
 The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 </td>
 <td width="30%">
 <img src="{{'assets/images/raspberry_pi.PNG' | relative_url}}" alt="Raspberry Pi">
 </td></tr>
-<tr bgcolor="#c51a4a"><td colspan="2"><b>
+<tr bgcolor="#c51a4a"><td colspan="2"><font color="white"><b>
 Solution example - turn your installed RSTP cameras into sensors
-</b></td></tr>
+</b></font></td></tr>
 <tr><td>
 Building a Kubernetes Intelligent Edge cluster on Raspberry Pi is a great learning experience, a stepping stone to building robust Intelligent Edge solutions, and an awesome way to impress your friends. Skills you develop on the edge can be used in the cloud with <a href="https://azure.microsoft.com/en-au/services/kubernetes-service/?WT.mc_id=tech-communities-blog-dglover" target="_blank">Azure Kubernetes Service</a>.
 </td>

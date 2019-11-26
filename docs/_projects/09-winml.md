@@ -8,7 +8,7 @@ header:
   overlay_full: true
   teaser: /assets/images/WinML.PNG
 icons:
-  - url: /assets/images/windows.png
+  - url: /assets/images/windows.PNG
     target: https://docs.microsoft.com/en-us/windows/ai/windows-ml/
     title: Windows Machine Learning
 difficulty: MEDIUM
