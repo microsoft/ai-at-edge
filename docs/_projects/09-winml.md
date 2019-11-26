@@ -6,7 +6,7 @@ excerpt: Run Windows ML inferencing in an Azure IoT Edge module running on Windo
 header:
   overlay_image: 
   overlay_full: true
-  teaser: /assets/images/winml.PNG
+  teaser: /assets/images/WinML.PNG
 icons:
   - url: /assets/images/windows.png
     target: https://docs.microsoft.com/en-us/windows/ai/windows-ml/
