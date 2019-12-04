@@ -25,7 +25,7 @@ $muted-text-color           : black !default;
 $text-color                 : #222831 !default;
 $background-color           : $lighter-gray !default;
 */
-
+$slick-arrow-color: rgb(8, 8, 58) !default;
 
 // added by juniem to increase the font in the project pages
 td
@@ -312,4 +312,23 @@ td
         color: #006699 !important;
       }
     }
+}
+
+// Carosule control CSS starts here 
+.carousel{
+    width: 1280px;
+}
+
+.slick-prev:before,
+.slick-next:before
+{
+    color: #121F47 !important;
+}
+
+.c_archive
+{
+    text-align: left !important;
+    padding-left: 30px !important;
+    padding-right: 20px !important;
+
 }

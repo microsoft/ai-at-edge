@@ -1,0 +1,55 @@
+{% if include.id %}
+  {% assign feature_row_1 = page[include.id] %}
+{% else %}
+  {% assign feature_row_1 = page.feature_row_1 %}
+{% endif %}
+
+{%- if feature_row_1.title > '' -%}
+<h2 class="feature__title">{{feature_row_1.title}}</h2>
+{%- endif  %}
+
+<div class="{{ feature_row_1.class | default: 'feature__outer_wrapper' }}">
+<div class="carousel">
+
+  {% for f in feature_row_1.content %}
+  {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+ <div >
+  <div  class="archive__item">
+   <div class="archive__item-teaser-2">
+     <a href="{{ f_url }}" class="btn {{ f.btn_class }}">
+         
+            <img src=
+              {% if f.image_path contains "://" %}
+                "{{ f.image_path }}"
+              {% else %}
+                "{{ f.image_path | relative_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          
+          </a>
+           {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+     </div>
+     <div class="archive__item-body c_archive">
+          {% if f.title %}
+            <h3 class="archive__item-title">{{ f.title }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+    </div>
+   
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
+</div>
