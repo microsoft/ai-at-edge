@@ -36,6 +36,7 @@ general_links:
       excerpt: "Ready to go? Get started with concrete examples that provide you an example of running AI model in a device"
       url: "/docs/hw_examples/"
       
+      
 solutions_links:
   title: Learn more
   content:
@@ -75,9 +76,9 @@ partner_links:
       url: "/docs/telcos/"
 ---
 
-{% include feature_row_1 id="general_links" %}
-{% include feature_row_1 id="solutions_links" %}
+{% include feature_row_c id="general_links" %}
+{% include feature_row_c id="solutions_links" %}
 <!-- <div class="bgimg"> -->
-{% include feature_row_1 id="partner_links" %}
+{% include feature_row_c id="partner_links" %}
 <!-- </div> -->
 
