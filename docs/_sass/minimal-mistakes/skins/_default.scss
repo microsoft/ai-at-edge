@@ -85,7 +85,7 @@ td
 .page__hero--overlay {
     z-index: 2;
     transition: transform 3s;
-
+    font-size: 15px !important;
     @media (max-width: 1440px) {
         margin: 0px 24px;
     }
