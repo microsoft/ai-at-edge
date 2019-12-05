@@ -50,7 +50,7 @@ projects:
     - image_path: /assets/images/PM_all.png
       alt: "See all example projects"
       title: "See all example projects"
-      excerpt: "See full example project list involved multiple devices and solution areas"
+      excerpt: "See full example project list involving multiple different devices and solution areas"
       url: "/docs/hw_examples/"
 
 
