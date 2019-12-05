@@ -47,6 +47,12 @@ projects:
       title: "Create Intelligent Alarm"
       excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
       url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/"
+    - image_path: /assets/images/PM_all.png
+      alt: "See all example projects"
+      title: "See all example projects"
+      excerpt: "See full example project list involved multiple devices and solution areas"
+      url: "/docs/hw_examples/"
+
 
 visionatedge_links:
   class: "light-gray"
