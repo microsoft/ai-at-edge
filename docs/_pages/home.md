@@ -22,27 +22,27 @@ projects:
       title: "Inference up to 8 video streams!"
       excerpt: Turn your installed RSTP cameras into sensors with NVIDIA® DeepStream and Jetson Nano™
       url: "/docs/jetson_deepstream/"
-    - image_path: /assets/images/PM_workplace.png
+    - image_path: /assets/images/PM_workplace.PNG
       alt: "Use vision AI in workplace safety"
       title: "Use vision AI in workplace safety"
       excerpt: "Get started with Vision AI Developer Kit and workplace safety"
       url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/"
-    - image_path: /assets/images/PM_rpi_cluster.png
+    - image_path: /assets/images/PM_rpi_cluster.PNG
       alt: "Build a intelligent edge cluster"
       title: "Build a Kubernetes cluster"
       excerpt: "Build a Kubernetes cluster using Raspberry Pi"
       url: "/docs/rpi_kubernetes/"
-    - image_path: /assets/images/PM_openvino.png
+    - image_path: /assets/images/PM_openvino.PNG
       alt: "Use ONNX and Open Vino"
       title: "Use ONNX and Open Vino"
       excerpt: "Start a solution building with Intel® powered developer kits"
       url: "/docs/onnx_openvino/"
-    - image_path: /assets/images/PM_retail.png
+    - image_path: /assets/images/PM_retail.PNG
       alt: "Detect empty shelves in retail"
       title: "Detect empty shelves in retail"
       excerpt: "Build a void detection solution using Databox Edge"
       url: "/docs/databox/"
-    - image_path: /assets/images/PM_alarm.png
+    - image_path: /assets/images/PM_alarm.PNG
       alt: "Create Intelligent Alarm"
       title: "Create Intelligent Alarm"
       excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
