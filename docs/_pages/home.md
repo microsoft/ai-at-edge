@@ -13,7 +13,41 @@ header:
 title: Welcome to the AI@Edge community pages!
 excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
- 
+
+projects:
+  title: Get started with example projects
+  content:
+    - image_path: assets/images/PM_deepstream.png
+      alt: "Inference up to 8 video streams!"
+      title: "Inference up to 8 video streams!"
+      excerpt: Turn your installed RSTP cameras into sensors with NVIDIA® DeepStream and Jetson Nano™
+      url: "/docs/jetson_deepstream/"
+    - image_path: /assets/images/PM_workplace.png
+      alt: "Use vision AI in workplace safety"
+      title: "Use vision AI in workplace safety"
+      excerpt: "Get started with Vision AI Developer Kit and workplace safety"
+      url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/"
+    - image_path: /assets/images/PM_rpi_cluster.png
+      alt: "Build a intelligent edge cluster"
+      title: "Build a Kubernetes cluster"
+      excerpt: "Build a Kubernetes cluster using Raspberry Pi"
+      url: "/docs/rpi_kubernetes/"
+    - image_path: /assets/images/PM_openvino.png
+      alt: "Use ONNX and Open Vino"
+      title: "Use ONNX and Open Vino"
+      excerpt: "Start a solution building with Intel® powered developer kits"
+      url: "/docs/onnx_openvino/"
+    - image_path: /assets/images/PM_retail.png
+      alt: "Detect empty shelves in retail"
+      title: "Detect empty shelves in retail"
+      excerpt: "Build a void detection solution using Databox Edge"
+      url: "/docs/databox/"
+    - image_path: /assets/images/PM_alarm.png
+      alt: "Create Intelligent Alarm"
+      title: "Create Intelligent Alarm"
+      excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
+      url: "/docs/databox/"
+
 visionatedge_links:
   class: "light-gray"
 
@@ -76,6 +110,7 @@ partner_links:
       url: "/docs/telcos/"
 ---
 
+{% include feature_row_c id="projects" %}
 {% include feature_row_c id="general_links" %}
 {% include feature_row_c id="solutions_links" %}
 <!-- <div class="bgimg"> -->
