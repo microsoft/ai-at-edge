@@ -220,8 +220,8 @@ td
 {
    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;}
    max-width: 100% !important;
-   margin-left: 100px !important;
-   margin-right: 100px !important;
+//    margin-left: 100px !important;
+//    margin-right: 100px !important;
 }
 
 .page__content
@@ -315,9 +315,23 @@ td
 }
 
 // Carosule control CSS starts here 
+@media only screen and (min-width: 900px){
+    .carousel{
+        width: 1280px;
+    }
+    }
+    @media only screen and (max-width: 1024px){
+        .carousel{
+            width: 768px;
+        }
+        }
+@media only screen and (max-width: 400px){
 .carousel{
-    width: 1280px;
+    width: 375px;
 }
+}
+
+   
 
 .slick-prev:before,
 .slick-next:before

@@ -111,9 +111,9 @@ partner_links:
 ---
 
 {% include feature_row_c id="projects" %}
-{% include feature_row_c id="general_links" %}
-{% include feature_row_c id="solutions_links" %}
+{% include feature_row_1 id="general_links" %}
+{% include feature_row_1 id="solutions_links" %}
 <!-- <div class="bgimg"> -->
-{% include feature_row_c id="partner_links" %}
+{% include feature_row_1 id="partner_links" %}
 <!-- </div> -->
 
