@@ -28,9 +28,9 @@ projects:
       excerpt: "Get started with Vision AI Developer Kit and workplace safety"
       url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/"
     - image_path: /assets/images/PM_rpi_cluster.PNG
-      alt: "Build a intelligent edge cluster"
-      title: "Build a Kubernetes cluster"
-      excerpt: "Build a Kubernetes cluster using Raspberry Pi"
+      alt: "Build an intelligent edge cluster"
+      title: "Build an 'intelligent edge' cluster"
+      excerpt: "Build a intelligent edge cluster using Kubernetes and Raspberry Pi"
       url: "/docs/rpi_kubernetes/"
     - image_path: /assets/images/PM_openvino.PNG
       alt: "Use ONNX and Open Vino"
@@ -46,7 +46,13 @@ projects:
       alt: "Create Intelligent Alarm"
       title: "Create Intelligent Alarm"
       excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
-      url: "/docs/databox/"
+      url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/"
+    - image_path: /assets/images/PM_all.png
+      alt: "See all example projects"
+      title: "See all example projects"
+      excerpt: "See full example project list involving multiple different devices and solution areas"
+      url: "/docs/hw_examples/"
+
 
 visionatedge_links:
   class: "light-gray"
