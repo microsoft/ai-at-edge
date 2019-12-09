@@ -17,6 +17,11 @@ excerpt:
 projects:
   title: Get started with example projects
   content:
+    - image_path: assets/images/PM_sweater.png
+      alt: "Ugly sweater Christmas project"
+      title: "Ugly sweater Christmas project"
+      excerpt: Christmas project - build ugly sweater with Twitter controlled leds
+      url: "/docs/uglysweater/"
     - image_path: assets/images/PM_deepstream.png
       alt: "Inference up to 8 video streams!"
       title: "Inference up to 8 video streams!"

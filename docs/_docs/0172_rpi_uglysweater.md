@@ -1,7 +1,7 @@
 ---
-title: "Control leds in your ugly sweater using Twitter!"
+title: "Control LEDs in your ugly sweater using Twitter!"
 permalink: /docs/uglysweater/
-excerpt: "Control leds in your ugly sweater using Twitter!"
+excerpt: "Control LEDs in your ugly sweater using Twitter!"
 variable:
   - platform: windows
     name: Windows
@@ -10,7 +10,7 @@ variable:
 last_modified_at: 2019-12-09
 ---
 
-## Christmas project - ugly sweater with Twitter controlled leds
+## Christmas project - ugly sweater with Twitter controlled LEDs
 
 <html><table><tr bgcolor="#c51a4a"><td colspan="2"><font color="white"><b>
 <a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></b></font>
