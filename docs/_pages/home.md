@@ -20,7 +20,7 @@ projects:
     - image_path: assets/images/PM_sweater.png
       alt: "Ugly Christmas sweater project"
       title: "Ugly Christmas sweater project"
-      excerpt: Christmas project - build ugly sweater with Raspberry Pi and Twitter controlled leds
+      excerpt: Christmas project - build ugly sweater with Raspberry Pi and Twitter controlled LEDs
       url: "/docs/uglysweater/"
     - image_path: assets/images/PM_deepstream.png
       alt: "Inference up to 8 video streams!"
