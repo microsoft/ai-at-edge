@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-09-16
+last_modified_at: 2019-12-09
 ---
 
 ### Azure IoT and Intelligent Edge
@@ -28,6 +28,10 @@ Read more about [Azure IoT services](https://azure.microsoft.com/en-us/overview/
 The term **cold path** is used for processing data that has been aggregated and stored, as opposed to data that is streaming into the system in real time.
 
 Lear more about [data insights](https://discover.microsoft.com/azure-iot-building-solutions-dev-guide/insights/){:target="_blank"} and available solution options for both hot and cold path data processing.
+
+### Stay up to date with Azure's development
+
+Access [Azure updates](https://azure.microsoft.com/en-us/updates/){:target="_blank"} and see all teh latest Azure announcements
 
 ### Reference architectures
 
