@@ -90,11 +90,11 @@ solutions_links:
       title: "What is AI@Edge?"
       excerpt: "See how a device taking advantage of AI@Edge differs from a traditional IoT device"
       url: "/docs/aiatedge/"
-    - image_path: assets/images/newpost11.png
-      alt: "Choosing a hardware topology"
-      title: "Choosing a hardware topology"
-      excerpt: "Get an overview of the different hardware topologies supported by Microsoft AI@Edge solutions"
-      url: "/docs/terminology/"
+    - image_path: assets/images/MAIN_onnx.PNG
+      alt: "Get started with ONNX"
+      title: "Get started with ONNX"
+      excerpt: "ONNX is an open format to represent both deep learning and traditional models. ONNX helps to solve the challenge of hardware dependency related to AI models and enables deploying same AI models to several HW accelerated targets"
+      url: "/docs/ONNX/"
     - image_path: assets/images/Newpost2.png
       alt: "Operate and maintain an AI@Edge solution"
       title: "Operate and maintain an AI@Edge solution"
