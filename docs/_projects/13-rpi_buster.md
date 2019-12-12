@@ -1,8 +1,8 @@
 ---
-title: Azure IoT Edge on Raspberry Pi Buster
+title: Azure IoT Edge on Raspian Buster
 permalink: /docs/projects/rpi_buster
 redirect_to: /docs/rpi_buster
-excerpt: Azure IoT Edge on Raspberry Pi Buster
+excerpt: Azure IoT Edge on Raspian Buster
 header:
   overlay_image: 
   overlay_full: true

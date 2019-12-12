@@ -21,7 +21,7 @@ The Raspberry Pi is a low cost, credit-card sized computer that plugs into a com
 <img src="{{'assets/images/raspberry_pi.PNG' | relative_url}}" alt="Raspberry Pi">
 </td></tr>
 <tr bgcolor="#c51a4a"><td colspan="2"><font color="white"><b>
-Solution example - learn how to enable Azure IoT Edge on Raspberry Pi Buster
+Solution example - learn how to enable Azure IoT Edge on Raspian Buster using Raspberry Pi 
 </b></font></td></tr>
 <tr><td>
 Raspberry Pi 4 brings so many new possibilities to building very capable edge devices for either prototyping or production solutions.  Here are some tips and ricks to getting the most out of your new Raspberry Pi 4, be it installing Azure IoT Edge on Raspbian Buster, booting from USB3 for more edge IO intensive applications, or active cooling solutions to keep your Raspberry Pi performing at its best.
