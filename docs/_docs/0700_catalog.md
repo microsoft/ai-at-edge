@@ -1,5 +1,5 @@
 ---
-title: "Find more services from catalog"
+title: "Intelligent Edge Resource Center"
 permalink: /docs/catalog/
 author_profile: false
 variable:
