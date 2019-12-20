@@ -9,5 +9,5 @@ header:
   teaser: /assets/images/c_iotedge.png
 
 last_modified_at: 2019-12-12
-tags: ["catalog","azure"]
+tags: ["catalog","azure","edge"]
 ---

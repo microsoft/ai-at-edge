@@ -7,12 +7,12 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-12-13
+last_modified_at: 2019-12-16
 ---
 
 ### Service catalog
 
-Learn more about a variety of Azure services by browsing through a service catalog
+Learn more about a variety of intelligent edge resourcess by browsing through a service catalog. There are example implementation linked to the services that have small icons presented with them.
 
 {% assign pageTag = "catalog" %}
 
