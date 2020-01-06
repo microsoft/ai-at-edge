@@ -54,7 +54,7 @@ This solution example provides step by step instructions for enabling <a href="h
 <a href="https://github.com/Azure-Samples/onnxruntime-iot-edge" target="_blank">Deployment with ONNX Runtime with Azure IoT Edge</a> 
 </td></tr>
 <tr><td colspan="2">
-<a href="https://github.com/intel/Edge-Analytics-FaaS/tree/R1_2019/Azure-IoT-Edge/OnnxRuntimemd" target="_blank">Edge Analytics FaaS with OpenVINO™ and ONNX with docker containers</a> 
+<a href="https://github.com/intel/Edge-Analytics-FaaS/tree/R1_2019/Azure-IoT-Edge/OnnxRuntime" target="_blank">Edge Analytics FaaS with OpenVINO™ and ONNX with docker containers</a> 
 </td></tr>
 <tr><td><b>
 ONNX with UP Squared solution diagram</b>
