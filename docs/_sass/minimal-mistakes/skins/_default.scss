@@ -319,19 +319,25 @@ td
     .carousel{
         width: 1280px;
     }
+    .hero_bg .wrapper{
+        max-width: 1280px;
+    }
     }
     @media only screen and (max-width: 1024px){
         .carousel{
             width: 768px;
         }
         }
-@media only screen and (max-width: 400px){
+@media only screen and (min-width: 400px){
 .carousel{
     width: 375px;
 }
+.hero_bg{
+    min-height: 545px !important;
+}
 }
 
-   
+
 
 .slick-prev:before,
 .slick-next:before
@@ -345,4 +351,30 @@ td
     padding-left: 30px !important;
     padding-right: 20px !important;
 
+}
+
+.hero_bg{
+    font-size: 15px !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 2em;
+    padding: 3em 0;
+    min-height: 345px !important;
+}
+
+.hero_bg .wrapper {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.hero_bg .page__title{
+    font-size: 2.441em;
+}
+
+.hero_bg .page__title,
+.hero_bg .page__lead 
+{
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }

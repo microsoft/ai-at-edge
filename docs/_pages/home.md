@@ -3,16 +3,31 @@ layout: splash
 permalink: /
 title:
 header:
+  Content:
+    - image_Path: /assets/images/MAIN_overlay.PNG
+      title: Welcome to the AI@Edge community pages!
+      excerpt: Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence              (AI) and Microsoft Azure services.
+      overlay_color: "white"
+      actions:
+        - label: "Learn more"
+          url: "/docs/aiatedge/"
+
+    # - image_Path: /assets/images/MAIN_overlay.PNG
+    #   title: Welcome to the RohitAsthana@Edge community pages!
+    #   excerpt: I am different slide excerpt in slide2
+    #   overlay_color: "white"
+    #   actions:
+    #     - label: "Learn more"
+    #       url: "/docs/aiatedge/"
+    #     - label: "Help us improve -  number slide 2"
+    #       url: "https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzgFhy4pKddImQwUh-d_NZZUMTAzNFJTUDY0M1g4QjROSDFCWlQ4TlJVMS4u"
+    
   overlay_color: "white"
   overlay_image: /assets/images/MAIN_overlay.PNG
-  actions:
-    - label: "Learn more"
-      url: "/docs/aiatedge/"
-    - label: "Help us improve - take a Vision AI survey!"
-      url: "https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzgFhy4pKddImQwUh-d_NZZUMTAzNFJTUDY0M1g4QjROSDFCWlQ4TlJVMS4u"
-title: Welcome to the AI@Edge community pages!
-excerpt:
-  Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
+  
+
+
+  
 
 projects:
   title: Get started with example projects
