@@ -24,7 +24,7 @@ Azure IoT Edge Certification program started in June 2018 and there is currently
 -	Details guidelines can be found [here](https://github.com/Azure/azure-iot-device-ecosystem/blob/master/iotcertification/iotedge/iotedge_getstarted.md){:target="_blank"}
 
 ### Note
--	Partners needs to send the device to Microsoft to validate the product truth to ensure that the Edge runtime components (Edge security manager specifically){:target="_blank"} are pre-installed. On physical device, we are testing the product truth with the actual hardware
+-	Partners needs to send the device to Microsoft to validate the product truth to ensure that the Edge runtime components (Edge security manager specifically) are pre-installed. On physical device, we are testing the product truth with the actual hardware
 
 If OEMs have any questions, feel free to direct them to the email alias below:
 Azure Certified for IoT [iotcert@microsoft.com](mailto:iotcert@microsoft.com)

@@ -32,6 +32,8 @@ This will culminate with an Intelligent Edge Hands-On-Lab that will walk through
 </td></tr>
 <tr><td colspan="2">
 Access GitHub to <a href="http://aka.ms/IntelligentEdgeHOL" target="_blank">get started</a> 
+</td></tr><tr><td>
+<iframe src="https://channel9.msdn.com/Shows/Internet-of-Things-Show/The-Intelligent-Edge-by-Microsoft/player" width="480" height="270" allowFullScreen frameBorder="0" title="The Intelligent Edge by Microsoft - Microsoft Channel 9 Video"></iframe>
 </td></tr>
 <tr><td>
 <img src="{{'/assets/images/jetson_tsi.jpg' | relative_url}}" alt="Person recognition example"><br>
