@@ -338,7 +338,7 @@ td
 }
 
 
-
+//css for carousel control
 .slick-prev:before,
 .slick-next:before
 {
@@ -353,6 +353,7 @@ td
 
 }
 
+// css for custom carousel hero image
 .hero_bg{
     font-size: 15px !important;
     background-size: cover;
@@ -378,3 +379,20 @@ td
     color: #fff;
     text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }
+
+// fix  Bug 24364766: Fit everything belonging to a project representation within the drawn frame
+.grid__item .archive__item {
+    box-shadow: inset 0 0 0px black !important;
+}
+.grid__item {
+    
+    box-shadow: inset 0 0 1px black !important;
+}
+
+.archive__item-metadata{
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+/*----------------------------------------------------------------------------------------------------*/
+
+
