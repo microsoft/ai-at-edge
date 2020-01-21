@@ -9,10 +9,10 @@ variable:
     name: macOS
 last_modified_at: 2019-09-02
 ---
-
-## Audio based anomaly detection with Vision AI Developer Kit
-
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+[<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
+<html>
+<br>
+<table><tr bgcolor="#68adc4"><td colspan="2"><b>
 <a href="https://www.visionaidevkit.com" target="_blank">Vision AI Developer Kit</a></b>
 <tr><td>
 Allthough Vision AI Developer Kit is by definition a smart camera it comes with 2 microphones and is able to run AI models for audio with its CPU 

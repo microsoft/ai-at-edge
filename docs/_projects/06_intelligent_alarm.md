@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Alarm"
 permalink: /docs/projects/alarm/
-redirect_to: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06
+redirect_to: /docs/intelligent_alarm/
 excerpt: "See who is visiting your home by implementating an intelligent alarm using Vision Ai Developer Kit"
 header:
   overlay_image: /assets/PROJECT_intelligent_alarm.jpg

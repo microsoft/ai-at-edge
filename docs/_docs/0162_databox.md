@@ -9,10 +9,11 @@ variable:
     name: macOS
 last_modified_at: 2019-10-20
 ---
+[<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 
-## Azure Databox Edge
-
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+<html>
+<br>
+<table><tr bgcolor="#68adc4"><td colspan="2"><b>
 <a href="https://azure.microsoft.com/en-us/services/databox/edge/" target="_blank">Azure Databox Edge</a></b>
 <tr><td>
 Azure Databox is an example of a smart gateway solution that brings together the edge functions you need: compute, preprocessing, machine learning, and data transfer. It is most suitable for solutions where there is a need to handle inputs from several different sensors and process data either for fast insights and actions or to refine and limit the size of the data set that eventually gets sent to the cloud. 

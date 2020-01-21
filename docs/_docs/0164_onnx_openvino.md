@@ -10,9 +10,11 @@ variable:
 last_modified_at: 2019-11-05
 ---
 
-## Run ONNX models with OpenVINO™ in Intel® powered hardware
+[<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+<html>
+<br>
+<table><tr bgcolor="#68adc4"><td colspan="2"><b>
 Intel® powered developer kits for ONNX and Azure IoT
 <tr><td colspan="2">
 <b>Get good, better or best</b> Intel® powered developer kits come with multiple CPU choices - Atom™, Core™ and Xeon™. You can select to use the one that best fits your use case

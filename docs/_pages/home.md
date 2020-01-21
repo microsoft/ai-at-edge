@@ -29,7 +29,7 @@ projects:
       alt: "Use vision AI in workplace safety"
       title: "Use vision AI in workplace safety"
       excerpt: "Get started with Vision AI Developer Kit and workplace safety"
-      url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/"
+      url: "/docs/workplace_safety/"
     - image_path: /assets/images/PM_rpi_cluster.PNG
       alt: "Build an intelligent edge cluster"
       title: "Build an 'intelligent edge' cluster"
@@ -49,7 +49,7 @@ projects:
       alt: "Create Intelligent Alarm"
       title: "Create Intelligent Alarm"
       excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
-      url: "https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/"
+      url: "/docs/intelligent_alarm/"
     - image_path: /assets/images/PM_all.png
       alt: "See all example projects"
       title: "See all example projects"

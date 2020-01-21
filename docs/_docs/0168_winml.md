@@ -9,10 +9,11 @@ variable:
     name: macOS
 last_modified_at: 2019-11-25
 ---
+[<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 
-## Deploy an ONNX model to Windows device 
-
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+<html>
+<br>
+<table><tr bgcolor="#68adc4"><td colspan="2"><b>
 WinML and ONNX on Windows IoT Core</b>
 <tr><td>
 <a href="https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core" target="_blank">Windows 10 IoT Core</a> is a version of Windows 10 that is optimized for smaller devices with or without a display that run on both ARM and x86/x64 devices.<br>

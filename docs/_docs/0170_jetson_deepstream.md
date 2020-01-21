@@ -9,10 +9,11 @@ variable:
     name: macOS
 last_modified_at: 2019-11-05
 ---
+[<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 
-## Computer vision at the Edge with NVIDIA® Deepstream and Azure IoT Edge
-
-<html><table><tr bgcolor="#68adc4"><td colspan="2"><b>
+<html>
+<br>
+<table><tr bgcolor="#68adc4"><td colspan="2"><b>
 <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/" target="_blank">NVIDIA® Jetson Nano™</a></b>
 <tr><td>
 NVIDIA® Jetson Nano™ Developer Kit is a small, powerful computer that lets you run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing. All in an easy-to-use platform that runs in as little as 5 watts. It opens new worlds of embedded IoT applications, including entry-level Network Video Recorders (NVRs), home robots, and intelligent gateways with full analytics capabilities. 
