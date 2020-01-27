@@ -30,7 +30,7 @@ Read more about [Hardware acceleration]({{ '/docs/hw_acceleration/' | relative_u
 
 ### Hardware considerations for IoT Edge Runtime
 
-In addition to selecting and developing hardware with AI acceleration in mind, you should also take into account the system requirements to support the IoT Edge Runtime which will enable cloud connectivity and management for the device.  As a best practice we recommend running your application in a container so you should ensure the hardware supports a container engine.  For detailed information on system requirements and containers with IoT Edge runtime, see the documentation for [Platform Support](https://docs.microsoft.com/en-us/azure/iot-edge/support){:target="_blank"}
+In addition to selecting and developing hardware with AI acceleration in mind, you should also take into account the system requirements to support the [IoT Edge Runtime](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge){:target="_blank"} which will enable cloud connectivity and management for the device.  As a best practice we recommend running your application in a container so you should ensure the hardware supports a container engine.  For detailed information on system requirements and containers with IoT Edge runtime, see the documentation for [Platform Support](https://docs.microsoft.com/en-us/azure/iot-edge/support){:target="_blank"}
 
 ### Enable ONNX
 
