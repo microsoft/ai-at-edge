@@ -1,6 +1,6 @@
 ---
 title: "Enable audio and train an audio ML model"
-permalink: /docs/vaidk_audio/
+permalink: /docs/water_level/
 excerpt: "Enable audio and train an audio ML model"
 variable:
   - platform: windows
@@ -15,22 +15,10 @@ last_modified_at: 2019-09-4
 ---
 [<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 <html>
-<br><br>
 <table><tr><td><b>Summary</b></td></tr>
 <tr><td>
 This project uniquely utilizes the Vision AI Developer Kit to aid in training a Neural Network based on features extracted from audio files. In this sample use case, the water level of a fountain can be determined by using audio classification through a machine learning model based on the sound produced by water splashing into a larger volume of different depths. This demonstrates both how audio can be used in some cases as a cheaper alternative to vision with 360° field coverage that is still possible using the DevKit and how to train a model using the Azure Machine Learning Service.  <br> </td></tr>
 </table></html>
-<!-- 
-<video width="640" height="480" controls>
-  <source src="videos/vaidk-audio-github walkthrough.mp4" type="video/mp4">
-Your browser does not support this video tag.
-</video>
-
-<!-- <video width="640" height="480" controls>
-  <source src="videos/videoaisolutionwalkthrough.mp4" type="video/mp4">
-Your browser does not support this video tag.
-</video> --> 
-
 <html><table>
 <tr><td>
 <b> Implementation </b> </td></tr>
@@ -95,27 +83,6 @@ He can be followed at: <a href="https://kevinsaye.wordpress.com/" target="_blank
 You can also learn more about what Kevin is working on <a href="https://github.com/ksaye/" target="_blank">here</a>.
 </td>
 </table></html>
-
-<!-- <div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project03#;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = community_project_03; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://https-azure-github-io-vision-ai-devkit-pages.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                             -->
+<iframe src="https://channel9.msdn.com/Shows/Internet-of-Things-Show/Use-Audio-on-the-Vision-AI-DevKit/player" width="960" height="540" allowFullScreen frameBorder="0" title="Use Audio on the Vision AI DevKit - Microsoft Channel 9 Video"></iframe>
 
 
