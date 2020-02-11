@@ -7,7 +7,7 @@ variable:
     name: Windows
   - platform: macos
     name: macOS
-last_modified_at: 2019-09-16
+last_modified_at: 2019-09-30
 ---
 
 ## Traditional IoT architecture
