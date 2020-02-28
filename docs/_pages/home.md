@@ -92,7 +92,7 @@ solutions_links:
       alt: "Get started with ONNX"
       title: "Get started with ONNX"
       excerpt: "ONNX is an open format to represent both deep learning and traditional models. ONNX helps to solve the challenge of hardware dependency related to AI models and enables deploying same AI models to several HW accelerated targets"
-      url: "/docs/ONNX/"
+      url: "/docs/onnx/"
     - image_path: assets/images/Newpost2.png
       alt: "Operate and maintain an AI@Edge solution"
       title: "Operate and maintain an AI@Edge solution"
