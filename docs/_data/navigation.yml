@@ -120,5 +120,9 @@ docs:
       - title: "Stay up to date with latest news"
         url: /docs/news/
         
+
+  - title: "Intelligent Edge Resource Center"
+    url: /docs/catalog/
+
   # - title: Find Partners
   #   url: /docs/matchmake/      
