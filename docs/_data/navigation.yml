@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "What's new?"
+  - title: "What's New?"
     url: /docs/news/
     target: _self
   - title: "Events"
@@ -18,13 +18,15 @@ main:
     
 # documentation links
 docs:
-  - title: AI@Edge
+  - title: Edge Devices
     url: /docs/aiatedge/
     children:
       - title: Understand HW terminology
         url: /docs/terminology/
       - title: End-2-end HW topology examples
         url: /docs/hw_topology_examples/
+      - title: HW Acceleration
+        url: /docs/hw_acceleration/
       # - title: Learn about HW architecture solution options
       #   url: /docs/capabilities/
 
@@ -56,6 +58,8 @@ docs:
             url: /docs/rpi_kubernetes/
           - title: "Run ONNX and WinML on Windows"
             url: /docs/winml/
+          - title: "Manage via Azure IoT Central"
+            url: /docs/vaidk_iot_central/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
@@ -73,8 +77,7 @@ docs:
             url: /docs/certify/    
       - title: Find devices
         url: /docs/hardwarelist/
-      - title: HW Acceleration
-        url: /docs/hw_acceleration/
+
 
   - title: "Build an AI model"
     url: /docs/ai/
@@ -119,7 +122,14 @@ docs:
   ##    url: /docs/signup/
       - title: "Stay up to date with latest news"
         url: /docs/news/
-        
+
+  - title: "Partner Showcase"
+    url: /docs/partnershowcase/
+    children:
+      - title: "Qualcomm"
+        url: /docs/qualcomm/
+      - title: "NXP"
+        url: /docs/NXP/
 
   - title: "Intelligent Edge Resource Center"
     url: /docs/catalog/
