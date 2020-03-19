@@ -18,7 +18,7 @@ main:
     
 # documentation links
 docs:
-  - title: Edge Devices
+  - title: AI@Edge
     url: /docs/aiatedge/
     children:
       - title: Understand HW terminology
@@ -122,14 +122,6 @@ docs:
   ##    url: /docs/signup/
       - title: "Stay up to date with latest news"
         url: /docs/news/
-
-  - title: "Partner Showcase"
-    url: /docs/partnershowcase/
-    children:
-      - title: "Qualcomm"
-        url: /docs/qualcomm/
-      - title: "NXP"
-        url: /docs/NXP/
 
   - title: "Intelligent Edge Resource Center"
     url: /docs/catalog/
