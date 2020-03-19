@@ -12,6 +12,6 @@ icons:
     target: https://www.visionaidevkit.com
     title: Vision AI Developer Kit
 difficulty: MEDIUM
-last_modified_at: 2019-03-04
+last_modified_at: 2020-03-18
 tags: ["vision, iot central"]
 ---
