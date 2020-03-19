@@ -1,8 +1,8 @@
 ---
-title: Manage Vision AI Dev Kit via Azure IoT Central
+title: Vision AI Dev Kit Provisioning via Azure IoT Central PnP Module
 permalink: /docs/projects/vaidk_iotcentral/
 redirect_to: /docs/vaidk_iot_central/
-excerpt: Learn how to connect and manage Vision AI Dev Kit with Azure IoT Central
+excerpt: Learn how to connect and manage Vision AI Dev Kit with Azure IoT Central PnP module
 header:
   overlay_image: 
   overlay_full: true
@@ -12,6 +12,6 @@ icons:
     target: https://www.visionaidevkit.com
     title: Vision AI Developer Kit
 difficulty: MEDIUM
-last_modified_at: 2020-03-18
+last_modified_at: 2020-03-19
 tags: ["vision, iot central"]
 ---

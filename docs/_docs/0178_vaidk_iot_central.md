@@ -1,7 +1,7 @@
 ---
-title: "Vision AI Dev provisioning with Azure IoT Central"
+title: "Vision AI Dev provisioning with Azure IoT Central PnP module"
 permalink: /docs/vaidk_iot_central/
-excerpt: "Vision AI Dev provisioning with Azure IoT Central"
+excerpt: "Vision AI Dev provisioning with Azure IoT Central PnP module"
 variable:
   - platform: windows
     name: Windows
@@ -11,14 +11,16 @@ comments:
   provider: "disqus"
   disqus: 
     shortname: https-azure-github-io-vision-ai-devkit-pages-docs-community-pr.disqus.com
-last_modified_at: 2020-03-18
+last_modified_at: 2020-03-19
 ---
 <br>
 [<-- Back to project listing]({{ '/docs/hw_examples/' | relative_url }})
 <html>
 <table><tr><td><b>Summary</b></td></tr>
 <tr><td>
-This project introduces a Vision AI module with a web client that allows the user to interact directly with the device to control it as well as experiment with Custom Vision AI models. It also demonstrates an implementation of a Vision AI DevKit device provisioning itself with Azure IoT Central services to enable the live reporting of telemetry, state, events, and settings with the ability to manually control the ML model. While it is a fully working sample with detailed instructions in the README, it is also meant to be a resource to help you build your own custom implementation.  <br> </td></tr>
+This project is an example implementation for the Microsoft Vision AI Dev Kit built to be an Azure IoT Central module. It includes a full implementation of how a device participates with the Azure IoT Central platform including telemetry, state, events, properties, and custom commands. You can even update your AI vision model from your IoT Central app.
+
+This project is implemented as a NodeJS micro service and React Web client. The web client allows the user to interact directly with the device to control it as well as experiment with Custom Vision AI models. A static version of the web client bundle is included in the ./client_dist folder.<br> </td></tr>
 </table></html>
 <html><table>
 <tr><td>
