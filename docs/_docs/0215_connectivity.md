@@ -44,7 +44,7 @@ Here we have a list of questions to start your journey to select the connectivit
 ## Summary table on Wireless IoT Technologies
 
 Here is a good starting point for comparing specifications of different technologies:
-[summmary table](https://microsoft.github.io/ai-at-edge/docs/connectivitytable/)
+[summary table](https://microsoft.github.io/ai-at-edge/docs/connectivitytable/)
 
 
 ## Security considerations
