@@ -6,7 +6,7 @@ excerpt: Detect any thing at any time using a Camera Serial Interface Infrared C
 header:
   overlay_image: 
   overlay_full: true
-  teaser: /assets/images/jetson_tsi.jpg
+  teaser: /assets/images/JetsonObjectDetectionPreview.png
 icons:
   - url: /assets/images/ICON_jetsonnano.PNG
     target: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/
