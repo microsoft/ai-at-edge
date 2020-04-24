@@ -139,7 +139,7 @@ In the table below are some devkits that we have worked with to enable easy conn
 | <b>5G</b> | Coming soon | |
 | <b>LTE-M and NB-IoT</b> | [Quectel BG95 cellular devkit](https://catalog.azureiotsolutions.com/details?title=Quectel-BG95&source=all-devices-page){:target="_blank"} | ![QuectelBG95]({{ '/assets/images/QuectelB95_thmb.png' | relative_url }}) |
 | <b>LTE-M and NB-IoT</b> | [Renesas AE Cloud Kit](https://www.renesas.com/us/en/products/synergy/hardware/kits/ae-cloud2.html#productInfo){:target="_blank"} | ![Renesaskit]({{ '/assets/images/Renesas LTE Cloud kit_thmb.png' | relative_url }}) |
-| <b>LTE-M and NB-IoT</b> | [LTE cellular to cloud Pack with STM32L496 ](https://www.st.com/en/evaluation-tools/p-l496g-cell02.html?ecmp=tt7639_gl_link_jul2018){:target="_blank"} | ![STM32L496]({{ '/assets/images/STM32L496_thmb.PNG' | relative_url }}) |
+| <b>LTE-M and NB-IoT</b> | [LTE cellular to cloud Pack with STM32L496 ](https://www.st.com/en/evaluation-tools/p-l496g-cell02.html?ecmp=tt7639_gl_link_jul2018){:target="_blank"} | ![STM32L496]({{ '/assets/images/STM32L496_thmb.png' | relative_url }}) |
 | <b>Wi-Fi</b>| [Azure IoT kit](https://microsoft.github.io/azure-iot-developer-kit/){:target="_blank"} | ![AzureIoTKit]({{ '/assets/images/Azure IoT devkit_thmb.png' | relative_url }}) |
 | <b>LTE-M and NB-IoT</b> | [Verizon LTE ST Micro kit ](https://www.avnet.com/shop/us/products/avnet-engineering-services/verizon-st-lte-kit-3074457345640094168?aka_re=2)| | |
 | <b>LoRaWAN</b> | [LoraWan kit](https://github.com/Azure/iotedge-lorawan-starterkit) | | |
