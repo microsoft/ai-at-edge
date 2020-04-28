@@ -18,7 +18,7 @@ main:
     
 # documentation links
 docs:
-  - title: AI@Edge
+  - title: Edge Devices
     url: /docs/aiatedge/
     children:
       - title: Understand HW terminology
@@ -58,26 +58,32 @@ docs:
             url: /docs/rpi_kubernetes/
           - title: "Run ONNX and WinML on Windows"
             url: /docs/winml/
-          - title: "Manage via Azure IoT Central"
+          - title: "Azure IoT Central PnP Provisioning"
             url: /docs/vaidk_iot_central/
+          - title: "Custom Object Detection with Jetson Nano"
+            url: /docs/jetson_object_detection/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
       #   url: "https://azure-iot-megamap.azurewebsites.net/dashboard"
 
-  - title: Build and find AI@Edge devices
-    url: /docs/hardware/
+  - title: Build Devices
+    url: /docs/buildhardware/
+    # url: /docs/hardware/
     children:
-      - title: Build devices
-        url: /docs/buildhardware/
-        children:
-          - title: "Choose Operating System"
-            url: /docs/os/
-          - title: "Device certification"
-            url: /docs/certify/    
-      - title: Find devices
-        url: /docs/hardwarelist/
+      - title: "Choose Operating System"
+        url: /docs/os/
+      - title: "Choose Connectivity"
+        url: /docs/connectivity/
+      - title: "Device certification"
+        url: /docs/certify/    
 
+  - title: Find Devices
+    url: /docs/hardwarelist/
+    # url: /docs/hardware/
+    children:
+      - title: "Azure Stack HCI Catalog"
+        url: https://www.microsoft.com/en-us/cloud-platform/azure-stack-hci-catalog      
 
   - title: "Build an AI model"
     url: /docs/ai/
