@@ -36,32 +36,36 @@ docs:
       - title: Device & solution examples
         url: /docs/hw_examples/
         children:
-          - title: Identify empty shelves with Azure Databox Edge
-            url: /docs/databox/
-          - title: Workplace safety with Vision AI Dev Kit
-            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project02/
+          - title: "Custom Object Detection with Jetson Nano"
+            url: /docs/jetson_object_detection/
+          - title: "Azure IoT Central PnP Provisioning"
+            url: /docs/vaidk_iot_central/
+          - title: "Azure IoT Edge on Raspian Buster"
+            url: /docs/rpi_buster
           - title: Run ONNX model with Jetson Nano
             url: /docs/jetsonnano/
+          - title: "Kubernetes Cluster on Raspberry Pi"
+            url: /docs/rpi_kubernetes/
           - title: Audio based anomaly detection
-            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project03/
-          - title: Intelligent Closed-Circuit TV
-            url: /docs/jetson_tsi/
+            url: /docs/water_level/
+          - title: "Run ONNX and WinML on Windows"
+            url: /docs/winml/
+          - title: Identify empty shelves with Azure Databox Edge
+            url: /docs/databox/
           - title: "Deepstream with Jetson Nano and Azure IoT Central"
             url: /docs/jetson_iot_central/
           - title: Intelligent Alarm
-            url: https://azure.github.io/Vision-AI-DevKit-Pages/docs/community_project06/
+            url: /docs/intelligent_alarm/
+          - title: Intelligent Closed-Circuit TV
+            url: /docs/jetson_tsi/
+          - title: Workplace safety with Vision AI Dev Kit
+            url: /docs/workplace_safety/
+          - title: Ugly Sweater with Raspberry Pi
+            url: /docs/uglysweater/
           - title: Run ONNX with OpenVINO™
             url: /docs/onnx_openvino/
           - title: "Turn your installed RSTP cameras into sensors"
             url: /docs/jetson_deepstream/
-          - title: "Kubernetes Cluster on Raspberry Pi"
-            url: /docs/rpi_kubernetes/
-          - title: "Run ONNX and WinML on Windows"
-            url: /docs/winml/
-          - title: "Azure IoT Central PnP Provisioning"
-            url: /docs/vaidk_iot_central/
-          - title: "Custom Object Detection with Jetson Nano"
-            url: /docs/jetson_object_detection/
       - title: Azure Marketplace
         url: /docs/marketplace/
       # - title: Azure IoT Demos
