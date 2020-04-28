@@ -7,7 +7,7 @@ author_profile: false
 
 ### Get started with community project examples
 
-Here is a list of product examples using a proven and tested combination of hardware and AI model. Most of the examples are stored in specific GitHub instances and contain the assets and instructions to get you started. You will need the hardware to go with the example.
+Here is a list of product examples using a proven and tested combination of hardware and AI model. Most of the examples are stored in specific GitHub instances (unless otherwise noted) and contain the assets and instructions to get you started. You will need the hardware to go with the example.
 
 {% assign pageTag = "vision" %}
 
