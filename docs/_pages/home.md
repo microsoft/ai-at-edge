@@ -13,7 +13,7 @@ excerpt:
   Find the resources you need to create solutions using intelligence at the edge through combinations of hardware, machine learning (ML), artificial intelligence (AI) and Microsoft Azure services.
 
 projects:
-  title: Get started with our latest projects!
+  title: Get started with our latest projects
   content:
     - image_path: /assets/images/JetsonObjectDetectionPreview.png
       alt: "Custom Object Detection with Jetson Nano"
