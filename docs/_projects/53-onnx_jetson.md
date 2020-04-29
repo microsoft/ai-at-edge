@@ -1,7 +1,7 @@
 ---
 title: Run ONNX on NVIDIA Jetson Nano
 permalink: /docs/projects/jetsonnano/
-redirect_to: /docs/jetsonnano
+redirect_to: /docs/jetsonnano/
 excerpt: Get started with ONNX framework and NVIDIA Jetson Nano
 header:
   overlay_image: 

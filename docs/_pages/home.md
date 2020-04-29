@@ -15,41 +15,41 @@ excerpt:
 projects:
   title: Get started with example projects
   content:
-    - image_path: assets/images/PM_sweater.png
-      alt: "Ugly Christmas sweater project"
-      title: "Ugly Christmas sweater project"
-      excerpt: Christmas project - build ugly sweater with Raspberry Pi and Twitter controlled LEDs
-      url: "/docs/uglysweater/"
-    - image_path: assets/images/PM_deepstream.png
-      alt: "Inference up to 8 video streams!"
-      title: "Inference up to 8 video streams!"
-      excerpt: Turn your installed RSTP cameras into sensors with NVIDIA® DeepStream and Jetson Nano™
-      url: "/docs/jetson_deepstream/"
-    - image_path: /assets/images/PM_workplace.PNG
-      alt: "Use vision AI in workplace safety"
-      title: "Use vision AI in workplace safety"
-      excerpt: "Get started with Vision AI Developer Kit and workplace safety"
-      url: "/docs/workplace_safety/"
-    - image_path: /assets/images/PM_rpi_cluster.PNG
-      alt: "Build an intelligent edge cluster"
-      title: "Build an 'intelligent edge' cluster"
-      excerpt: "Build a intelligent edge cluster using Kubernetes and Raspberry Pi"
-      url: "/docs/rpi_kubernetes/"
-    - image_path: /assets/images/PM_openvino.PNG
-      alt: "Use ONNX and Open Vino"
-      title: "Use ONNX and Open Vino"
-      excerpt: "Start a solution building with Intel® powered developer kits"
-      url: "/docs/onnx_openvino/"
-    - image_path: /assets/images/PM_retail.PNG
-      alt: "Detect empty shelves in retail"
-      title: "Detect empty shelves in retail"
-      excerpt: "Build a void detection solution using Databox Edge"
-      url: "/docs/databox/"
-    - image_path: /assets/images/PM_alarm.PNG
-      alt: "Create Intelligent Alarm"
-      title: "Create Intelligent Alarm"
-      excerpt: "Use Vision AI Developer Kit to create and intelligent Alarm"
-      url: "/docs/intelligent_alarm/"
+    - image_path: /assets/images/JetsonObjectDetectionPreview.png
+      alt: "Custom Object Detection with Jetson Nano"
+      title: "Custom Object Detection with Jetson Nano"
+      excerpt: Detect any thing at any time using a Camera Serial Interface Infrared Camera on an NVIDIA Jetson Nano with Azure IoT and Cognitive Services.
+      url: /docs/jetson_object_detection/
+    - image_path: /assets/images/projects-iot-central.jpg
+      alt: "Azure IoT Central PnP Provisioning"
+      title: "Azure IoT Central PnP Provisioning"
+      excerpt: Learn how to connect and manage Vision AI Dev Kit with Azure IoT Central PnP module
+      url: /docs/vaidk_iot_central/
+    - image_path: /assets/images/rpi_basic.jpg
+      alt: "Azure IoT Edge on Raspian Buster"
+      title: "Azure IoT Edge on Raspian Buster"
+      excerpt: Azure IoT Edge on Raspian Buster
+      url: /docs/rpi_buster
+    - image_path: /assets/images/ONNX_project.PNG
+      alt: "Run ONNX model with Jetson Nano"
+      title: "Run ONNX model with Jetson Nano"
+      excerpt: Get started with ONNX framework and NVIDIA Jetson Nano
+      url: /docs/jetsonnano/
+    - image_path: /assets/images/rpi-cluster.PNG
+      alt: "Kubernetes Cluster on Raspberry Pi"
+      title: "Kubernetes Cluster on Raspberry Pi"
+      excerpt: Build a Kubernetes "Intelligent Edge" Cluster on Raspberry Pi
+      url: /docs/rpi_kubernetes/
+    - image_path: /assets/images/WN_audio.PNG
+      alt: "Audio based anomaly detection"
+      title: "Audio based anomaly detection"
+      excerpt: Learn how to record audio samples and create an audio AI model
+      url: /docs/water_level/
+    - image_path: /assets/images/WinML.PNG
+      alt: "Run ONNX and WinML on Windows"
+      title: "Run ONNX and WinML on Windows"
+      excerpt: Run Windows ML inferencing in an Azure IoT Edge module running on Windows
+      url: /docs/winml/
     - image_path: /assets/images/PM_all.png
       alt: "See all example projects"
       title: "See all example projects"
@@ -64,7 +64,7 @@ general_links:
   title: I want to
   content:
     - image_path: assets/images/Newpost3.png
-      alt: "Find or build an AI@Edge Devic"
+      alt: "Find or build an AI@Edge Device"
       title: "Find or build an AI@Edge Device"
       excerpt: "Find existing hardware and developer kits, or use resources and best practices to  build intelligent edge capable hardware"
       url: "/docs/hardware/"

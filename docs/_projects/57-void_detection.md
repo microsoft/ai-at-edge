@@ -2,7 +2,7 @@
 title: Void detection in retail
 permalink: /docs/projects/databox/
 redirect_to: /docs/databox
-excerpt: "Recognize empty shelves in a store with Azure Databox Edge"
+excerpt: Recognize empty shelves in a store with Azure Databox Edge
 header:
   overlay_image: 
   overlay_full: true
