@@ -21,7 +21,7 @@ last_modified_at: 2019-08-21
 <tr><td>
 This project demonstrates the implementation of a Custom Vision ML model to the Vision AI DevKit to identify the presence of workplace safety equipment such as hardhats, vests, and safety glasses. As each object is detected, the information is stored and an alarm is triggered when a person that is not wearing the specified eqipment is detected in the frame.
 <br><br>
-Partnered with Purdue University and Rockwell Automation, this was also a featured project in a scientific journal - read the published article <a href="https://www.sciencedirect.com/science/article/pii/S2351978920310556">here</a>.  <br> </td></tr>
+Partnered with Purdue University and Rockwell Automation, this model was a featured project in a scientific journal - read the published article <a href="https://www.sciencedirect.com/science/article/pii/S2351978920310556">here</a>.  <br> </td></tr>
 </table></html>
 
 <img src="{{'assets/images/WorkplaceSafetyarch.jpg' | relative_url}}">
