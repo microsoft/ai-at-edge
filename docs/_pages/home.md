@@ -15,6 +15,11 @@ excerpt:
 projects:
   title: Get started with our latest projects
   content:
+    - image_path: /assets/images/PROJECT_workplace_safety.png
+      alt: "Partnering with Purdue"
+      title: "Partnering with Purdue"
+      excerpt: MS partners with Purdue University to publish a project on the Workplace Safety (PPE) model using the Vision AI Dev Kit and Custom Vision. Read the published article <a href="https://www.sciencedirect.com/science/article/pii/S2351978920310556">here</a>
+      url: /docs/workplace_safety/
     - image_path: /assets/images/JetsonObjectDetectionPreview.png
       alt: "Custom Object Detection with Jetson Nano"
       title: "Custom Object Detection with Jetson Nano"
