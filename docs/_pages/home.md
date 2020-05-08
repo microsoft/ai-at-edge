@@ -15,6 +15,11 @@ excerpt:
 projects:
   title: Get started with our latest projects
   content:
+    - image_path: /assets/images/MaskDetectionLogo.jpg
+      alt: "COVID-19 Mask Detection Model"
+      title: "COVID-19 Mask Detection Model"
+      excerpt: Train and deploy a model using Custom Vision to detect if a person is wearing the proper face protection for COVID-19. Find the project on GitHub <a href="https://github.com/retkowsky/MaskDetection">here</a>
+      url: https://github.com/retkowsky/MaskDetection
     - image_path: /assets/images/PROJECT_workplace_safety.png
       alt: "Partnering with Purdue"
       title: "Partnering with Purdue"
